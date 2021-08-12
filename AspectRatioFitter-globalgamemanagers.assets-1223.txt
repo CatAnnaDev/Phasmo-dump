@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AspectRatioFitter"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 207
+  0 UInt8 bytes[1] = 159
+  0 UInt8 bytes[2] = 92
+  0 UInt8 bytes[3] = 242
+  0 UInt8 bytes[4] = 195
+  0 UInt8 bytes[5] = 20
+  0 UInt8 bytes[6] = 90
+  0 UInt8 bytes[7] = 55
+  0 UInt8 bytes[8] = 172
+  0 UInt8 bytes[9] = 7
+  0 UInt8 bytes[10] = 240
+  0 UInt8 bytes[11] = 14
+  0 UInt8 bytes[12] = 80
+  0 UInt8 bytes[13] = 228
+  0 UInt8 bytes[14] = 96
+  0 UInt8 bytes[15] = 249
+ 1 string m_ClassName = "AspectRatioFitter"
+ 1 string m_Namespace = "UnityEngine.UI"
+ 1 string m_AssemblyName = "UnityEngine.UI.dll"

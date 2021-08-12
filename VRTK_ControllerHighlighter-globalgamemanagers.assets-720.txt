@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ControllerHighlighter"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 15
+  0 UInt8 bytes[1] = 69
+  0 UInt8 bytes[2] = 11
+  0 UInt8 bytes[3] = 10
+  0 UInt8 bytes[4] = 36
+  0 UInt8 bytes[5] = 191
+  0 UInt8 bytes[6] = 94
+  0 UInt8 bytes[7] = 111
+  0 UInt8 bytes[8] = 221
+  0 UInt8 bytes[9] = 158
+  0 UInt8 bytes[10] = 149
+  0 UInt8 bytes[11] = 154
+  0 UInt8 bytes[12] = 186
+  0 UInt8 bytes[13] = 173
+  0 UInt8 bytes[14] = 201
+  0 UInt8 bytes[15] = 73
+ 1 string m_ClassName = "VRTK_ControllerHighlighter"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

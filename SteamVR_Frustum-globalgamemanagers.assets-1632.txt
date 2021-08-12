@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SteamVR_Frustum"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 210
+  0 UInt8 bytes[1] = 135
+  0 UInt8 bytes[2] = 193
+  0 UInt8 bytes[3] = 133
+  0 UInt8 bytes[4] = 161
+  0 UInt8 bytes[5] = 25
+  0 UInt8 bytes[6] = 215
+  0 UInt8 bytes[7] = 159
+  0 UInt8 bytes[8] = 241
+  0 UInt8 bytes[9] = 232
+  0 UInt8 bytes[10] = 155
+  0 UInt8 bytes[11] = 138
+  0 UInt8 bytes[12] = 106
+  0 UInt8 bytes[13] = 42
+  0 UInt8 bytes[14] = 216
+  0 UInt8 bytes[15] = 170
+ 1 string m_ClassName = "SteamVR_Frustum"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

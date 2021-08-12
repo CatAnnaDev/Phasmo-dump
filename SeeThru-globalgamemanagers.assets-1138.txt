@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SeeThru"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 56
+  0 UInt8 bytes[1] = 63
+  0 UInt8 bytes[2] = 227
+  0 UInt8 bytes[3] = 98
+  0 UInt8 bytes[4] = 235
+  0 UInt8 bytes[5] = 144
+  0 UInt8 bytes[6] = 221
+  0 UInt8 bytes[7] = 97
+  0 UInt8 bytes[8] = 159
+  0 UInt8 bytes[9] = 109
+  0 UInt8 bytes[10] = 133
+  0 UInt8 bytes[11] = 63
+  0 UInt8 bytes[12] = 216
+  0 UInt8 bytes[13] = 54
+  0 UInt8 bytes[14] = 240
+  0 UInt8 bytes[15] = 216
+ 1 string m_ClassName = "SeeThru"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

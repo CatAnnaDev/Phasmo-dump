@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TwoHandedProp"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 205
+  0 UInt8 bytes[1] = 228
+  0 UInt8 bytes[2] = 91
+  0 UInt8 bytes[3] = 123
+  0 UInt8 bytes[4] = 162
+  0 UInt8 bytes[5] = 106
+  0 UInt8 bytes[6] = 218
+  0 UInt8 bytes[7] = 110
+  0 UInt8 bytes[8] = 222
+  0 UInt8 bytes[9] = 74
+  0 UInt8 bytes[10] = 152
+  0 UInt8 bytes[11] = 20
+  0 UInt8 bytes[12] = 167
+  0 UInt8 bytes[13] = 155
+  0 UInt8 bytes[14] = 100
+  0 UInt8 bytes[15] = 98
+ 1 string m_ClassName = "TwoHandedProp"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

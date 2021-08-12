@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MotionSensor"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 231
+  0 UInt8 bytes[1] = 94
+  0 UInt8 bytes[2] = 188
+  0 UInt8 bytes[3] = 250
+  0 UInt8 bytes[4] = 117
+  0 UInt8 bytes[5] = 100
+  0 UInt8 bytes[6] = 82
+  0 UInt8 bytes[7] = 105
+  0 UInt8 bytes[8] = 138
+  0 UInt8 bytes[9] = 106
+  0 UInt8 bytes[10] = 57
+  0 UInt8 bytes[11] = 47
+  0 UInt8 bytes[12] = 238
+  0 UInt8 bytes[13] = 251
+  0 UInt8 bytes[14] = 221
+  0 UInt8 bytes[15] = 228
+ 1 string m_ClassName = "MotionSensor"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

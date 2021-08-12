@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SetupPhaseController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 192
+  0 UInt8 bytes[1] = 196
+  0 UInt8 bytes[2] = 206
+  0 UInt8 bytes[3] = 201
+  0 UInt8 bytes[4] = 236
+  0 UInt8 bytes[5] = 234
+  0 UInt8 bytes[6] = 118
+  0 UInt8 bytes[7] = 207
+  0 UInt8 bytes[8] = 13
+  0 UInt8 bytes[9] = 97
+  0 UInt8 bytes[10] = 46
+  0 UInt8 bytes[11] = 25
+  0 UInt8 bytes[12] = 147
+  0 UInt8 bytes[13] = 183
+  0 UInt8 bytes[14] = 166
+  0 UInt8 bytes[15] = 49
+ 1 string m_ClassName = "SetupPhaseController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

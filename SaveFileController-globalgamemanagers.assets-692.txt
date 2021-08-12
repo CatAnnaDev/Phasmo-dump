@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SaveFileController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 130
+  0 UInt8 bytes[1] = 67
+  0 UInt8 bytes[2] = 152
+  0 UInt8 bytes[3] = 18
+  0 UInt8 bytes[4] = 76
+  0 UInt8 bytes[5] = 75
+  0 UInt8 bytes[6] = 64
+  0 UInt8 bytes[7] = 76
+  0 UInt8 bytes[8] = 0
+  0 UInt8 bytes[9] = 251
+  0 UInt8 bytes[10] = 247
+  0 UInt8 bytes[11] = 83
+  0 UInt8 bytes[12] = 101
+  0 UInt8 bytes[13] = 160
+  0 UInt8 bytes[14] = 100
+  0 UInt8 bytes[15] = 205
+ 1 string m_ClassName = "SaveFileController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

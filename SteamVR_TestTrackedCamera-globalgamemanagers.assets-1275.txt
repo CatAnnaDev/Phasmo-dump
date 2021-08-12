@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SteamVR_TestTrackedCamera"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 217
+  0 UInt8 bytes[1] = 76
+  0 UInt8 bytes[2] = 248
+  0 UInt8 bytes[3] = 242
+  0 UInt8 bytes[4] = 96
+  0 UInt8 bytes[5] = 216
+  0 UInt8 bytes[6] = 194
+  0 UInt8 bytes[7] = 213
+  0 UInt8 bytes[8] = 250
+  0 UInt8 bytes[9] = 225
+  0 UInt8 bytes[10] = 222
+  0 UInt8 bytes[11] = 95
+  0 UInt8 bytes[12] = 73
+  0 UInt8 bytes[13] = 131
+  0 UInt8 bytes[14] = 183
+  0 UInt8 bytes[15] = 48
+ 1 string m_ClassName = "SteamVR_TestTrackedCamera"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

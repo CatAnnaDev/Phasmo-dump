@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ChromaticAberration"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 97
+  0 UInt8 bytes[1] = 185
+  0 UInt8 bytes[2] = 217
+  0 UInt8 bytes[3] = 182
+  0 UInt8 bytes[4] = 244
+  0 UInt8 bytes[5] = 182
+  0 UInt8 bytes[6] = 162
+  0 UInt8 bytes[7] = 34
+  0 UInt8 bytes[8] = 223
+  0 UInt8 bytes[9] = 234
+  0 UInt8 bytes[10] = 139
+  0 UInt8 bytes[11] = 19
+  0 UInt8 bytes[12] = 27
+  0 UInt8 bytes[13] = 61
+  0 UInt8 bytes[14] = 50
+  0 UInt8 bytes[15] = 39
+ 1 string m_ClassName = "ChromaticAberration"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

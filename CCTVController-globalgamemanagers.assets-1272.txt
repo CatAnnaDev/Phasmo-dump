@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CCTVController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 43
+  0 UInt8 bytes[1] = 116
+  0 UInt8 bytes[2] = 141
+  0 UInt8 bytes[3] = 227
+  0 UInt8 bytes[4] = 53
+  0 UInt8 bytes[5] = 225
+  0 UInt8 bytes[6] = 155
+  0 UInt8 bytes[7] = 44
+  0 UInt8 bytes[8] = 71
+  0 UInt8 bytes[9] = 219
+  0 UInt8 bytes[10] = 134
+  0 UInt8 bytes[11] = 221
+  0 UInt8 bytes[12] = 232
+  0 UInt8 bytes[13] = 209
+  0 UInt8 bytes[14] = 190
+  0 UInt8 bytes[15] = 172
+ 1 string m_ClassName = "CCTVController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ColorCorrectionRamp"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 195
+  0 UInt8 bytes[2] = 52
+  0 UInt8 bytes[3] = 6
+  0 UInt8 bytes[4] = 253
+  0 UInt8 bytes[5] = 90
+  0 UInt8 bytes[6] = 68
+  0 UInt8 bytes[7] = 232
+  0 UInt8 bytes[8] = 155
+  0 UInt8 bytes[9] = 212
+  0 UInt8 bytes[10] = 127
+  0 UInt8 bytes[11] = 234
+  0 UInt8 bytes[12] = 59
+  0 UInt8 bytes[13] = 69
+  0 UInt8 bytes[14] = 2
+  0 UInt8 bytes[15] = 143
+ 1 string m_ClassName = "ColorCorrectionRamp"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

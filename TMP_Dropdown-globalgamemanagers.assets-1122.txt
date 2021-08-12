@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TMP_Dropdown"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 180
+  0 UInt8 bytes[1] = 252
+  0 UInt8 bytes[2] = 66
+  0 UInt8 bytes[3] = 176
+  0 UInt8 bytes[4] = 32
+  0 UInt8 bytes[5] = 223
+  0 UInt8 bytes[6] = 75
+  0 UInt8 bytes[7] = 103
+  0 UInt8 bytes[8] = 56
+  0 UInt8 bytes[9] = 94
+  0 UInt8 bytes[10] = 97
+  0 UInt8 bytes[11] = 255
+  0 UInt8 bytes[12] = 33
+  0 UInt8 bytes[13] = 213
+  0 UInt8 bytes[14] = 19
+  0 UInt8 bytes[15] = 204
+ 1 string m_ClassName = "TMP_Dropdown"
+ 1 string m_Namespace = "TMPro"
+ 1 string m_AssemblyName = "Unity.TextMeshPro.dll"

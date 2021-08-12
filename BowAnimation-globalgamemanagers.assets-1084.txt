@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BowAnimation"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 64
+  0 UInt8 bytes[1] = 234
+  0 UInt8 bytes[2] = 196
+  0 UInt8 bytes[3] = 43
+  0 UInt8 bytes[4] = 59
+  0 UInt8 bytes[5] = 104
+  0 UInt8 bytes[6] = 191
+  0 UInt8 bytes[7] = 159
+  0 UInt8 bytes[8] = 186
+  0 UInt8 bytes[9] = 218
+  0 UInt8 bytes[10] = 183
+  0 UInt8 bytes[11] = 202
+  0 UInt8 bytes[12] = 246
+  0 UInt8 bytes[13] = 104
+  0 UInt8 bytes[14] = 13
+  0 UInt8 bytes[15] = 96
+ 1 string m_ClassName = "BowAnimation"
+ 1 string m_Namespace = "VRTK.Examples.Archery"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

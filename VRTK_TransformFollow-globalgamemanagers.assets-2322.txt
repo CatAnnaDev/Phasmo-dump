@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_TransformFollow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 233
+  0 UInt8 bytes[1] = 155
+  0 UInt8 bytes[2] = 89
+  0 UInt8 bytes[3] = 211
+  0 UInt8 bytes[4] = 216
+  0 UInt8 bytes[5] = 118
+  0 UInt8 bytes[6] = 32
+  0 UInt8 bytes[7] = 32
+  0 UInt8 bytes[8] = 111
+  0 UInt8 bytes[9] = 239
+  0 UInt8 bytes[10] = 59
+  0 UInt8 bytes[11] = 144
+  0 UInt8 bytes[12] = 244
+  0 UInt8 bytes[13] = 26
+  0 UInt8 bytes[14] = 230
+  0 UInt8 bytes[15] = 156
+ 1 string m_ClassName = "VRTK_TransformFollow"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

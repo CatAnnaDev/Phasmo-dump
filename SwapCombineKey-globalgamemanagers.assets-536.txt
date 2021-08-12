@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SwapCombineKey"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 127
+  0 UInt8 bytes[1] = 1
+  0 UInt8 bytes[2] = 188
+  0 UInt8 bytes[3] = 121
+  0 UInt8 bytes[4] = 166
+  0 UInt8 bytes[5] = 80
+  0 UInt8 bytes[6] = 87
+  0 UInt8 bytes[7] = 5
+  0 UInt8 bytes[8] = 132
+  0 UInt8 bytes[9] = 109
+  0 UInt8 bytes[10] = 129
+  0 UInt8 bytes[11] = 40
+  0 UInt8 bytes[12] = 144
+  0 UInt8 bytes[13] = 52
+  0 UInt8 bytes[14] = 161
+  0 UInt8 bytes[15] = 175
+ 1 string m_ClassName = "SwapCombineKey"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

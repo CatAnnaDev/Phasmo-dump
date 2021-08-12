@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HapticSender"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 201
+  0 UInt8 bytes[1] = 78
+  0 UInt8 bytes[2] = 12
+  0 UInt8 bytes[3] = 215
+  0 UInt8 bytes[4] = 253
+  0 UInt8 bytes[5] = 71
+  0 UInt8 bytes[6] = 158
+  0 UInt8 bytes[7] = 32
+  0 UInt8 bytes[8] = 137
+  0 UInt8 bytes[9] = 166
+  0 UInt8 bytes[10] = 219
+  0 UInt8 bytes[11] = 168
+  0 UInt8 bytes[12] = 143
+  0 UInt8 bytes[13] = 2
+  0 UInt8 bytes[14] = 30
+  0 UInt8 bytes[15] = 122
+ 1 string m_ClassName = "HapticSender"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

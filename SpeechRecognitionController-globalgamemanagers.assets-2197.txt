@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SpeechRecognitionController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 136
+  0 UInt8 bytes[1] = 126
+  0 UInt8 bytes[2] = 19
+  0 UInt8 bytes[3] = 239
+  0 UInt8 bytes[4] = 85
+  0 UInt8 bytes[5] = 225
+  0 UInt8 bytes[6] = 84
+  0 UInt8 bytes[7] = 131
+  0 UInt8 bytes[8] = 108
+  0 UInt8 bytes[9] = 182
+  0 UInt8 bytes[10] = 109
+  0 UInt8 bytes[11] = 59
+  0 UInt8 bytes[12] = 51
+  0 UInt8 bytes[13] = 23
+  0 UInt8 bytes[14] = 238
+  0 UInt8 bytes[15] = 255
+ 1 string m_ClassName = "SpeechRecognitionController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

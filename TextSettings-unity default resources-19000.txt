@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TextSettings"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 45
+  0 UInt8 bytes[1] = 48
+  0 UInt8 bytes[2] = 32
+  0 UInt8 bytes[3] = 177
+  0 UInt8 bytes[4] = 75
+  0 UInt8 bytes[5] = 231
+  0 UInt8 bytes[6] = 27
+  0 UInt8 bytes[7] = 217
+  0 UInt8 bytes[8] = 218
+  0 UInt8 bytes[9] = 240
+  0 UInt8 bytes[10] = 24
+  0 UInt8 bytes[11] = 107
+  0 UInt8 bytes[12] = 163
+  0 UInt8 bytes[13] = 27
+  0 UInt8 bytes[14] = 150
+  0 UInt8 bytes[15] = 45
+ 1 string m_ClassName = "TextSettings"
+ 1 string m_Namespace = "UnityEngine.TextCore"
+ 1 string m_AssemblyName = "UnityEngine.TextCoreModule.dll"

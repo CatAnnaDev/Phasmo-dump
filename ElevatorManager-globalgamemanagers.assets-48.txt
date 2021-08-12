@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ElevatorManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 45
+  0 UInt8 bytes[1] = 216
+  0 UInt8 bytes[2] = 184
+  0 UInt8 bytes[3] = 16
+  0 UInt8 bytes[4] = 51
+  0 UInt8 bytes[5] = 245
+  0 UInt8 bytes[6] = 70
+  0 UInt8 bytes[7] = 58
+  0 UInt8 bytes[8] = 136
+  0 UInt8 bytes[9] = 135
+  0 UInt8 bytes[10] = 77
+  0 UInt8 bytes[11] = 44
+  0 UInt8 bytes[12] = 174
+  0 UInt8 bytes[13] = 31
+  0 UInt8 bytes[14] = 78
+  0 UInt8 bytes[15] = 201
+ 1 string m_ClassName = "ElevatorManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

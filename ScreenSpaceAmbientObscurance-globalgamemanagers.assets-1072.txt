@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ScreenSpaceAmbientObscurance"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 35
+  0 UInt8 bytes[1] = 15
+  0 UInt8 bytes[2] = 123
+  0 UInt8 bytes[3] = 80
+  0 UInt8 bytes[4] = 56
+  0 UInt8 bytes[5] = 244
+  0 UInt8 bytes[6] = 157
+  0 UInt8 bytes[7] = 69
+  0 UInt8 bytes[8] = 125
+  0 UInt8 bytes[9] = 188
+  0 UInt8 bytes[10] = 195
+  0 UInt8 bytes[11] = 196
+  0 UInt8 bytes[12] = 85
+  0 UInt8 bytes[13] = 199
+  0 UInt8 bytes[14] = 29
+  0 UInt8 bytes[15] = 154
+ 1 string m_ClassName = "ScreenSpaceAmbientObscurance"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

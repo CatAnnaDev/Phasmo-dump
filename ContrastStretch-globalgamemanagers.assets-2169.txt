@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ContrastStretch"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 165
+  0 UInt8 bytes[1] = 228
+  0 UInt8 bytes[2] = 65
+  0 UInt8 bytes[3] = 136
+  0 UInt8 bytes[4] = 204
+  0 UInt8 bytes[5] = 217
+  0 UInt8 bytes[6] = 131
+  0 UInt8 bytes[7] = 187
+  0 UInt8 bytes[8] = 34
+  0 UInt8 bytes[9] = 139
+  0 UInt8 bytes[10] = 116
+  0 UInt8 bytes[11] = 212
+  0 UInt8 bytes[12] = 183
+  0 UInt8 bytes[13] = 65
+  0 UInt8 bytes[14] = 158
+  0 UInt8 bytes[15] = 207
+ 1 string m_ClassName = "ContrastStretch"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

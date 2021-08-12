@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GhostController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 214
+  0 UInt8 bytes[1] = 94
+  0 UInt8 bytes[2] = 86
+  0 UInt8 bytes[3] = 97
+  0 UInt8 bytes[4] = 169
+  0 UInt8 bytes[5] = 107
+  0 UInt8 bytes[6] = 250
+  0 UInt8 bytes[7] = 90
+  0 UInt8 bytes[8] = 102
+  0 UInt8 bytes[9] = 208
+  0 UInt8 bytes[10] = 112
+  0 UInt8 bytes[11] = 138
+  0 UInt8 bytes[12] = 182
+  0 UInt8 bytes[13] = 117
+  0 UInt8 bytes[14] = 189
+  0 UInt8 bytes[15] = 68
+ 1 string m_ClassName = "GhostController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

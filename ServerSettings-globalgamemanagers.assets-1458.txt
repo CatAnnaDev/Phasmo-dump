@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ServerSettings"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 35
+  0 UInt8 bytes[1] = 217
+  0 UInt8 bytes[2] = 142
+  0 UInt8 bytes[3] = 252
+  0 UInt8 bytes[4] = 20
+  0 UInt8 bytes[5] = 91
+  0 UInt8 bytes[6] = 16
+  0 UInt8 bytes[7] = 129
+  0 UInt8 bytes[8] = 253
+  0 UInt8 bytes[9] = 236
+  0 UInt8 bytes[10] = 216
+  0 UInt8 bytes[11] = 243
+  0 UInt8 bytes[12] = 9
+  0 UInt8 bytes[13] = 219
+  0 UInt8 bytes[14] = 82
+  0 UInt8 bytes[15] = 31
+ 1 string m_ClassName = "ServerSettings"
+ 1 string m_Namespace = "Photon.Pun"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.dll"

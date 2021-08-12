@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "RewardManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 92
+  0 UInt8 bytes[1] = 80
+  0 UInt8 bytes[2] = 115
+  0 UInt8 bytes[3] = 47
+  0 UInt8 bytes[4] = 253
+  0 UInt8 bytes[5] = 195
+  0 UInt8 bytes[6] = 165
+  0 UInt8 bytes[7] = 193
+  0 UInt8 bytes[8] = 255
+  0 UInt8 bytes[9] = 188
+  0 UInt8 bytes[10] = 253
+  0 UInt8 bytes[11] = 225
+  0 UInt8 bytes[12] = 132
+  0 UInt8 bytes[13] = 239
+  0 UInt8 bytes[14] = 143
+  0 UInt8 bytes[15] = 68
+ 1 string m_ClassName = "RewardManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

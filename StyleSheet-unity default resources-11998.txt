@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "StyleSheet"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 189
+  0 UInt8 bytes[1] = 122
+  0 UInt8 bytes[2] = 85
+  0 UInt8 bytes[3] = 251
+  0 UInt8 bytes[4] = 209
+  0 UInt8 bytes[5] = 222
+  0 UInt8 bytes[6] = 255
+  0 UInt8 bytes[7] = 38
+  0 UInt8 bytes[8] = 250
+  0 UInt8 bytes[9] = 197
+  0 UInt8 bytes[10] = 187
+  0 UInt8 bytes[11] = 158
+  0 UInt8 bytes[12] = 64
+  0 UInt8 bytes[13] = 201
+  0 UInt8 bytes[14] = 96
+  0 UInt8 bytes[15] = 24
+ 1 string m_ClassName = "StyleSheet"
+ 1 string m_Namespace = "UnityEngine.UIElements"
+ 1 string m_AssemblyName = "UnityEngine.UIElementsModule.dll"

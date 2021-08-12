@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ES3DefaultSettings"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 179
+  0 UInt8 bytes[1] = 7
+  0 UInt8 bytes[2] = 252
+  0 UInt8 bytes[3] = 47
+  0 UInt8 bytes[4] = 194
+  0 UInt8 bytes[5] = 9
+  0 UInt8 bytes[6] = 58
+  0 UInt8 bytes[7] = 200
+  0 UInt8 bytes[8] = 27
+  0 UInt8 bytes[9] = 65
+  0 UInt8 bytes[10] = 143
+  0 UInt8 bytes[11] = 169
+  0 UInt8 bytes[12] = 47
+  0 UInt8 bytes[13] = 94
+  0 UInt8 bytes[14] = 227
+  0 UInt8 bytes[15] = 62
+ 1 string m_ClassName = "ES3DefaultSettings"
+ 1 string m_Namespace = "ES3Internal"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

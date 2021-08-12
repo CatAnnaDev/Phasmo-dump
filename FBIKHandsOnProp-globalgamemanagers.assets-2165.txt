@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FBIKHandsOnProp"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 145
+  0 UInt8 bytes[1] = 7
+  0 UInt8 bytes[2] = 217
+  0 UInt8 bytes[3] = 253
+  0 UInt8 bytes[4] = 158
+  0 UInt8 bytes[5] = 212
+  0 UInt8 bytes[6] = 146
+  0 UInt8 bytes[7] = 19
+  0 UInt8 bytes[8] = 117
+  0 UInt8 bytes[9] = 57
+  0 UInt8 bytes[10] = 130
+  0 UInt8 bytes[11] = 147
+  0 UInt8 bytes[12] = 157
+  0 UInt8 bytes[13] = 241
+  0 UInt8 bytes[14] = 55
+  0 UInt8 bytes[15] = 175
+ 1 string m_ClassName = "FBIKHandsOnProp"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

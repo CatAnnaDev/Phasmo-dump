@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LinearAnimation"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 19
+  0 UInt8 bytes[1] = 196
+  0 UInt8 bytes[2] = 14
+  0 UInt8 bytes[3] = 113
+  0 UInt8 bytes[4] = 180
+  0 UInt8 bytes[5] = 175
+  0 UInt8 bytes[6] = 102
+  0 UInt8 bytes[7] = 154
+  0 UInt8 bytes[8] = 211
+  0 UInt8 bytes[9] = 245
+  0 UInt8 bytes[10] = 110
+  0 UInt8 bytes[11] = 40
+  0 UInt8 bytes[12] = 19
+  0 UInt8 bytes[13] = 0
+  0 UInt8 bytes[14] = 230
+  0 UInt8 bytes[15] = 18
+ 1 string m_ClassName = "LinearAnimation"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

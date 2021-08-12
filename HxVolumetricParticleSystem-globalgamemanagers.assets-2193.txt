@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HxVolumetricParticleSystem"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 199
+  0 UInt8 bytes[1] = 32
+  0 UInt8 bytes[2] = 213
+  0 UInt8 bytes[3] = 100
+  0 UInt8 bytes[4] = 158
+  0 UInt8 bytes[5] = 219
+  0 UInt8 bytes[6] = 162
+  0 UInt8 bytes[7] = 135
+  0 UInt8 bytes[8] = 92
+  0 UInt8 bytes[9] = 171
+  0 UInt8 bytes[10] = 198
+  0 UInt8 bytes[11] = 252
+  0 UInt8 bytes[12] = 185
+  0 UInt8 bytes[13] = 171
+  0 UInt8 bytes[14] = 229
+  0 UInt8 bytes[15] = 52
+ 1 string m_ClassName = "HxVolumetricParticleSystem"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

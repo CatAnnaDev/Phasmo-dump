@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Balloon"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 82
+  0 UInt8 bytes[1] = 250
+  0 UInt8 bytes[2] = 107
+  0 UInt8 bytes[3] = 34
+  0 UInt8 bytes[4] = 217
+  0 UInt8 bytes[5] = 235
+  0 UInt8 bytes[6] = 243
+  0 UInt8 bytes[7] = 68
+  0 UInt8 bytes[8] = 211
+  0 UInt8 bytes[9] = 130
+  0 UInt8 bytes[10] = 208
+  0 UInt8 bytes[11] = 120
+  0 UInt8 bytes[12] = 215
+  0 UInt8 bytes[13] = 225
+  0 UInt8 bytes[14] = 164
+  0 UInt8 bytes[15] = 167
+ 1 string m_ClassName = "Balloon"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

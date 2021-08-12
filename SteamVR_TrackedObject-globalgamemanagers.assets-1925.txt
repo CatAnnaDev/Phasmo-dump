@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SteamVR_TrackedObject"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 142
+  0 UInt8 bytes[1] = 179
+  0 UInt8 bytes[2] = 165
+  0 UInt8 bytes[3] = 240
+  0 UInt8 bytes[4] = 183
+  0 UInt8 bytes[5] = 253
+  0 UInt8 bytes[6] = 144
+  0 UInt8 bytes[7] = 7
+  0 UInt8 bytes[8] = 66
+  0 UInt8 bytes[9] = 177
+  0 UInt8 bytes[10] = 110
+  0 UInt8 bytes[11] = 119
+  0 UInt8 bytes[12] = 118
+  0 UInt8 bytes[13] = 226
+  0 UInt8 bytes[14] = 39
+  0 UInt8 bytes[15] = 91
+ 1 string m_ClassName = "SteamVR_TrackedObject"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

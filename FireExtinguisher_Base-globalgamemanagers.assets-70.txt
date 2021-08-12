@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FireExtinguisher_Base"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 53
+  0 UInt8 bytes[1] = 65
+  0 UInt8 bytes[2] = 176
+  0 UInt8 bytes[3] = 218
+  0 UInt8 bytes[4] = 170
+  0 UInt8 bytes[5] = 1
+  0 UInt8 bytes[6] = 178
+  0 UInt8 bytes[7] = 134
+  0 UInt8 bytes[8] = 162
+  0 UInt8 bytes[9] = 30
+  0 UInt8 bytes[10] = 173
+  0 UInt8 bytes[11] = 174
+  0 UInt8 bytes[12] = 43
+  0 UInt8 bytes[13] = 5
+  0 UInt8 bytes[14] = 40
+  0 UInt8 bytes[15] = 142
+ 1 string m_ClassName = "FireExtinguisher_Base"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

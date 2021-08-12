@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SimpleBookCreator"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 159
+  0 UInt8 bytes[1] = 145
+  0 UInt8 bytes[2] = 131
+  0 UInt8 bytes[3] = 28
+  0 UInt8 bytes[4] = 253
+  0 UInt8 bytes[5] = 50
+  0 UInt8 bytes[6] = 191
+  0 UInt8 bytes[7] = 189
+  0 UInt8 bytes[8] = 90
+  0 UInt8 bytes[9] = 104
+  0 UInt8 bytes[10] = 222
+  0 UInt8 bytes[11] = 244
+  0 UInt8 bytes[12] = 64
+  0 UInt8 bytes[13] = 53
+  0 UInt8 bytes[14] = 154
+  0 UInt8 bytes[15] = 126
+ 1 string m_ClassName = "SimpleBookCreator"
+ 1 string m_Namespace = "TLGFPowerBooks"
+ 1 string m_AssemblyName = "PowerBooks.dll"

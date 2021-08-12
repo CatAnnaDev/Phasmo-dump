@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PostProcessProfile"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 56
+  0 UInt8 bytes[1] = 188
+  0 UInt8 bytes[2] = 180
+  0 UInt8 bytes[3] = 211
+  0 UInt8 bytes[4] = 249
+  0 UInt8 bytes[5] = 161
+  0 UInt8 bytes[6] = 129
+  0 UInt8 bytes[7] = 47
+  0 UInt8 bytes[8] = 214
+  0 UInt8 bytes[9] = 80
+  0 UInt8 bytes[10] = 249
+  0 UInt8 bytes[11] = 46
+  0 UInt8 bytes[12] = 135
+  0 UInt8 bytes[13] = 164
+  0 UInt8 bytes[14] = 207
+  0 UInt8 bytes[15] = 100
+ 1 string m_ClassName = "PostProcessProfile"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

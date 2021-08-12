@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DepthOfField"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 79
+  0 UInt8 bytes[1] = 29
+  0 UInt8 bytes[2] = 65
+  0 UInt8 bytes[3] = 129
+  0 UInt8 bytes[4] = 15
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 15
+  0 UInt8 bytes[7] = 208
+  0 UInt8 bytes[8] = 46
+  0 UInt8 bytes[9] = 17
+  0 UInt8 bytes[10] = 81
+  0 UInt8 bytes[11] = 22
+  0 UInt8 bytes[12] = 112
+  0 UInt8 bytes[13] = 83
+  0 UInt8 bytes[14] = 65
+  0 UInt8 bytes[15] = 204
+ 1 string m_ClassName = "DepthOfField"
+ 1 string m_Namespace = "UnityStandardAssets.CinematicEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

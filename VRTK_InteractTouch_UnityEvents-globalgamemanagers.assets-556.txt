@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_InteractTouch_UnityEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 9
+  0 UInt8 bytes[1] = 82
+  0 UInt8 bytes[2] = 14
+  0 UInt8 bytes[3] = 33
+  0 UInt8 bytes[4] = 158
+  0 UInt8 bytes[5] = 167
+  0 UInt8 bytes[6] = 217
+  0 UInt8 bytes[7] = 36
+  0 UInt8 bytes[8] = 121
+  0 UInt8 bytes[9] = 179
+  0 UInt8 bytes[10] = 215
+  0 UInt8 bytes[11] = 20
+  0 UInt8 bytes[12] = 91
+  0 UInt8 bytes[13] = 53
+  0 UInt8 bytes[14] = 232
+  0 UInt8 bytes[15] = 33
+ 1 string m_ClassName = "VRTK_InteractTouch_UnityEvents"
+ 1 string m_Namespace = "VRTK.UnityEventHelper"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

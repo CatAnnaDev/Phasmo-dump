@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Torch"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 61
+  0 UInt8 bytes[1] = 39
+  0 UInt8 bytes[2] = 179
+  0 UInt8 bytes[3] = 170
+  0 UInt8 bytes[4] = 240
+  0 UInt8 bytes[5] = 229
+  0 UInt8 bytes[6] = 231
+  0 UInt8 bytes[7] = 223
+  0 UInt8 bytes[8] = 212
+  0 UInt8 bytes[9] = 201
+  0 UInt8 bytes[10] = 106
+  0 UInt8 bytes[11] = 29
+  0 UInt8 bytes[12] = 164
+  0 UInt8 bytes[13] = 147
+  0 UInt8 bytes[14] = 36
+  0 UInt8 bytes[15] = 140
+ 1 string m_ClassName = "Torch"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

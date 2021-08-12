@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PCLook"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 210
+  0 UInt8 bytes[1] = 56
+  0 UInt8 bytes[2] = 124
+  0 UInt8 bytes[3] = 227
+  0 UInt8 bytes[4] = 87
+  0 UInt8 bytes[5] = 172
+  0 UInt8 bytes[6] = 219
+  0 UInt8 bytes[7] = 191
+  0 UInt8 bytes[8] = 34
+  0 UInt8 bytes[9] = 94
+  0 UInt8 bytes[10] = 41
+  0 UInt8 bytes[11] = 254
+  0 UInt8 bytes[12] = 87
+  0 UInt8 bytes[13] = 198
+  0 UInt8 bytes[14] = 51
+  0 UInt8 bytes[15] = 88
+ 1 string m_ClassName = "PCLook"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

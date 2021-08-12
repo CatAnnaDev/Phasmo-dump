@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ArcheryTarget"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 150
+  0 UInt8 bytes[1] = 218
+  0 UInt8 bytes[2] = 6
+  0 UInt8 bytes[3] = 141
+  0 UInt8 bytes[4] = 151
+  0 UInt8 bytes[5] = 76
+  0 UInt8 bytes[6] = 248
+  0 UInt8 bytes[7] = 172
+  0 UInt8 bytes[8] = 170
+  0 UInt8 bytes[9] = 159
+  0 UInt8 bytes[10] = 178
+  0 UInt8 bytes[11] = 241
+  0 UInt8 bytes[12] = 152
+  0 UInt8 bytes[13] = 134
+  0 UInt8 bytes[14] = 65
+  0 UInt8 bytes[15] = 57
+ 1 string m_ClassName = "ArcheryTarget"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

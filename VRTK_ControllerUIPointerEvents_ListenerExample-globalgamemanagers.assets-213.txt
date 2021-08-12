@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ControllerUIPointerEvents_ListenerExample"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 98
+  0 UInt8 bytes[1] = 153
+  0 UInt8 bytes[2] = 49
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 157
+  0 UInt8 bytes[5] = 100
+  0 UInt8 bytes[6] = 75
+  0 UInt8 bytes[7] = 171
+  0 UInt8 bytes[8] = 227
+  0 UInt8 bytes[9] = 33
+  0 UInt8 bytes[10] = 107
+  0 UInt8 bytes[11] = 17
+  0 UInt8 bytes[12] = 197
+  0 UInt8 bytes[13] = 124
+  0 UInt8 bytes[14] = 238
+  0 UInt8 bytes[15] = 133
+ 1 string m_ClassName = "VRTK_ControllerUIPointerEvents_ListenerExample"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

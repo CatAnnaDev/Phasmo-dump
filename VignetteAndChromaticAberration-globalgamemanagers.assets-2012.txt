@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VignetteAndChromaticAberration"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 178
+  0 UInt8 bytes[1] = 17
+  0 UInt8 bytes[2] = 144
+  0 UInt8 bytes[3] = 148
+  0 UInt8 bytes[4] = 176
+  0 UInt8 bytes[5] = 8
+  0 UInt8 bytes[6] = 55
+  0 UInt8 bytes[7] = 7
+  0 UInt8 bytes[8] = 160
+  0 UInt8 bytes[9] = 182
+  0 UInt8 bytes[10] = 255
+  0 UInt8 bytes[11] = 53
+  0 UInt8 bytes[12] = 109
+  0 UInt8 bytes[13] = 74
+  0 UInt8 bytes[14] = 31
+  0 UInt8 bytes[15] = 102
+ 1 string m_ClassName = "VignetteAndChromaticAberration"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

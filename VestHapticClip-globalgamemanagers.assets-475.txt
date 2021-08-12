@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VestHapticClip"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 217
+  0 UInt8 bytes[1] = 162
+  0 UInt8 bytes[2] = 164
+  0 UInt8 bytes[3] = 246
+  0 UInt8 bytes[4] = 158
+  0 UInt8 bytes[5] = 192
+  0 UInt8 bytes[6] = 0
+  0 UInt8 bytes[7] = 51
+  0 UInt8 bytes[8] = 79
+  0 UInt8 bytes[9] = 21
+  0 UInt8 bytes[10] = 124
+  0 UInt8 bytes[11] = 229
+  0 UInt8 bytes[12] = 133
+  0 UInt8 bytes[13] = 165
+  0 UInt8 bytes[14] = 132
+  0 UInt8 bytes[15] = 144
+ 1 string m_ClassName = "VestHapticClip"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

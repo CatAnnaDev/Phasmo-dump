@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ControlDirectionGrabAction"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 12
+  0 UInt8 bytes[1] = 130
+  0 UInt8 bytes[2] = 4
+  0 UInt8 bytes[3] = 97
+  0 UInt8 bytes[4] = 119
+  0 UInt8 bytes[5] = 149
+  0 UInt8 bytes[6] = 122
+  0 UInt8 bytes[7] = 188
+  0 UInt8 bytes[8] = 211
+  0 UInt8 bytes[9] = 99
+  0 UInt8 bytes[10] = 189
+  0 UInt8 bytes[11] = 246
+  0 UInt8 bytes[12] = 158
+  0 UInt8 bytes[13] = 254
+  0 UInt8 bytes[14] = 47
+  0 UInt8 bytes[15] = 245
+ 1 string m_ClassName = "VRTK_ControlDirectionGrabAction"
+ 1 string m_Namespace = "VRTK.SecondaryControllerGrabActions"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

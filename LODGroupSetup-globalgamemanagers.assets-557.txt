@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LODGroupSetup"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 33
+  0 UInt8 bytes[1] = 92
+  0 UInt8 bytes[2] = 199
+  0 UInt8 bytes[3] = 245
+  0 UInt8 bytes[4] = 200
+  0 UInt8 bytes[5] = 190
+  0 UInt8 bytes[6] = 104
+  0 UInt8 bytes[7] = 238
+  0 UInt8 bytes[8] = 255
+  0 UInt8 bytes[9] = 185
+  0 UInt8 bytes[10] = 133
+  0 UInt8 bytes[11] = 107
+  0 UInt8 bytes[12] = 79
+  0 UInt8 bytes[13] = 43
+  0 UInt8 bytes[14] = 26
+  0 UInt8 bytes[15] = 0
+ 1 string m_ClassName = "LODGroupSetup"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

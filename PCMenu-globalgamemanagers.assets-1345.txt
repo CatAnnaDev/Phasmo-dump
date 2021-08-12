@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PCMenu"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 189
+  0 UInt8 bytes[1] = 139
+  0 UInt8 bytes[2] = 200
+  0 UInt8 bytes[3] = 113
+  0 UInt8 bytes[4] = 189
+  0 UInt8 bytes[5] = 20
+  0 UInt8 bytes[6] = 173
+  0 UInt8 bytes[7] = 229
+  0 UInt8 bytes[8] = 133
+  0 UInt8 bytes[9] = 238
+  0 UInt8 bytes[10] = 64
+  0 UInt8 bytes[11] = 177
+  0 UInt8 bytes[12] = 11
+  0 UInt8 bytes[13] = 242
+  0 UInt8 bytes[14] = 198
+  0 UInt8 bytes[15] = 73
+ 1 string m_ClassName = "PCMenu"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

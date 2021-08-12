@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_SnapRotateObjectControlAction"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 213
+  0 UInt8 bytes[1] = 46
+  0 UInt8 bytes[2] = 154
+  0 UInt8 bytes[3] = 5
+  0 UInt8 bytes[4] = 233
+  0 UInt8 bytes[5] = 24
+  0 UInt8 bytes[6] = 58
+  0 UInt8 bytes[7] = 7
+  0 UInt8 bytes[8] = 158
+  0 UInt8 bytes[9] = 179
+  0 UInt8 bytes[10] = 227
+  0 UInt8 bytes[11] = 203
+  0 UInt8 bytes[12] = 121
+  0 UInt8 bytes[13] = 56
+  0 UInt8 bytes[14] = 247
+  0 UInt8 bytes[15] = 93
+ 1 string m_ClassName = "VRTK_SnapRotateObjectControlAction"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

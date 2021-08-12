@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DestroyOnTriggerEnter"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 55
+  0 UInt8 bytes[1] = 200
+  0 UInt8 bytes[2] = 147
+  0 UInt8 bytes[3] = 187
+  0 UInt8 bytes[4] = 240
+  0 UInt8 bytes[5] = 174
+  0 UInt8 bytes[6] = 193
+  0 UInt8 bytes[7] = 62
+  0 UInt8 bytes[8] = 45
+  0 UInt8 bytes[9] = 208
+  0 UInt8 bytes[10] = 241
+  0 UInt8 bytes[11] = 216
+  0 UInt8 bytes[12] = 139
+  0 UInt8 bytes[13] = 111
+  0 UInt8 bytes[14] = 255
+  0 UInt8 bytes[15] = 155
+ 1 string m_ClassName = "DestroyOnTriggerEnter"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

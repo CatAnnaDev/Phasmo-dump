@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRMovementSettings"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 239
+  0 UInt8 bytes[1] = 236
+  0 UInt8 bytes[2] = 216
+  0 UInt8 bytes[3] = 114
+  0 UInt8 bytes[4] = 235
+  0 UInt8 bytes[5] = 133
+  0 UInt8 bytes[6] = 162
+  0 UInt8 bytes[7] = 216
+  0 UInt8 bytes[8] = 83
+  0 UInt8 bytes[9] = 70
+  0 UInt8 bytes[10] = 161
+  0 UInt8 bytes[11] = 184
+  0 UInt8 bytes[12] = 137
+  0 UInt8 bytes[13] = 40
+  0 UInt8 bytes[14] = 250
+  0 UInt8 bytes[15] = 252
+ 1 string m_ClassName = "VRMovementSettings"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

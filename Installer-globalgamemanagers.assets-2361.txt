@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Installer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 205
+  0 UInt8 bytes[1] = 135
+  0 UInt8 bytes[2] = 146
+  0 UInt8 bytes[3] = 140
+  0 UInt8 bytes[4] = 83
+  0 UInt8 bytes[5] = 100
+  0 UInt8 bytes[6] = 159
+  0 UInt8 bytes[7] = 44
+  0 UInt8 bytes[8] = 52
+  0 UInt8 bytes[9] = 120
+  0 UInt8 bytes[10] = 41
+  0 UInt8 bytes[11] = 235
+  0 UInt8 bytes[12] = 210
+  0 UInt8 bytes[13] = 244
+  0 UInt8 bytes[14] = 237
+  0 UInt8 bytes[15] = 41
+ 1 string m_ClassName = "Installer"
+ 1 string m_Namespace = "VisualDesignCafe.Editor.PackageManager"
+ 1 string m_AssemblyName = "VisualDesignCafe.Editor.PackageManager.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "NavMeshModifier"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 43
+  0 UInt8 bytes[1] = 25
+  0 UInt8 bytes[2] = 190
+  0 UInt8 bytes[3] = 19
+  0 UInt8 bytes[4] = 240
+  0 UInt8 bytes[5] = 13
+  0 UInt8 bytes[6] = 246
+  0 UInt8 bytes[7] = 46
+  0 UInt8 bytes[8] = 109
+  0 UInt8 bytes[9] = 77
+  0 UInt8 bytes[10] = 79
+  0 UInt8 bytes[11] = 85
+  0 UInt8 bytes[12] = 57
+  0 UInt8 bytes[13] = 188
+  0 UInt8 bytes[14] = 173
+  0 UInt8 bytes[15] = 81
+ 1 string m_ClassName = "NavMeshModifier"
+ 1 string m_Namespace = "UnityEngine.AI"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

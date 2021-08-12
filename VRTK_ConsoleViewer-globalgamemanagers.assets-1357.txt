@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ConsoleViewer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 217
+  0 UInt8 bytes[1] = 226
+  0 UInt8 bytes[2] = 40
+  0 UInt8 bytes[3] = 147
+  0 UInt8 bytes[4] = 76
+  0 UInt8 bytes[5] = 105
+  0 UInt8 bytes[6] = 89
+  0 UInt8 bytes[7] = 194
+  0 UInt8 bytes[8] = 39
+  0 UInt8 bytes[9] = 16
+  0 UInt8 bytes[10] = 86
+  0 UInt8 bytes[11] = 132
+  0 UInt8 bytes[12] = 206
+  0 UInt8 bytes[13] = 56
+  0 UInt8 bytes[14] = 167
+  0 UInt8 bytes[15] = 92
+ 1 string m_ClassName = "VRTK_ConsoleViewer"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonRigidbody2DView"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 9
+  0 UInt8 bytes[1] = 39
+  0 UInt8 bytes[2] = 228
+  0 UInt8 bytes[3] = 27
+  0 UInt8 bytes[4] = 70
+  0 UInt8 bytes[5] = 225
+  0 UInt8 bytes[6] = 189
+  0 UInt8 bytes[7] = 17
+  0 UInt8 bytes[8] = 103
+  0 UInt8 bytes[9] = 31
+  0 UInt8 bytes[10] = 155
+  0 UInt8 bytes[11] = 90
+  0 UInt8 bytes[12] = 221
+  0 UInt8 bytes[13] = 164
+  0 UInt8 bytes[14] = 184
+  0 UInt8 bytes[15] = 50
+ 1 string m_ClassName = "PhotonRigidbody2DView"
+ 1 string m_Namespace = "Photon.Pun"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.dll"

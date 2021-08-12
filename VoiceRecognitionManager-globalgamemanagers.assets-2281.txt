@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VoiceRecognitionManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 1
+  0 UInt8 bytes[1] = 15
+  0 UInt8 bytes[2] = 239
+  0 UInt8 bytes[3] = 124
+  0 UInt8 bytes[4] = 0
+  0 UInt8 bytes[5] = 164
+  0 UInt8 bytes[6] = 142
+  0 UInt8 bytes[7] = 196
+  0 UInt8 bytes[8] = 119
+  0 UInt8 bytes[9] = 141
+  0 UInt8 bytes[10] = 3
+  0 UInt8 bytes[11] = 102
+  0 UInt8 bytes[12] = 155
+  0 UInt8 bytes[13] = 189
+  0 UInt8 bytes[14] = 11
+  0 UInt8 bytes[15] = 173
+ 1 string m_ClassName = "VoiceRecognitionManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

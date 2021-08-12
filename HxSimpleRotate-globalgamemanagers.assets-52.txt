@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HxSimpleRotate"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 195
+  0 UInt8 bytes[1] = 252
+  0 UInt8 bytes[2] = 231
+  0 UInt8 bytes[3] = 224
+  0 UInt8 bytes[4] = 225
+  0 UInt8 bytes[5] = 37
+  0 UInt8 bytes[6] = 140
+  0 UInt8 bytes[7] = 168
+  0 UInt8 bytes[8] = 91
+  0 UInt8 bytes[9] = 90
+  0 UInt8 bytes[10] = 63
+  0 UInt8 bytes[11] = 250
+  0 UInt8 bytes[12] = 180
+  0 UInt8 bytes[13] = 40
+  0 UInt8 bytes[14] = 46
+  0 UInt8 bytes[15] = 183
+ 1 string m_ClassName = "HxSimpleRotate"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

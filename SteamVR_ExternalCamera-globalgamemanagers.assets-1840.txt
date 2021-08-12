@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SteamVR_ExternalCamera"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 6
+  0 UInt8 bytes[1] = 162
+  0 UInt8 bytes[2] = 214
+  0 UInt8 bytes[3] = 27
+  0 UInt8 bytes[4] = 233
+  0 UInt8 bytes[5] = 231
+  0 UInt8 bytes[6] = 39
+  0 UInt8 bytes[7] = 10
+  0 UInt8 bytes[8] = 82
+  0 UInt8 bytes[9] = 142
+  0 UInt8 bytes[10] = 195
+  0 UInt8 bytes[11] = 162
+  0 UInt8 bytes[12] = 93
+  0 UInt8 bytes[13] = 82
+  0 UInt8 bytes[14] = 228
+  0 UInt8 bytes[15] = 90
+ 1 string m_ClassName = "SteamVR_ExternalCamera"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

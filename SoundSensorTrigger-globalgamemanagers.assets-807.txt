@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SoundSensorTrigger"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 213
+  0 UInt8 bytes[1] = 13
+  0 UInt8 bytes[2] = 68
+  0 UInt8 bytes[3] = 178
+  0 UInt8 bytes[4] = 170
+  0 UInt8 bytes[5] = 236
+  0 UInt8 bytes[6] = 52
+  0 UInt8 bytes[7] = 151
+  0 UInt8 bytes[8] = 122
+  0 UInt8 bytes[9] = 249
+  0 UInt8 bytes[10] = 66
+  0 UInt8 bytes[11] = 184
+  0 UInt8 bytes[12] = 124
+  0 UInt8 bytes[13] = 50
+  0 UInt8 bytes[14] = 111
+  0 UInt8 bytes[15] = 169
+ 1 string m_ClassName = "SoundSensorTrigger"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

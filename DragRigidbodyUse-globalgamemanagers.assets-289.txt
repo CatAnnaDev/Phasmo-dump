@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DragRigidbodyUse"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 211
+  0 UInt8 bytes[1] = 9
+  0 UInt8 bytes[2] = 198
+  0 UInt8 bytes[3] = 28
+  0 UInt8 bytes[4] = 115
+  0 UInt8 bytes[5] = 215
+  0 UInt8 bytes[6] = 13
+  0 UInt8 bytes[7] = 79
+  0 UInt8 bytes[8] = 250
+  0 UInt8 bytes[9] = 78
+  0 UInt8 bytes[10] = 207
+  0 UInt8 bytes[11] = 194
+  0 UInt8 bytes[12] = 85
+  0 UInt8 bytes[13] = 242
+  0 UInt8 bytes[14] = 156
+  0 UInt8 bytes[15] = 48
+ 1 string m_ClassName = "DragRigidbodyUse"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsReflectExample"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 35
+  0 UInt8 bytes[1] = 183
+  0 UInt8 bytes[2] = 36
+  0 UInt8 bytes[3] = 188
+  0 UInt8 bytes[4] = 229
+  0 UInt8 bytes[5] = 213
+  0 UInt8 bytes[6] = 5
+  0 UInt8 bytes[7] = 114
+  0 UInt8 bytes[8] = 103
+  0 UInt8 bytes[9] = 194
+  0 UInt8 bytes[10] = 5
+  0 UInt8 bytes[11] = 141
+  0 UInt8 bytes[12] = 6
+  0 UInt8 bytes[13] = 56
+  0 UInt8 bytes[14] = 196
+  0 UInt8 bytes[15] = 81
+ 1 string m_ClassName = "BhapticsReflectExample"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

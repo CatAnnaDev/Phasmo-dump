@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TMP_SpriteAsset"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 253
+  0 UInt8 bytes[1] = 104
+  0 UInt8 bytes[2] = 216
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 51
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 216
+  0 UInt8 bytes[7] = 90
+  0 UInt8 bytes[8] = 172
+  0 UInt8 bytes[9] = 56
+  0 UInt8 bytes[10] = 242
+  0 UInt8 bytes[11] = 115
+  0 UInt8 bytes[12] = 156
+  0 UInt8 bytes[13] = 14
+  0 UInt8 bytes[14] = 226
+  0 UInt8 bytes[15] = 112
+ 1 string m_ClassName = "TMP_SpriteAsset"
+ 1 string m_Namespace = "TMPro"
+ 1 string m_AssemblyName = "Unity.TextMeshPro.dll"

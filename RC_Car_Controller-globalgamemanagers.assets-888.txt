@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "RC_Car_Controller"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 74
+  0 UInt8 bytes[1] = 22
+  0 UInt8 bytes[2] = 132
+  0 UInt8 bytes[3] = 205
+  0 UInt8 bytes[4] = 71
+  0 UInt8 bytes[5] = 38
+  0 UInt8 bytes[6] = 173
+  0 UInt8 bytes[7] = 118
+  0 UInt8 bytes[8] = 188
+  0 UInt8 bytes[9] = 138
+  0 UInt8 bytes[10] = 66
+  0 UInt8 bytes[11] = 93
+  0 UInt8 bytes[12] = 220
+  0 UInt8 bytes[13] = 248
+  0 UInt8 bytes[14] = 114
+  0 UInt8 bytes[15] = 174
+ 1 string m_ClassName = "RC_Car_Controller"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

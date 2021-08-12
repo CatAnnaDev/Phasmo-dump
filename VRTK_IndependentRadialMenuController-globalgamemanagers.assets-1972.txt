@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_IndependentRadialMenuController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 237
+  0 UInt8 bytes[1] = 148
+  0 UInt8 bytes[2] = 58
+  0 UInt8 bytes[3] = 122
+  0 UInt8 bytes[4] = 146
+  0 UInt8 bytes[5] = 178
+  0 UInt8 bytes[6] = 16
+  0 UInt8 bytes[7] = 178
+  0 UInt8 bytes[8] = 252
+  0 UInt8 bytes[9] = 171
+  0 UInt8 bytes[10] = 235
+  0 UInt8 bytes[11] = 230
+  0 UInt8 bytes[12] = 162
+  0 UInt8 bytes[13] = 83
+  0 UInt8 bytes[14] = 251
+  0 UInt8 bytes[15] = 124
+ 1 string m_ClassName = "VRTK_IndependentRadialMenuController"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TransferMotion"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 93
+  0 UInt8 bytes[1] = 185
+  0 UInt8 bytes[2] = 183
+  0 UInt8 bytes[3] = 255
+  0 UInt8 bytes[4] = 214
+  0 UInt8 bytes[5] = 121
+  0 UInt8 bytes[6] = 229
+  0 UInt8 bytes[7] = 234
+  0 UInt8 bytes[8] = 142
+  0 UInt8 bytes[9] = 0
+  0 UInt8 bytes[10] = 10
+  0 UInt8 bytes[11] = 128
+  0 UInt8 bytes[12] = 32
+  0 UInt8 bytes[13] = 108
+  0 UInt8 bytes[14] = 107
+  0 UInt8 bytes[15] = 1
+ 1 string m_ClassName = "TransferMotion"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

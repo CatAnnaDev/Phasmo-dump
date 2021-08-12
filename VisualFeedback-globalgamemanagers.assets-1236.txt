@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VisualFeedback"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 238
+  0 UInt8 bytes[1] = 126
+  0 UInt8 bytes[2] = 51
+  0 UInt8 bytes[3] = 85
+  0 UInt8 bytes[4] = 161
+  0 UInt8 bytes[5] = 182
+  0 UInt8 bytes[6] = 159
+  0 UInt8 bytes[7] = 64
+  0 UInt8 bytes[8] = 182
+  0 UInt8 bytes[9] = 93
+  0 UInt8 bytes[10] = 104
+  0 UInt8 bytes[11] = 126
+  0 UInt8 bytes[12] = 119
+  0 UInt8 bytes[13] = 238
+  0 UInt8 bytes[14] = 246
+  0 UInt8 bytes[15] = 35
+ 1 string m_ClassName = "VisualFeedback"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "EnumerableTestState"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 95
+  0 UInt8 bytes[1] = 23
+  0 UInt8 bytes[2] = 9
+  0 UInt8 bytes[3] = 66
+  0 UInt8 bytes[4] = 238
+  0 UInt8 bytes[5] = 87
+  0 UInt8 bytes[6] = 199
+  0 UInt8 bytes[7] = 165
+  0 UInt8 bytes[8] = 104
+  0 UInt8 bytes[9] = 245
+  0 UInt8 bytes[10] = 188
+  0 UInt8 bytes[11] = 252
+  0 UInt8 bytes[12] = 117
+  0 UInt8 bytes[13] = 33
+  0 UInt8 bytes[14] = 173
+  0 UInt8 bytes[15] = 234
+ 1 string m_ClassName = "EnumerableTestState"
+ 1 string m_Namespace = "UnityEngine.TestTools"
+ 1 string m_AssemblyName = "UnityEngine.TestRunner.dll"

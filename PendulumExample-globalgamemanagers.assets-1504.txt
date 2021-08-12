@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PendulumExample"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 75
+  0 UInt8 bytes[1] = 17
+  0 UInt8 bytes[2] = 154
+  0 UInt8 bytes[3] = 21
+  0 UInt8 bytes[4] = 228
+  0 UInt8 bytes[5] = 247
+  0 UInt8 bytes[6] = 35
+  0 UInt8 bytes[7] = 183
+  0 UInt8 bytes[8] = 50
+  0 UInt8 bytes[9] = 230
+  0 UInt8 bytes[10] = 114
+  0 UInt8 bytes[11] = 231
+  0 UInt8 bytes[12] = 249
+  0 UInt8 bytes[13] = 21
+  0 UInt8 bytes[14] = 134
+  0 UInt8 bytes[15] = 185
+ 1 string m_ClassName = "PendulumExample"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

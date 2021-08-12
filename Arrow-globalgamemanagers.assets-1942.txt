@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Arrow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 132
+  0 UInt8 bytes[1] = 163
+  0 UInt8 bytes[2] = 228
+  0 UInt8 bytes[3] = 224
+  0 UInt8 bytes[4] = 210
+  0 UInt8 bytes[5] = 86
+  0 UInt8 bytes[6] = 102
+  0 UInt8 bytes[7] = 192
+  0 UInt8 bytes[8] = 231
+  0 UInt8 bytes[9] = 52
+  0 UInt8 bytes[10] = 19
+  0 UInt8 bytes[11] = 174
+  0 UInt8 bytes[12] = 211
+  0 UInt8 bytes[13] = 169
+  0 UInt8 bytes[14] = 85
+  0 UInt8 bytes[15] = 46
+ 1 string m_ClassName = "Arrow"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

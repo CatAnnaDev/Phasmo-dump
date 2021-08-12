@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PBookAnimationEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 1
+  0 UInt8 bytes[1] = 229
+  0 UInt8 bytes[2] = 26
+  0 UInt8 bytes[3] = 130
+  0 UInt8 bytes[4] = 60
+  0 UInt8 bytes[5] = 98
+  0 UInt8 bytes[6] = 9
+  0 UInt8 bytes[7] = 167
+  0 UInt8 bytes[8] = 60
+  0 UInt8 bytes[9] = 117
+  0 UInt8 bytes[10] = 176
+  0 UInt8 bytes[11] = 168
+  0 UInt8 bytes[12] = 144
+  0 UInt8 bytes[13] = 227
+  0 UInt8 bytes[14] = 225
+  0 UInt8 bytes[15] = 15
+ 1 string m_ClassName = "PBookAnimationEvents"
+ 1 string m_Namespace = "TLGFPowerBooks"
+ 1 string m_AssemblyName = "PowerBooks.dll"

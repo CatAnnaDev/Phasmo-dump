@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TMP_SubMeshUI"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 17
+  0 UInt8 bytes[1] = 3
+  0 UInt8 bytes[2] = 251
+  0 UInt8 bytes[3] = 7
+  0 UInt8 bytes[4] = 88
+  0 UInt8 bytes[5] = 151
+  0 UInt8 bytes[6] = 99
+  0 UInt8 bytes[7] = 85
+  0 UInt8 bytes[8] = 205
+  0 UInt8 bytes[9] = 249
+  0 UInt8 bytes[10] = 183
+  0 UInt8 bytes[11] = 213
+  0 UInt8 bytes[12] = 206
+  0 UInt8 bytes[13] = 156
+  0 UInt8 bytes[14] = 183
+  0 UInt8 bytes[15] = 224
+ 1 string m_ClassName = "TMP_SubMeshUI"
+ 1 string m_Namespace = "TMPro"
+ 1 string m_AssemblyName = "Unity.TextMeshPro.dll"

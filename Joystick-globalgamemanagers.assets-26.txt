@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Joystick"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 182
+  0 UInt8 bytes[2] = 201
+  0 UInt8 bytes[3] = 25
+  0 UInt8 bytes[4] = 178
+  0 UInt8 bytes[5] = 4
+  0 UInt8 bytes[6] = 159
+  0 UInt8 bytes[7] = 204
+  0 UInt8 bytes[8] = 40
+  0 UInt8 bytes[9] = 8
+  0 UInt8 bytes[10] = 35
+  0 UInt8 bytes[11] = 72
+  0 UInt8 bytes[12] = 129
+  0 UInt8 bytes[13] = 68
+  0 UInt8 bytes[14] = 55
+  0 UInt8 bytes[15] = 31
+ 1 string m_ClassName = "Joystick"
+ 1 string m_Namespace = "UnityStandardAssets.CrossPlatformInput"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

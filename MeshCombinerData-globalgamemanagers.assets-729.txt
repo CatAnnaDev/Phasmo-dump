@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MeshCombinerData"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 122
+  0 UInt8 bytes[1] = 162
+  0 UInt8 bytes[2] = 16
+  0 UInt8 bytes[3] = 100
+  0 UInt8 bytes[4] = 126
+  0 UInt8 bytes[5] = 243
+  0 UInt8 bytes[6] = 242
+  0 UInt8 bytes[7] = 97
+  0 UInt8 bytes[8] = 87
+  0 UInt8 bytes[9] = 39
+  0 UInt8 bytes[10] = 7
+  0 UInt8 bytes[11] = 159
+  0 UInt8 bytes[12] = 234
+  0 UInt8 bytes[13] = 26
+  0 UInt8 bytes[14] = 44
+  0 UInt8 bytes[15] = 210
+ 1 string m_ClassName = "MeshCombinerData"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

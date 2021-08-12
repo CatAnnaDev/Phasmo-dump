@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_Door"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 27
+  0 UInt8 bytes[1] = 138
+  0 UInt8 bytes[2] = 126
+  0 UInt8 bytes[3] = 22
+  0 UInt8 bytes[4] = 216
+  0 UInt8 bytes[5] = 242
+  0 UInt8 bytes[6] = 100
+  0 UInt8 bytes[7] = 60
+  0 UInt8 bytes[8] = 90
+  0 UInt8 bytes[9] = 203
+  0 UInt8 bytes[10] = 169
+  0 UInt8 bytes[11] = 211
+  0 UInt8 bytes[12] = 20
+  0 UInt8 bytes[13] = 27
+  0 UInt8 bytes[14] = 254
+  0 UInt8 bytes[15] = 242
+ 1 string m_ClassName = "VRTK_Door"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

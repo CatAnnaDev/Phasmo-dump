@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AntiAliasing"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 3
+  0 UInt8 bytes[1] = 36
+  0 UInt8 bytes[2] = 37
+  0 UInt8 bytes[3] = 19
+  0 UInt8 bytes[4] = 27
+  0 UInt8 bytes[5] = 61
+  0 UInt8 bytes[6] = 104
+  0 UInt8 bytes[7] = 181
+  0 UInt8 bytes[8] = 210
+  0 UInt8 bytes[9] = 90
+  0 UInt8 bytes[10] = 109
+  0 UInt8 bytes[11] = 223
+  0 UInt8 bytes[12] = 113
+  0 UInt8 bytes[13] = 33
+  0 UInt8 bytes[14] = 222
+  0 UInt8 bytes[15] = 186
+ 1 string m_ClassName = "AntiAliasing"
+ 1 string m_Namespace = "UnityStandardAssets.CinematicEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

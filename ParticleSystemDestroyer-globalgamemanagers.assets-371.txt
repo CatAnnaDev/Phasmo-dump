@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ParticleSystemDestroyer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 219
+  0 UInt8 bytes[1] = 31
+  0 UInt8 bytes[2] = 32
+  0 UInt8 bytes[3] = 90
+  0 UInt8 bytes[4] = 140
+  0 UInt8 bytes[5] = 157
+  0 UInt8 bytes[6] = 174
+  0 UInt8 bytes[7] = 28
+  0 UInt8 bytes[8] = 57
+  0 UInt8 bytes[9] = 9
+  0 UInt8 bytes[10] = 140
+  0 UInt8 bytes[11] = 210
+  0 UInt8 bytes[12] = 63
+  0 UInt8 bytes[13] = 201
+  0 UInt8 bytes[14] = 127
+  0 UInt8 bytes[15] = 99
+ 1 string m_ClassName = "ParticleSystemDestroyer"
+ 1 string m_Namespace = "UnityStandardAssets.Utility"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

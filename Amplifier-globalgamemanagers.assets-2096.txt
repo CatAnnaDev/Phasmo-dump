@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Amplifier"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 14
+  0 UInt8 bytes[1] = 52
+  0 UInt8 bytes[2] = 2
+  0 UInt8 bytes[3] = 72
+  0 UInt8 bytes[4] = 19
+  0 UInt8 bytes[5] = 178
+  0 UInt8 bytes[6] = 152
+  0 UInt8 bytes[7] = 216
+  0 UInt8 bytes[8] = 164
+  0 UInt8 bytes[9] = 175
+  0 UInt8 bytes[10] = 226
+  0 UInt8 bytes[11] = 131
+  0 UInt8 bytes[12] = 229
+  0 UInt8 bytes[13] = 185
+  0 UInt8 bytes[14] = 238
+  0 UInt8 bytes[15] = 42
+ 1 string m_ClassName = "Amplifier"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

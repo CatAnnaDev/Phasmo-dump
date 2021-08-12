@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Tripod"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 180
+  0 UInt8 bytes[1] = 183
+  0 UInt8 bytes[2] = 17
+  0 UInt8 bytes[3] = 254
+  0 UInt8 bytes[4] = 61
+  0 UInt8 bytes[5] = 17
+  0 UInt8 bytes[6] = 244
+  0 UInt8 bytes[7] = 137
+  0 UInt8 bytes[8] = 97
+  0 UInt8 bytes[9] = 177
+  0 UInt8 bytes[10] = 107
+  0 UInt8 bytes[11] = 153
+  0 UInt8 bytes[12] = 4
+  0 UInt8 bytes[13] = 83
+  0 UInt8 bytes[14] = 109
+  0 UInt8 bytes[15] = 139
+ 1 string m_ClassName = "Tripod"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

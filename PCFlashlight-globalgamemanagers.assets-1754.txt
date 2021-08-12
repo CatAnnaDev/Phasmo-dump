@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PCFlashlight"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 75
+  0 UInt8 bytes[1] = 114
+  0 UInt8 bytes[2] = 136
+  0 UInt8 bytes[3] = 208
+  0 UInt8 bytes[4] = 119
+  0 UInt8 bytes[5] = 86
+  0 UInt8 bytes[6] = 86
+  0 UInt8 bytes[7] = 245
+  0 UInt8 bytes[8] = 178
+  0 UInt8 bytes[9] = 95
+  0 UInt8 bytes[10] = 90
+  0 UInt8 bytes[11] = 61
+  0 UInt8 bytes[12] = 1
+  0 UInt8 bytes[13] = 147
+  0 UInt8 bytes[14] = 69
+  0 UInt8 bytes[15] = 206
+ 1 string m_ClassName = "PCFlashlight"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

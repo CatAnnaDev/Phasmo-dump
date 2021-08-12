@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DepthOfField"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 245
+  0 UInt8 bytes[1] = 66
+  0 UInt8 bytes[2] = 193
+  0 UInt8 bytes[3] = 175
+  0 UInt8 bytes[4] = 202
+  0 UInt8 bytes[5] = 91
+  0 UInt8 bytes[6] = 180
+  0 UInt8 bytes[7] = 2
+  0 UInt8 bytes[8] = 47
+  0 UInt8 bytes[9] = 145
+  0 UInt8 bytes[10] = 253
+  0 UInt8 bytes[11] = 218
+  0 UInt8 bytes[12] = 25
+  0 UInt8 bytes[13] = 184
+  0 UInt8 bytes[14] = 214
+  0 UInt8 bytes[15] = 34
+ 1 string m_ClassName = "DepthOfField"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

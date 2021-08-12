@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "OtherManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 246
+  0 UInt8 bytes[1] = 179
+  0 UInt8 bytes[2] = 40
+  0 UInt8 bytes[3] = 241
+  0 UInt8 bytes[4] = 123
+  0 UInt8 bytes[5] = 136
+  0 UInt8 bytes[6] = 242
+  0 UInt8 bytes[7] = 159
+  0 UInt8 bytes[8] = 151
+  0 UInt8 bytes[9] = 133
+  0 UInt8 bytes[10] = 44
+  0 UInt8 bytes[11] = 52
+  0 UInt8 bytes[12] = 127
+  0 UInt8 bytes[13] = 214
+  0 UInt8 bytes[14] = 157
+  0 UInt8 bytes[15] = 157
+ 1 string m_ClassName = "OtherManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

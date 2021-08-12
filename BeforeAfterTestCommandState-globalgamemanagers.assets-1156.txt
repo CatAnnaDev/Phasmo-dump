@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BeforeAfterTestCommandState"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 142
+  0 UInt8 bytes[1] = 108
+  0 UInt8 bytes[2] = 234
+  0 UInt8 bytes[3] = 191
+  0 UInt8 bytes[4] = 211
+  0 UInt8 bytes[5] = 138
+  0 UInt8 bytes[6] = 24
+  0 UInt8 bytes[7] = 68
+  0 UInt8 bytes[8] = 19
+  0 UInt8 bytes[9] = 214
+  0 UInt8 bytes[10] = 155
+  0 UInt8 bytes[11] = 125
+  0 UInt8 bytes[12] = 181
+  0 UInt8 bytes[13] = 108
+  0 UInt8 bytes[14] = 137
+  0 UInt8 bytes[15] = 204
+ 1 string m_ClassName = "BeforeAfterTestCommandState"
+ 1 string m_Namespace = "UnityEngine.TestTools"
+ 1 string m_AssemblyName = "UnityEngine.TestRunner.dll"

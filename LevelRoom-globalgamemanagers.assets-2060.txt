@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LevelRoom"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 252
+  0 UInt8 bytes[1] = 213
+  0 UInt8 bytes[2] = 245
+  0 UInt8 bytes[3] = 58
+  0 UInt8 bytes[4] = 186
+  0 UInt8 bytes[5] = 241
+  0 UInt8 bytes[6] = 141
+  0 UInt8 bytes[7] = 0
+  0 UInt8 bytes[8] = 78
+  0 UInt8 bytes[9] = 136
+  0 UInt8 bytes[10] = 212
+  0 UInt8 bytes[11] = 136
+  0 UInt8 bytes[12] = 137
+  0 UInt8 bytes[13] = 143
+  0 UInt8 bytes[14] = 152
+  0 UInt8 bytes[15] = 251
+ 1 string m_ClassName = "LevelRoom"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

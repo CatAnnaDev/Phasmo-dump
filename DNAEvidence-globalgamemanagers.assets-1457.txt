@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DNAEvidence"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 53
+  0 UInt8 bytes[1] = 150
+  0 UInt8 bytes[2] = 6
+  0 UInt8 bytes[3] = 3
+  0 UInt8 bytes[4] = 45
+  0 UInt8 bytes[5] = 14
+  0 UInt8 bytes[6] = 123
+  0 UInt8 bytes[7] = 101
+  0 UInt8 bytes[8] = 158
+  0 UInt8 bytes[9] = 186
+  0 UInt8 bytes[10] = 241
+  0 UInt8 bytes[11] = 114
+  0 UInt8 bytes[12] = 182
+  0 UInt8 bytes[13] = 168
+  0 UInt8 bytes[14] = 42
+  0 UInt8 bytes[15] = 14
+ 1 string m_ClassName = "DNAEvidence"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

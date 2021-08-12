@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonTransformViewClassic"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 63
+  0 UInt8 bytes[1] = 96
+  0 UInt8 bytes[2] = 10
+  0 UInt8 bytes[3] = 208
+  0 UInt8 bytes[4] = 247
+  0 UInt8 bytes[5] = 80
+  0 UInt8 bytes[6] = 245
+  0 UInt8 bytes[7] = 146
+  0 UInt8 bytes[8] = 56
+  0 UInt8 bytes[9] = 169
+  0 UInt8 bytes[10] = 31
+  0 UInt8 bytes[11] = 117
+  0 UInt8 bytes[12] = 19
+  0 UInt8 bytes[13] = 185
+  0 UInt8 bytes[14] = 39
+  0 UInt8 bytes[15] = 193
+ 1 string m_ClassName = "PhotonTransformViewClassic"
+ 1 string m_Namespace = "Photon.Pun"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.dll"

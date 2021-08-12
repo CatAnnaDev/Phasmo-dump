@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HouseAmbientSoundController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 125
+  0 UInt8 bytes[1] = 81
+  0 UInt8 bytes[2] = 69
+  0 UInt8 bytes[3] = 61
+  0 UInt8 bytes[4] = 240
+  0 UInt8 bytes[5] = 176
+  0 UInt8 bytes[6] = 80
+  0 UInt8 bytes[7] = 112
+  0 UInt8 bytes[8] = 186
+  0 UInt8 bytes[9] = 8
+  0 UInt8 bytes[10] = 148
+  0 UInt8 bytes[11] = 24
+  0 UInt8 bytes[12] = 148
+  0 UInt8 bytes[13] = 193
+  0 UInt8 bytes[14] = 64
+  0 UInt8 bytes[15] = 41
+ 1 string m_ClassName = "HouseAmbientSoundController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

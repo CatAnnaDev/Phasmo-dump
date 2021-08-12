@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "UserControlAI"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 182
+  0 UInt8 bytes[1] = 140
+  0 UInt8 bytes[2] = 4
+  0 UInt8 bytes[3] = 188
+  0 UInt8 bytes[4] = 229
+  0 UInt8 bytes[5] = 163
+  0 UInt8 bytes[6] = 83
+  0 UInt8 bytes[7] = 4
+  0 UInt8 bytes[8] = 213
+  0 UInt8 bytes[9] = 139
+  0 UInt8 bytes[10] = 63
+  0 UInt8 bytes[11] = 47
+  0 UInt8 bytes[12] = 115
+  0 UInt8 bytes[13] = 150
+  0 UInt8 bytes[14] = 255
+  0 UInt8 bytes[15] = 144
+ 1 string m_ClassName = "UserControlAI"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

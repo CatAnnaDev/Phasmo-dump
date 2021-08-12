@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TMP_StyleSheet"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 128
+  0 UInt8 bytes[1] = 12
+  0 UInt8 bytes[2] = 80
+  0 UInt8 bytes[3] = 172
+  0 UInt8 bytes[4] = 186
+  0 UInt8 bytes[5] = 18
+  0 UInt8 bytes[6] = 68
+  0 UInt8 bytes[7] = 50
+  0 UInt8 bytes[8] = 171
+  0 UInt8 bytes[9] = 180
+  0 UInt8 bytes[10] = 207
+  0 UInt8 bytes[11] = 13
+  0 UInt8 bytes[12] = 71
+  0 UInt8 bytes[13] = 32
+  0 UInt8 bytes[14] = 46
+  0 UInt8 bytes[15] = 6
+ 1 string m_ClassName = "TMP_StyleSheet"
+ 1 string m_Namespace = "TMPro"
+ 1 string m_AssemblyName = "Unity.TextMeshPro.dll"

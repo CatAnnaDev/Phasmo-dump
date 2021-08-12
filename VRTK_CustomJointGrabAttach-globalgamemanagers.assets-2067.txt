@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_CustomJointGrabAttach"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 255
+  0 UInt8 bytes[1] = 190
+  0 UInt8 bytes[2] = 140
+  0 UInt8 bytes[3] = 220
+  0 UInt8 bytes[4] = 85
+  0 UInt8 bytes[5] = 184
+  0 UInt8 bytes[6] = 229
+  0 UInt8 bytes[7] = 67
+  0 UInt8 bytes[8] = 22
+  0 UInt8 bytes[9] = 33
+  0 UInt8 bytes[10] = 167
+  0 UInt8 bytes[11] = 110
+  0 UInt8 bytes[12] = 163
+  0 UInt8 bytes[13] = 8
+  0 UInt8 bytes[14] = 1
+  0 UInt8 bytes[15] = 44
+ 1 string m_ClassName = "VRTK_CustomJointGrabAttach"
+ 1 string m_Namespace = "VRTK.GrabAttachMechanics"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

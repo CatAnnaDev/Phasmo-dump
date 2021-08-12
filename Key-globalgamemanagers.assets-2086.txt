@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Key"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 250
+  0 UInt8 bytes[1] = 178
+  0 UInt8 bytes[2] = 220
+  0 UInt8 bytes[3] = 175
+  0 UInt8 bytes[4] = 104
+  0 UInt8 bytes[5] = 210
+  0 UInt8 bytes[6] = 79
+  0 UInt8 bytes[7] = 152
+  0 UInt8 bytes[8] = 98
+  0 UInt8 bytes[9] = 50
+  0 UInt8 bytes[10] = 83
+  0 UInt8 bytes[11] = 239
+  0 UInt8 bytes[12] = 82
+  0 UInt8 bytes[13] = 50
+  0 UInt8 bytes[14] = 75
+  0 UInt8 bytes[15] = 137
+ 1 string m_ClassName = "Key"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

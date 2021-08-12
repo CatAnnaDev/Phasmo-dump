@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_Chest"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 189
+  0 UInt8 bytes[1] = 27
+  0 UInt8 bytes[2] = 113
+  0 UInt8 bytes[3] = 41
+  0 UInt8 bytes[4] = 39
+  0 UInt8 bytes[5] = 224
+  0 UInt8 bytes[6] = 198
+  0 UInt8 bytes[7] = 194
+  0 UInt8 bytes[8] = 163
+  0 UInt8 bytes[9] = 4
+  0 UInt8 bytes[10] = 77
+  0 UInt8 bytes[11] = 101
+  0 UInt8 bytes[12] = 27
+  0 UInt8 bytes[13] = 107
+  0 UInt8 bytes[14] = 100
+  0 UInt8 bytes[15] = 162
+ 1 string m_ClassName = "VRTK_Chest"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_SimplePointer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 116
+  0 UInt8 bytes[1] = 42
+  0 UInt8 bytes[2] = 221
+  0 UInt8 bytes[3] = 220
+  0 UInt8 bytes[4] = 69
+  0 UInt8 bytes[5] = 138
+  0 UInt8 bytes[6] = 150
+  0 UInt8 bytes[7] = 179
+  0 UInt8 bytes[8] = 163
+  0 UInt8 bytes[9] = 98
+  0 UInt8 bytes[10] = 189
+  0 UInt8 bytes[11] = 65
+  0 UInt8 bytes[12] = 201
+  0 UInt8 bytes[13] = 143
+  0 UInt8 bytes[14] = 172
+  0 UInt8 bytes[15] = 22
+ 1 string m_ClassName = "VRTK_SimplePointer"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

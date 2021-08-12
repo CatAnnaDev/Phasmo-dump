@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Bloom"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 113
+  0 UInt8 bytes[1] = 247
+  0 UInt8 bytes[2] = 241
+  0 UInt8 bytes[3] = 43
+  0 UInt8 bytes[4] = 141
+  0 UInt8 bytes[5] = 15
+  0 UInt8 bytes[6] = 79
+  0 UInt8 bytes[7] = 215
+  0 UInt8 bytes[8] = 53
+  0 UInt8 bytes[9] = 144
+  0 UInt8 bytes[10] = 219
+  0 UInt8 bytes[11] = 139
+  0 UInt8 bytes[12] = 203
+  0 UInt8 bytes[13] = 109
+  0 UInt8 bytes[14] = 69
+  0 UInt8 bytes[15] = 60
+ 1 string m_ClassName = "Bloom"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

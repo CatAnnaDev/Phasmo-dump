@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ControlsManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 161
+  0 UInt8 bytes[1] = 131
+  0 UInt8 bytes[2] = 191
+  0 UInt8 bytes[3] = 45
+  0 UInt8 bytes[4] = 250
+  0 UInt8 bytes[5] = 140
+  0 UInt8 bytes[6] = 221
+  0 UInt8 bytes[7] = 22
+  0 UInt8 bytes[8] = 91
+  0 UInt8 bytes[9] = 231
+  0 UInt8 bytes[10] = 180
+  0 UInt8 bytes[11] = 106
+  0 UInt8 bytes[12] = 56
+  0 UInt8 bytes[13] = 203
+  0 UInt8 bytes[14] = 234
+  0 UInt8 bytes[15] = 234
+ 1 string m_ClassName = "ControlsManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TriggerEventBroadcaster"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 102
+  0 UInt8 bytes[1] = 188
+  0 UInt8 bytes[2] = 165
+  0 UInt8 bytes[3] = 204
+  0 UInt8 bytes[4] = 106
+  0 UInt8 bytes[5] = 24
+  0 UInt8 bytes[6] = 197
+  0 UInt8 bytes[7] = 41
+  0 UInt8 bytes[8] = 142
+  0 UInt8 bytes[9] = 199
+  0 UInt8 bytes[10] = 82
+  0 UInt8 bytes[11] = 53
+  0 UInt8 bytes[12] = 229
+  0 UInt8 bytes[13] = 106
+  0 UInt8 bytes[14] = 132
+  0 UInt8 bytes[15] = 214
+ 1 string m_ClassName = "TriggerEventBroadcaster"
+ 1 string m_Namespace = "RootMotion"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_InteractHaptics"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 181
+  0 UInt8 bytes[1] = 116
+  0 UInt8 bytes[2] = 198
+  0 UInt8 bytes[3] = 112
+  0 UInt8 bytes[4] = 136
+  0 UInt8 bytes[5] = 29
+  0 UInt8 bytes[6] = 55
+  0 UInt8 bytes[7] = 193
+  0 UInt8 bytes[8] = 85
+  0 UInt8 bytes[9] = 176
+  0 UInt8 bytes[10] = 212
+  0 UInt8 bytes[11] = 36
+  0 UInt8 bytes[12] = 35
+  0 UInt8 bytes[13] = 86
+  0 UInt8 bytes[14] = 242
+  0 UInt8 bytes[15] = 144
+ 1 string m_ClassName = "VRTK_InteractHaptics"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

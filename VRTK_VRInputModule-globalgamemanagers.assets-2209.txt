@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_VRInputModule"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 79
+  0 UInt8 bytes[1] = 3
+  0 UInt8 bytes[2] = 135
+  0 UInt8 bytes[3] = 83
+  0 UInt8 bytes[4] = 3
+  0 UInt8 bytes[5] = 151
+  0 UInt8 bytes[6] = 123
+  0 UInt8 bytes[7] = 8
+  0 UInt8 bytes[8] = 25
+  0 UInt8 bytes[9] = 209
+  0 UInt8 bytes[10] = 18
+  0 UInt8 bytes[11] = 214
+  0 UInt8 bytes[12] = 127
+  0 UInt8 bytes[13] = 102
+  0 UInt8 bytes[14] = 127
+  0 UInt8 bytes[15] = 17
+ 1 string m_ClassName = "VRTK_VRInputModule"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRIKRootController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 166
+  0 UInt8 bytes[1] = 105
+  0 UInt8 bytes[2] = 211
+  0 UInt8 bytes[3] = 211
+  0 UInt8 bytes[4] = 127
+  0 UInt8 bytes[5] = 123
+  0 UInt8 bytes[6] = 146
+  0 UInt8 bytes[7] = 87
+  0 UInt8 bytes[8] = 58
+  0 UInt8 bytes[9] = 179
+  0 UInt8 bytes[10] = 220
+  0 UInt8 bytes[11] = 244
+  0 UInt8 bytes[12] = 6
+  0 UInt8 bytes[13] = 201
+  0 UInt8 bytes[14] = 52
+  0 UInt8 bytes[15] = 127
+ 1 string m_ClassName = "VRIKRootController"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

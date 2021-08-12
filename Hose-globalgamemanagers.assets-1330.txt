@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Hose"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 214
+  0 UInt8 bytes[1] = 58
+  0 UInt8 bytes[2] = 174
+  0 UInt8 bytes[3] = 80
+  0 UInt8 bytes[4] = 58
+  0 UInt8 bytes[5] = 218
+  0 UInt8 bytes[6] = 19
+  0 UInt8 bytes[7] = 93
+  0 UInt8 bytes[8] = 249
+  0 UInt8 bytes[9] = 228
+  0 UInt8 bytes[10] = 157
+  0 UInt8 bytes[11] = 173
+  0 UInt8 bytes[12] = 109
+  0 UInt8 bytes[13] = 159
+  0 UInt8 bytes[14] = 178
+  0 UInt8 bytes[15] = 119
+ 1 string m_ClassName = "Hose"
+ 1 string m_Namespace = "UnityStandardAssets.Effects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

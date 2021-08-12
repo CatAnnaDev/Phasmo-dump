@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HxDensityVolume"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 201
+  0 UInt8 bytes[1] = 115
+  0 UInt8 bytes[2] = 136
+  0 UInt8 bytes[3] = 39
+  0 UInt8 bytes[4] = 39
+  0 UInt8 bytes[5] = 127
+  0 UInt8 bytes[6] = 253
+  0 UInt8 bytes[7] = 204
+  0 UInt8 bytes[8] = 97
+  0 UInt8 bytes[9] = 13
+  0 UInt8 bytes[10] = 2
+  0 UInt8 bytes[11] = 0
+  0 UInt8 bytes[12] = 97
+  0 UInt8 bytes[13] = 83
+  0 UInt8 bytes[14] = 106
+  0 UInt8 bytes[15] = 64
+ 1 string m_ClassName = "HxDensityVolume"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

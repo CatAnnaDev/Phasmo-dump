@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Explosive"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 68
+  0 UInt8 bytes[1] = 194
+  0 UInt8 bytes[2] = 211
+  0 UInt8 bytes[3] = 189
+  0 UInt8 bytes[4] = 87
+  0 UInt8 bytes[5] = 195
+  0 UInt8 bytes[6] = 215
+  0 UInt8 bytes[7] = 100
+  0 UInt8 bytes[8] = 65
+  0 UInt8 bytes[9] = 46
+  0 UInt8 bytes[10] = 6
+  0 UInt8 bytes[11] = 129
+  0 UInt8 bytes[12] = 95
+  0 UInt8 bytes[13] = 97
+  0 UInt8 bytes[14] = 42
+  0 UInt8 bytes[15] = 163
+ 1 string m_ClassName = "Explosive"
+ 1 string m_Namespace = "UnityStandardAssets.Effects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

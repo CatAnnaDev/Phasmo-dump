@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_Wheel"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 90
+  0 UInt8 bytes[1] = 68
+  0 UInt8 bytes[2] = 108
+  0 UInt8 bytes[3] = 76
+  0 UInt8 bytes[4] = 35
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 29
+  0 UInt8 bytes[7] = 215
+  0 UInt8 bytes[8] = 183
+  0 UInt8 bytes[9] = 204
+  0 UInt8 bytes[10] = 99
+  0 UInt8 bytes[11] = 228
+  0 UInt8 bytes[12] = 24
+  0 UInt8 bytes[13] = 97
+  0 UInt8 bytes[14] = 125
+  0 UInt8 bytes[15] = 234
+ 1 string m_ClassName = "VRTK_Wheel"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

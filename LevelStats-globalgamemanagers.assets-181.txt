@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LevelStats"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 107
+  0 UInt8 bytes[2] = 44
+  0 UInt8 bytes[3] = 52
+  0 UInt8 bytes[4] = 129
+  0 UInt8 bytes[5] = 242
+  0 UInt8 bytes[6] = 109
+  0 UInt8 bytes[7] = 196
+  0 UInt8 bytes[8] = 102
+  0 UInt8 bytes[9] = 219
+  0 UInt8 bytes[10] = 7
+  0 UInt8 bytes[11] = 88
+  0 UInt8 bytes[12] = 42
+  0 UInt8 bytes[13] = 153
+  0 UInt8 bytes[14] = 149
+  0 UInt8 bytes[15] = 131
+ 1 string m_ClassName = "LevelStats"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

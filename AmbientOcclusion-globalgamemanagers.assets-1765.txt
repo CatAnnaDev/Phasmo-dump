@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AmbientOcclusion"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 172
+  0 UInt8 bytes[1] = 106
+  0 UInt8 bytes[2] = 205
+  0 UInt8 bytes[3] = 136
+  0 UInt8 bytes[4] = 108
+  0 UInt8 bytes[5] = 84
+  0 UInt8 bytes[6] = 196
+  0 UInt8 bytes[7] = 140
+  0 UInt8 bytes[8] = 89
+  0 UInt8 bytes[9] = 154
+  0 UInt8 bytes[10] = 181
+  0 UInt8 bytes[11] = 254
+  0 UInt8 bytes[12] = 213
+  0 UInt8 bytes[13] = 120
+  0 UInt8 bytes[14] = 30
+  0 UInt8 bytes[15] = 167
+ 1 string m_ClassName = "AmbientOcclusion"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

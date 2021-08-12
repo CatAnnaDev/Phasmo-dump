@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DynamicShadowSettings"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 201
+  0 UInt8 bytes[1] = 51
+  0 UInt8 bytes[2] = 178
+  0 UInt8 bytes[3] = 207
+  0 UInt8 bytes[4] = 253
+  0 UInt8 bytes[5] = 185
+  0 UInt8 bytes[6] = 209
+  0 UInt8 bytes[7] = 66
+  0 UInt8 bytes[8] = 154
+  0 UInt8 bytes[9] = 16
+  0 UInt8 bytes[10] = 62
+  0 UInt8 bytes[11] = 157
+  0 UInt8 bytes[12] = 99
+  0 UInt8 bytes[13] = 197
+  0 UInt8 bytes[14] = 35
+  0 UInt8 bytes[15] = 239
+ 1 string m_ClassName = "DynamicShadowSettings"
+ 1 string m_Namespace = "UnityStandardAssets.Utility"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

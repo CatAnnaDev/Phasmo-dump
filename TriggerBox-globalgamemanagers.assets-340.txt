@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TriggerBox"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 113
+  0 UInt8 bytes[1] = 187
+  0 UInt8 bytes[2] = 106
+  0 UInt8 bytes[3] = 107
+  0 UInt8 bytes[4] = 108
+  0 UInt8 bytes[5] = 143
+  0 UInt8 bytes[6] = 5
+  0 UInt8 bytes[7] = 47
+  0 UInt8 bytes[8] = 148
+  0 UInt8 bytes[9] = 141
+  0 UInt8 bytes[10] = 182
+  0 UInt8 bytes[11] = 76
+  0 UInt8 bytes[12] = 125
+  0 UInt8 bytes[13] = 211
+  0 UInt8 bytes[14] = 202
+  0 UInt8 bytes[15] = 79
+ 1 string m_ClassName = "TriggerBox"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

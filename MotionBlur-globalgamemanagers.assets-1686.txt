@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MotionBlur"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 175
+  0 UInt8 bytes[1] = 147
+  0 UInt8 bytes[2] = 249
+  0 UInt8 bytes[3] = 196
+  0 UInt8 bytes[4] = 46
+  0 UInt8 bytes[5] = 144
+  0 UInt8 bytes[6] = 135
+  0 UInt8 bytes[7] = 122
+  0 UInt8 bytes[8] = 155
+  0 UInt8 bytes[9] = 163
+  0 UInt8 bytes[10] = 30
+  0 UInt8 bytes[11] = 55
+  0 UInt8 bytes[12] = 173
+  0 UInt8 bytes[13] = 253
+  0 UInt8 bytes[14] = 144
+  0 UInt8 bytes[15] = 12
+ 1 string m_ClassName = "MotionBlur"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

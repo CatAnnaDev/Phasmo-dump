@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AndroidWidget_UI"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 7
+  0 UInt8 bytes[1] = 65
+  0 UInt8 bytes[2] = 82
+  0 UInt8 bytes[3] = 25
+  0 UInt8 bytes[4] = 70
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 133
+  0 UInt8 bytes[7] = 213
+  0 UInt8 bytes[8] = 6
+  0 UInt8 bytes[9] = 79
+  0 UInt8 bytes[10] = 171
+  0 UInt8 bytes[11] = 28
+  0 UInt8 bytes[12] = 102
+  0 UInt8 bytes[13] = 48
+  0 UInt8 bytes[14] = 182
+  0 UInt8 bytes[15] = 70
+ 1 string m_ClassName = "AndroidWidget_UI"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BowAim"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 185
+  0 UInt8 bytes[1] = 47
+  0 UInt8 bytes[2] = 13
+  0 UInt8 bytes[3] = 26
+  0 UInt8 bytes[4] = 136
+  0 UInt8 bytes[5] = 98
+  0 UInt8 bytes[6] = 192
+  0 UInt8 bytes[7] = 172
+  0 UInt8 bytes[8] = 110
+  0 UInt8 bytes[9] = 84
+  0 UInt8 bytes[10] = 187
+  0 UInt8 bytes[11] = 26
+  0 UInt8 bytes[12] = 145
+  0 UInt8 bytes[13] = 162
+  0 UInt8 bytes[14] = 4
+  0 UInt8 bytes[15] = 68
+ 1 string m_ClassName = "BowAim"
+ 1 string m_Namespace = "VRTK.Examples.Archery"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

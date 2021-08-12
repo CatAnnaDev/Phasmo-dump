@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ContentSizeFitter"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 138
+  0 UInt8 bytes[1] = 163
+  0 UInt8 bytes[2] = 214
+  0 UInt8 bytes[3] = 204
+  0 UInt8 bytes[4] = 188
+  0 UInt8 bytes[5] = 181
+  0 UInt8 bytes[6] = 78
+  0 UInt8 bytes[7] = 232
+  0 UInt8 bytes[8] = 219
+  0 UInt8 bytes[9] = 108
+  0 UInt8 bytes[10] = 18
+  0 UInt8 bytes[11] = 41
+  0 UInt8 bytes[12] = 133
+  0 UInt8 bytes[13] = 74
+  0 UInt8 bytes[14] = 218
+  0 UInt8 bytes[15] = 170
+ 1 string m_ClassName = "ContentSizeFitter"
+ 1 string m_Namespace = "UnityEngine.UI"
+ 1 string m_AssemblyName = "UnityEngine.UI.dll"

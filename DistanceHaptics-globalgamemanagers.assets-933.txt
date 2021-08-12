@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DistanceHaptics"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 208
+  0 UInt8 bytes[1] = 246
+  0 UInt8 bytes[2] = 117
+  0 UInt8 bytes[3] = 222
+  0 UInt8 bytes[4] = 189
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 121
+  0 UInt8 bytes[7] = 4
+  0 UInt8 bytes[8] = 100
+  0 UInt8 bytes[9] = 226
+  0 UInt8 bytes[10] = 93
+  0 UInt8 bytes[11] = 88
+  0 UInt8 bytes[12] = 150
+  0 UInt8 bytes[13] = 124
+  0 UInt8 bytes[14] = 1
+  0 UInt8 bytes[15] = 168
+ 1 string m_ClassName = "DistanceHaptics"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

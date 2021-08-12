@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ExplosionPhysicsForce"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 15
+  0 UInt8 bytes[1] = 170
+  0 UInt8 bytes[2] = 223
+  0 UInt8 bytes[3] = 127
+  0 UInt8 bytes[4] = 68
+  0 UInt8 bytes[5] = 78
+  0 UInt8 bytes[6] = 3
+  0 UInt8 bytes[7] = 63
+  0 UInt8 bytes[8] = 40
+  0 UInt8 bytes[9] = 161
+  0 UInt8 bytes[10] = 148
+  0 UInt8 bytes[11] = 112
+  0 UInt8 bytes[12] = 209
+  0 UInt8 bytes[13] = 174
+  0 UInt8 bytes[14] = 37
+  0 UInt8 bytes[15] = 123
+ 1 string m_ClassName = "ExplosionPhysicsForce"
+ 1 string m_Namespace = "UnityStandardAssets.Effects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

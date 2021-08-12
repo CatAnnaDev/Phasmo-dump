@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GhostHaptics"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 237
+  0 UInt8 bytes[1] = 113
+  0 UInt8 bytes[2] = 58
+  0 UInt8 bytes[3] = 41
+  0 UInt8 bytes[4] = 122
+  0 UInt8 bytes[5] = 51
+  0 UInt8 bytes[6] = 180
+  0 UInt8 bytes[7] = 96
+  0 UInt8 bytes[8] = 124
+  0 UInt8 bytes[9] = 48
+  0 UInt8 bytes[10] = 72
+  0 UInt8 bytes[11] = 106
+  0 UInt8 bytes[12] = 182
+  0 UInt8 bytes[13] = 36
+  0 UInt8 bytes[14] = 230
+  0 UInt8 bytes[15] = 214
+ 1 string m_ClassName = "GhostHaptics"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

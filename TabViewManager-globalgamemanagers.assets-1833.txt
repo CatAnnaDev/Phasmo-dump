@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TabViewManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 1
+  0 UInt8 bytes[1] = 175
+  0 UInt8 bytes[2] = 42
+  0 UInt8 bytes[3] = 28
+  0 UInt8 bytes[4] = 205
+  0 UInt8 bytes[5] = 230
+  0 UInt8 bytes[6] = 245
+  0 UInt8 bytes[7] = 163
+  0 UInt8 bytes[8] = 119
+  0 UInt8 bytes[9] = 120
+  0 UInt8 bytes[10] = 119
+  0 UInt8 bytes[11] = 252
+  0 UInt8 bytes[12] = 225
+  0 UInt8 bytes[13] = 216
+  0 UInt8 bytes[14] = 85
+  0 UInt8 bytes[15] = 118
+ 1 string m_ClassName = "TabViewManager"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

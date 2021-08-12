@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlaymodeTestsController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 151
+  0 UInt8 bytes[1] = 38
+  0 UInt8 bytes[2] = 188
+  0 UInt8 bytes[3] = 70
+  0 UInt8 bytes[4] = 225
+  0 UInt8 bytes[5] = 93
+  0 UInt8 bytes[6] = 68
+  0 UInt8 bytes[7] = 66
+  0 UInt8 bytes[8] = 155
+  0 UInt8 bytes[9] = 211
+  0 UInt8 bytes[10] = 143
+  0 UInt8 bytes[11] = 176
+  0 UInt8 bytes[12] = 19
+  0 UInt8 bytes[13] = 101
+  0 UInt8 bytes[14] = 127
+  0 UInt8 bytes[15] = 30
+ 1 string m_ClassName = "PlaymodeTestsController"
+ 1 string m_Namespace = "UnityEngine.TestTools.TestRunner"
+ 1 string m_AssemblyName = "UnityEngine.TestRunner.dll"

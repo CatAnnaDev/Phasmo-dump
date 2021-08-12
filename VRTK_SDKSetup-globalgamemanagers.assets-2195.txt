@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_SDKSetup"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 233
+  0 UInt8 bytes[1] = 99
+  0 UInt8 bytes[2] = 189
+  0 UInt8 bytes[3] = 153
+  0 UInt8 bytes[4] = 238
+  0 UInt8 bytes[5] = 241
+  0 UInt8 bytes[6] = 116
+  0 UInt8 bytes[7] = 234
+  0 UInt8 bytes[8] = 48
+  0 UInt8 bytes[9] = 15
+  0 UInt8 bytes[10] = 89
+  0 UInt8 bytes[11] = 30
+  0 UInt8 bytes[12] = 56
+  0 UInt8 bytes[13] = 223
+  0 UInt8 bytes[14] = 168
+  0 UInt8 bytes[15] = 246
+ 1 string m_ClassName = "VRTK_SDKSetup"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

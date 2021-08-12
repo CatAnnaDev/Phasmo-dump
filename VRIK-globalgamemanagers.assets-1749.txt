@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRIK"
+ 0 int m_ExecutionOrder = 9998
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 173
+  0 UInt8 bytes[1] = 203
+  0 UInt8 bytes[2] = 60
+  0 UInt8 bytes[3] = 135
+  0 UInt8 bytes[4] = 19
+  0 UInt8 bytes[5] = 110
+  0 UInt8 bytes[6] = 154
+  0 UInt8 bytes[7] = 159
+  0 UInt8 bytes[8] = 152
+  0 UInt8 bytes[9] = 176
+  0 UInt8 bytes[10] = 33
+  0 UInt8 bytes[11] = 49
+  0 UInt8 bytes[12] = 22
+  0 UInt8 bytes[13] = 167
+  0 UInt8 bytes[14] = 2
+  0 UInt8 bytes[15] = 52
+ 1 string m_ClassName = "VRIK"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

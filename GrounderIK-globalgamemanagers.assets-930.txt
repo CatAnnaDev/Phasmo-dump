@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GrounderIK"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 109
+  0 UInt8 bytes[1] = 37
+  0 UInt8 bytes[2] = 20
+  0 UInt8 bytes[3] = 129
+  0 UInt8 bytes[4] = 80
+  0 UInt8 bytes[5] = 244
+  0 UInt8 bytes[6] = 218
+  0 UInt8 bytes[7] = 8
+  0 UInt8 bytes[8] = 134
+  0 UInt8 bytes[9] = 13
+  0 UInt8 bytes[10] = 106
+  0 UInt8 bytes[11] = 45
+  0 UInt8 bytes[12] = 113
+  0 UInt8 bytes[13] = 91
+  0 UInt8 bytes[14] = 232
+  0 UInt8 bytes[15] = 109
+ 1 string m_ClassName = "GrounderIK"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

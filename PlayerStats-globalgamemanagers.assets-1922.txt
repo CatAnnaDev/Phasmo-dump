@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlayerStats"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 224
+  0 UInt8 bytes[1] = 64
+  0 UInt8 bytes[2] = 105
+  0 UInt8 bytes[3] = 148
+  0 UInt8 bytes[4] = 141
+  0 UInt8 bytes[5] = 137
+  0 UInt8 bytes[6] = 88
+  0 UInt8 bytes[7] = 230
+  0 UInt8 bytes[8] = 0
+  0 UInt8 bytes[9] = 40
+  0 UInt8 bytes[10] = 51
+  0 UInt8 bytes[11] = 6
+  0 UInt8 bytes[12] = 38
+  0 UInt8 bytes[13] = 194
+  0 UInt8 bytes[14] = 19
+  0 UInt8 bytes[15] = 92
+ 1 string m_ClassName = "PlayerStats"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

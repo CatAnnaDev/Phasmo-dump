@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GraphicsManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 149
+  0 UInt8 bytes[1] = 64
+  0 UInt8 bytes[2] = 11
+  0 UInt8 bytes[3] = 244
+  0 UInt8 bytes[4] = 170
+  0 UInt8 bytes[5] = 186
+  0 UInt8 bytes[6] = 48
+  0 UInt8 bytes[7] = 13
+  0 UInt8 bytes[8] = 195
+  0 UInt8 bytes[9] = 61
+  0 UInt8 bytes[10] = 187
+  0 UInt8 bytes[11] = 250
+  0 UInt8 bytes[12] = 60
+  0 UInt8 bytes[13] = 50
+  0 UInt8 bytes[14] = 244
+  0 UInt8 bytes[15] = 142
+ 1 string m_ClassName = "GraphicsManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ChangeMixer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 0
+  0 UInt8 bytes[1] = 168
+  0 UInt8 bytes[2] = 72
+  0 UInt8 bytes[3] = 188
+  0 UInt8 bytes[4] = 239
+  0 UInt8 bytes[5] = 119
+  0 UInt8 bytes[6] = 75
+  0 UInt8 bytes[7] = 131
+  0 UInt8 bytes[8] = 94
+  0 UInt8 bytes[9] = 109
+  0 UInt8 bytes[10] = 97
+  0 UInt8 bytes[11] = 65
+  0 UInt8 bytes[12] = 57
+  0 UInt8 bytes[13] = 33
+  0 UInt8 bytes[14] = 112
+  0 UInt8 bytes[15] = 56
+ 1 string m_ClassName = "ChangeMixer"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

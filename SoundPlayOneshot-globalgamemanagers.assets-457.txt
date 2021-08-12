@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SoundPlayOneshot"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 234
+  0 UInt8 bytes[1] = 222
+  0 UInt8 bytes[2] = 90
+  0 UInt8 bytes[3] = 94
+  0 UInt8 bytes[4] = 253
+  0 UInt8 bytes[5] = 83
+  0 UInt8 bytes[6] = 176
+  0 UInt8 bytes[7] = 229
+  0 UInt8 bytes[8] = 13
+  0 UInt8 bytes[9] = 254
+  0 UInt8 bytes[10] = 143
+  0 UInt8 bytes[11] = 180
+  0 UInt8 bytes[12] = 139
+  0 UInt8 bytes[13] = 118
+  0 UInt8 bytes[14] = 240
+  0 UInt8 bytes[15] = 247
+ 1 string m_ClassName = "SoundPlayOneshot"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

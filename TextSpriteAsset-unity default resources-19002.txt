@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TextSpriteAsset"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 91
+  0 UInt8 bytes[1] = 170
+  0 UInt8 bytes[2] = 7
+  0 UInt8 bytes[3] = 121
+  0 UInt8 bytes[4] = 157
+  0 UInt8 bytes[5] = 47
+  0 UInt8 bytes[6] = 178
+  0 UInt8 bytes[7] = 32
+  0 UInt8 bytes[8] = 44
+  0 UInt8 bytes[9] = 251
+  0 UInt8 bytes[10] = 51
+  0 UInt8 bytes[11] = 43
+  0 UInt8 bytes[12] = 164
+  0 UInt8 bytes[13] = 38
+  0 UInt8 bytes[14] = 174
+  0 UInt8 bytes[15] = 71
+ 1 string m_ClassName = "TextSpriteAsset"
+ 1 string m_Namespace = "UnityEngine.TextCore"
+ 1 string m_AssemblyName = "UnityEngine.TextCoreModule.dll"

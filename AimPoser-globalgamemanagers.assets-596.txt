@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AimPoser"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 13
+  0 UInt8 bytes[1] = 35
+  0 UInt8 bytes[2] = 170
+  0 UInt8 bytes[3] = 74
+  0 UInt8 bytes[4] = 221
+  0 UInt8 bytes[5] = 199
+  0 UInt8 bytes[6] = 223
+  0 UInt8 bytes[7] = 211
+  0 UInt8 bytes[8] = 195
+  0 UInt8 bytes[9] = 178
+  0 UInt8 bytes[10] = 153
+  0 UInt8 bytes[11] = 243
+  0 UInt8 bytes[12] = 94
+  0 UInt8 bytes[13] = 40
+  0 UInt8 bytes[14] = 125
+  0 UInt8 bytes[15] = 223
+ 1 string m_ClassName = "AimPoser"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

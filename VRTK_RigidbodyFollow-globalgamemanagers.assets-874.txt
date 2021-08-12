@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_RigidbodyFollow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 102
+  0 UInt8 bytes[1] = 245
+  0 UInt8 bytes[2] = 116
+  0 UInt8 bytes[3] = 194
+  0 UInt8 bytes[4] = 6
+  0 UInt8 bytes[5] = 52
+  0 UInt8 bytes[6] = 54
+  0 UInt8 bytes[7] = 24
+  0 UInt8 bytes[8] = 140
+  0 UInt8 bytes[9] = 6
+  0 UInt8 bytes[10] = 122
+  0 UInt8 bytes[11] = 96
+  0 UInt8 bytes[12] = 56
+  0 UInt8 bytes[13] = 82
+  0 UInt8 bytes[14] = 211
+  0 UInt8 bytes[15] = 214
+ 1 string m_ClassName = "VRTK_RigidbodyFollow"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

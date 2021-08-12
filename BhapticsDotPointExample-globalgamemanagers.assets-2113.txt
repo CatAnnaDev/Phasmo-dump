@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsDotPointExample"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 245
+  0 UInt8 bytes[1] = 59
+  0 UInt8 bytes[2] = 194
+  0 UInt8 bytes[3] = 80
+  0 UInt8 bytes[4] = 19
+  0 UInt8 bytes[5] = 118
+  0 UInt8 bytes[6] = 74
+  0 UInt8 bytes[7] = 147
+  0 UInt8 bytes[8] = 192
+  0 UInt8 bytes[9] = 137
+  0 UInt8 bytes[10] = 34
+  0 UInt8 bytes[11] = 213
+  0 UInt8 bytes[12] = 241
+  0 UInt8 bytes[13] = 27
+  0 UInt8 bytes[14] = 155
+  0 UInt8 bytes[15] = 67
+ 1 string m_ClassName = "BhapticsDotPointExample"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

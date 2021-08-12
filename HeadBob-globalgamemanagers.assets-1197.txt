@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HeadBob"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 14
+  0 UInt8 bytes[1] = 12
+  0 UInt8 bytes[2] = 126
+  0 UInt8 bytes[3] = 108
+  0 UInt8 bytes[4] = 52
+  0 UInt8 bytes[5] = 242
+  0 UInt8 bytes[6] = 209
+  0 UInt8 bytes[7] = 155
+  0 UInt8 bytes[8] = 169
+  0 UInt8 bytes[9] = 92
+  0 UInt8 bytes[10] = 244
+  0 UInt8 bytes[11] = 99
+  0 UInt8 bytes[12] = 227
+  0 UInt8 bytes[13] = 152
+  0 UInt8 bytes[14] = 136
+  0 UInt8 bytes[15] = 177
+ 1 string m_ClassName = "HeadBob"
+ 1 string m_Namespace = "UnityStandardAssets.Characters.FirstPerson"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

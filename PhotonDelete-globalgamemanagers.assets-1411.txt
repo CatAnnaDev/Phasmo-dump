@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonDelete"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 60
+  0 UInt8 bytes[1] = 90
+  0 UInt8 bytes[2] = 197
+  0 UInt8 bytes[3] = 46
+  0 UInt8 bytes[4] = 79
+  0 UInt8 bytes[5] = 58
+  0 UInt8 bytes[6] = 177
+  0 UInt8 bytes[7] = 53
+  0 UInt8 bytes[8] = 28
+  0 UInt8 bytes[9] = 167
+  0 UInt8 bytes[10] = 31
+  0 UInt8 bytes[11] = 36
+  0 UInt8 bytes[12] = 20
+  0 UInt8 bytes[13] = 176
+  0 UInt8 bytes[14] = 198
+  0 UInt8 bytes[15] = 108
+ 1 string m_ClassName = "PhotonDelete"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

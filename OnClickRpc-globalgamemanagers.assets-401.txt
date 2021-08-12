@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "OnClickRpc"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 36
+  0 UInt8 bytes[1] = 247
+  0 UInt8 bytes[2] = 144
+  0 UInt8 bytes[3] = 148
+  0 UInt8 bytes[4] = 175
+  0 UInt8 bytes[5] = 241
+  0 UInt8 bytes[6] = 98
+  0 UInt8 bytes[7] = 201
+  0 UInt8 bytes[8] = 170
+  0 UInt8 bytes[9] = 105
+  0 UInt8 bytes[10] = 195
+  0 UInt8 bytes[11] = 29
+  0 UInt8 bytes[12] = 100
+  0 UInt8 bytes[13] = 215
+  0 UInt8 bytes[14] = 119
+  0 UInt8 bytes[15] = 211
+ 1 string m_ClassName = "OnClickRpc"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

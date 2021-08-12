@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InputSystemObject"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 136
+  0 UInt8 bytes[1] = 13
+  0 UInt8 bytes[2] = 6
+  0 UInt8 bytes[3] = 74
+  0 UInt8 bytes[4] = 167
+  0 UInt8 bytes[5] = 191
+  0 UInt8 bytes[6] = 50
+  0 UInt8 bytes[7] = 171
+  0 UInt8 bytes[8] = 216
+  0 UInt8 bytes[9] = 41
+  0 UInt8 bytes[10] = 91
+  0 UInt8 bytes[11] = 15
+  0 UInt8 bytes[12] = 224
+  0 UInt8 bytes[13] = 123
+  0 UInt8 bytes[14] = 204
+  0 UInt8 bytes[15] = 19
+ 1 string m_ClassName = "InputSystemObject"
+ 1 string m_Namespace = "UnityEngine.InputSystem"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

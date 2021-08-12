@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_FramesPerSecondViewer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 254
+  0 UInt8 bytes[1] = 246
+  0 UInt8 bytes[2] = 131
+  0 UInt8 bytes[3] = 14
+  0 UInt8 bytes[4] = 209
+  0 UInt8 bytes[5] = 44
+  0 UInt8 bytes[6] = 179
+  0 UInt8 bytes[7] = 181
+  0 UInt8 bytes[8] = 86
+  0 UInt8 bytes[9] = 30
+  0 UInt8 bytes[10] = 72
+  0 UInt8 bytes[11] = 81
+  0 UInt8 bytes[12] = 236
+  0 UInt8 bytes[13] = 86
+  0 UInt8 bytes[14] = 159
+  0 UInt8 bytes[15] = 55
+ 1 string m_ClassName = "VRTK_FramesPerSecondViewer"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

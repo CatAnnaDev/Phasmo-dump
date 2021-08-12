@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlayerSanity"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 161
+  0 UInt8 bytes[1] = 23
+  0 UInt8 bytes[2] = 93
+  0 UInt8 bytes[3] = 53
+  0 UInt8 bytes[4] = 139
+  0 UInt8 bytes[5] = 234
+  0 UInt8 bytes[6] = 206
+  0 UInt8 bytes[7] = 237
+  0 UInt8 bytes[8] = 118
+  0 UInt8 bytes[9] = 13
+  0 UInt8 bytes[10] = 212
+  0 UInt8 bytes[11] = 152
+  0 UInt8 bytes[12] = 211
+  0 UInt8 bytes[13] = 15
+  0 UInt8 bytes[14] = 84
+  0 UInt8 bytes[15] = 212
+ 1 string m_ClassName = "PlayerSanity"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

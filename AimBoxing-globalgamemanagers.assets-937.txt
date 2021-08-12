@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AimBoxing"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 248
+  0 UInt8 bytes[1] = 28
+  0 UInt8 bytes[2] = 199
+  0 UInt8 bytes[3] = 83
+  0 UInt8 bytes[4] = 245
+  0 UInt8 bytes[5] = 31
+  0 UInt8 bytes[6] = 12
+  0 UInt8 bytes[7] = 55
+  0 UInt8 bytes[8] = 236
+  0 UInt8 bytes[9] = 97
+  0 UInt8 bytes[10] = 88
+  0 UInt8 bytes[11] = 27
+  0 UInt8 bytes[12] = 130
+  0 UInt8 bytes[13] = 200
+  0 UInt8 bytes[14] = 56
+  0 UInt8 bytes[15] = 9
+ 1 string m_ClassName = "AimBoxing"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

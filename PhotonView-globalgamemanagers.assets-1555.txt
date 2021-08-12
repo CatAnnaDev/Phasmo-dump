@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonView"
+ 0 int m_ExecutionOrder = -16000
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 0
+  0 UInt8 bytes[1] = 233
+  0 UInt8 bytes[2] = 71
+  0 UInt8 bytes[3] = 8
+  0 UInt8 bytes[4] = 172
+  0 UInt8 bytes[5] = 148
+  0 UInt8 bytes[6] = 181
+  0 UInt8 bytes[7] = 163
+  0 UInt8 bytes[8] = 140
+  0 UInt8 bytes[9] = 159
+  0 UInt8 bytes[10] = 33
+  0 UInt8 bytes[11] = 185
+  0 UInt8 bytes[12] = 248
+  0 UInt8 bytes[13] = 148
+  0 UInt8 bytes[14] = 103
+  0 UInt8 bytes[15] = 166
+ 1 string m_ClassName = "PhotonView"
+ 1 string m_Namespace = "Photon.Pun"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.dll"

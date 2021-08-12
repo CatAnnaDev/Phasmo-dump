@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MenuAudio"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 58
+  0 UInt8 bytes[1] = 137
+  0 UInt8 bytes[2] = 244
+  0 UInt8 bytes[3] = 101
+  0 UInt8 bytes[4] = 207
+  0 UInt8 bytes[5] = 122
+  0 UInt8 bytes[6] = 172
+  0 UInt8 bytes[7] = 73
+  0 UInt8 bytes[8] = 202
+  0 UInt8 bytes[9] = 91
+  0 UInt8 bytes[10] = 230
+  0 UInt8 bytes[11] = 146
+  0 UInt8 bytes[12] = 35
+  0 UInt8 bytes[13] = 127
+  0 UInt8 bytes[14] = 161
+  0 UInt8 bytes[15] = 12
+ 1 string m_ClassName = "MenuAudio"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

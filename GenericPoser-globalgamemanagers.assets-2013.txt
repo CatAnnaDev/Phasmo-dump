@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GenericPoser"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 78
+  0 UInt8 bytes[1] = 137
+  0 UInt8 bytes[2] = 210
+  0 UInt8 bytes[3] = 252
+  0 UInt8 bytes[4] = 39
+  0 UInt8 bytes[5] = 120
+  0 UInt8 bytes[6] = 74
+  0 UInt8 bytes[7] = 152
+  0 UInt8 bytes[8] = 71
+  0 UInt8 bytes[9] = 22
+  0 UInt8 bytes[10] = 69
+  0 UInt8 bytes[11] = 102
+  0 UInt8 bytes[12] = 220
+  0 UInt8 bytes[13] = 106
+  0 UInt8 bytes[14] = 164
+  0 UInt8 bytes[15] = 78
+ 1 string m_ClassName = "GenericPoser"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

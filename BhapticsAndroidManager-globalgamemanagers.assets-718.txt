@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsAndroidManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 66
+  0 UInt8 bytes[1] = 147
+  0 UInt8 bytes[2] = 89
+  0 UInt8 bytes[3] = 174
+  0 UInt8 bytes[4] = 185
+  0 UInt8 bytes[5] = 50
+  0 UInt8 bytes[6] = 65
+  0 UInt8 bytes[7] = 158
+  0 UInt8 bytes[8] = 1
+  0 UInt8 bytes[9] = 38
+  0 UInt8 bytes[10] = 46
+  0 UInt8 bytes[11] = 154
+  0 UInt8 bytes[12] = 169
+  0 UInt8 bytes[13] = 104
+  0 UInt8 bytes[14] = 51
+  0 UInt8 bytes[15] = 16
+ 1 string m_ClassName = "BhapticsAndroidManager"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

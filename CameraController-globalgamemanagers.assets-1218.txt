@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CameraController"
+ 0 int m_ExecutionOrder = 10200
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 8
+  0 UInt8 bytes[1] = 147
+  0 UInt8 bytes[2] = 37
+  0 UInt8 bytes[3] = 29
+  0 UInt8 bytes[4] = 102
+  0 UInt8 bytes[5] = 37
+  0 UInt8 bytes[6] = 96
+  0 UInt8 bytes[7] = 59
+  0 UInt8 bytes[8] = 179
+  0 UInt8 bytes[9] = 242
+  0 UInt8 bytes[10] = 180
+  0 UInt8 bytes[11] = 49
+  0 UInt8 bytes[12] = 67
+  0 UInt8 bytes[13] = 243
+  0 UInt8 bytes[14] = 67
+  0 UInt8 bytes[15] = 242
+ 1 string m_ClassName = "CameraController"
+ 1 string m_Namespace = "RootMotion"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

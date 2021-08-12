@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LimbIK"
+ 0 int m_ExecutionOrder = 9997
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 182
+  0 UInt8 bytes[1] = 64
+  0 UInt8 bytes[2] = 71
+  0 UInt8 bytes[3] = 14
+  0 UInt8 bytes[4] = 170
+  0 UInt8 bytes[5] = 92
+  0 UInt8 bytes[6] = 94
+  0 UInt8 bytes[7] = 38
+  0 UInt8 bytes[8] = 173
+  0 UInt8 bytes[9] = 151
+  0 UInt8 bytes[10] = 237
+  0 UInt8 bytes[11] = 174
+  0 UInt8 bytes[12] = 20
+  0 UInt8 bytes[13] = 141
+  0 UInt8 bytes[14] = 14
+  0 UInt8 bytes[15] = 186
+ 1 string m_ClassName = "LimbIK"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

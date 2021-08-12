@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Grayscale"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 240
+  0 UInt8 bytes[1] = 128
+  0 UInt8 bytes[2] = 168
+  0 UInt8 bytes[3] = 106
+  0 UInt8 bytes[4] = 74
+  0 UInt8 bytes[5] = 147
+  0 UInt8 bytes[6] = 157
+  0 UInt8 bytes[7] = 208
+  0 UInt8 bytes[8] = 140
+  0 UInt8 bytes[9] = 12
+  0 UInt8 bytes[10] = 196
+  0 UInt8 bytes[11] = 244
+  0 UInt8 bytes[12] = 240
+  0 UInt8 bytes[13] = 94
+  0 UInt8 bytes[14] = 30
+  0 UInt8 bytes[15] = 78
+ 1 string m_ClassName = "Grayscale"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

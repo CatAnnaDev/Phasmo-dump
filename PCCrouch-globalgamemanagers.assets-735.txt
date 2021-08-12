@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PCCrouch"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 162
+  0 UInt8 bytes[1] = 41
+  0 UInt8 bytes[2] = 28
+  0 UInt8 bytes[3] = 232
+  0 UInt8 bytes[4] = 231
+  0 UInt8 bytes[5] = 83
+  0 UInt8 bytes[6] = 85
+  0 UInt8 bytes[7] = 173
+  0 UInt8 bytes[8] = 210
+  0 UInt8 bytes[9] = 255
+  0 UInt8 bytes[10] = 36
+  0 UInt8 bytes[11] = 80
+  0 UInt8 bytes[12] = 251
+  0 UInt8 bytes[13] = 163
+  0 UInt8 bytes[14] = 67
+  0 UInt8 bytes[15] = 221
+ 1 string m_ClassName = "PCCrouch"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

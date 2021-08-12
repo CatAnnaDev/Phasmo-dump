@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SO_NavigationCamera"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 44
+  0 UInt8 bytes[1] = 203
+  0 UInt8 bytes[2] = 169
+  0 UInt8 bytes[3] = 35
+  0 UInt8 bytes[4] = 50
+  0 UInt8 bytes[5] = 59
+  0 UInt8 bytes[6] = 228
+  0 UInt8 bytes[7] = 211
+  0 UInt8 bytes[8] = 226
+  0 UInt8 bytes[9] = 26
+  0 UInt8 bytes[10] = 72
+  0 UInt8 bytes[11] = 247
+  0 UInt8 bytes[12] = 187
+  0 UInt8 bytes[13] = 135
+  0 UInt8 bytes[14] = 94
+  0 UInt8 bytes[15] = 77
+ 1 string m_ClassName = "SO_NavigationCamera"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

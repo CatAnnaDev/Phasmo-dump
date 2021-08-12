@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ScrollUV_Clouds"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 241
+  0 UInt8 bytes[1] = 21
+  0 UInt8 bytes[2] = 172
+  0 UInt8 bytes[3] = 48
+  0 UInt8 bytes[4] = 167
+  0 UInt8 bytes[5] = 153
+  0 UInt8 bytes[6] = 58
+  0 UInt8 bytes[7] = 222
+  0 UInt8 bytes[8] = 53
+  0 UInt8 bytes[9] = 120
+  0 UInt8 bytes[10] = 131
+  0 UInt8 bytes[11] = 28
+  0 UInt8 bytes[12] = 145
+  0 UInt8 bytes[13] = 192
+  0 UInt8 bytes[14] = 226
+  0 UInt8 bytes[15] = 158
+ 1 string m_ClassName = "ScrollUV_Clouds"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

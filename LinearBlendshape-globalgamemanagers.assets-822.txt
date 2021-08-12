@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LinearBlendshape"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 198
+  0 UInt8 bytes[1] = 191
+  0 UInt8 bytes[2] = 182
+  0 UInt8 bytes[3] = 185
+  0 UInt8 bytes[4] = 109
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 141
+  0 UInt8 bytes[7] = 152
+  0 UInt8 bytes[8] = 232
+  0 UInt8 bytes[9] = 238
+  0 UInt8 bytes[10] = 72
+  0 UInt8 bytes[11] = 53
+  0 UInt8 bytes[12] = 59
+  0 UInt8 bytes[13] = 202
+  0 UInt8 bytes[14] = 207
+  0 UInt8 bytes[15] = 224
+ 1 string m_ClassName = "LinearBlendshape"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

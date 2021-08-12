@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonStatsGui"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 59
+  0 UInt8 bytes[1] = 160
+  0 UInt8 bytes[2] = 35
+  0 UInt8 bytes[3] = 205
+  0 UInt8 bytes[4] = 103
+  0 UInt8 bytes[5] = 215
+  0 UInt8 bytes[6] = 44
+  0 UInt8 bytes[7] = 172
+  0 UInt8 bytes[8] = 227
+  0 UInt8 bytes[9] = 57
+  0 UInt8 bytes[10] = 105
+  0 UInt8 bytes[11] = 171
+  0 UInt8 bytes[12] = 134
+  0 UInt8 bytes[13] = 62
+  0 UInt8 bytes[14] = 15
+  0 UInt8 bytes[15] = 212
+ 1 string m_ClassName = "PhotonStatsGui"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Controller_Hand"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 90
+  0 UInt8 bytes[1] = 227
+  0 UInt8 bytes[2] = 8
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 17
+  0 UInt8 bytes[5] = 204
+  0 UInt8 bytes[6] = 228
+  0 UInt8 bytes[7] = 0
+  0 UInt8 bytes[8] = 22
+  0 UInt8 bytes[9] = 128
+  0 UInt8 bytes[10] = 192
+  0 UInt8 bytes[11] = 93
+  0 UInt8 bytes[12] = 238
+  0 UInt8 bytes[13] = 211
+  0 UInt8 bytes[14] = 254
+  0 UInt8 bytes[15] = 157
+ 1 string m_ClassName = "Controller_Hand"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

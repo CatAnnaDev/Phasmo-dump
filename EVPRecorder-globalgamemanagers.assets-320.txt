@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "EVPRecorder"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 99
+  0 UInt8 bytes[1] = 178
+  0 UInt8 bytes[2] = 92
+  0 UInt8 bytes[3] = 130
+  0 UInt8 bytes[4] = 50
+  0 UInt8 bytes[5] = 207
+  0 UInt8 bytes[6] = 5
+  0 UInt8 bytes[7] = 89
+  0 UInt8 bytes[8] = 229
+  0 UInt8 bytes[9] = 234
+  0 UInt8 bytes[10] = 249
+  0 UInt8 bytes[11] = 122
+  0 UInt8 bytes[12] = 143
+  0 UInt8 bytes[13] = 127
+  0 UInt8 bytes[14] = 66
+  0 UInt8 bytes[15] = 158
+ 1 string m_ClassName = "EVPRecorder"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "EULAController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 197
+  0 UInt8 bytes[1] = 16
+  0 UInt8 bytes[2] = 254
+  0 UInt8 bytes[3] = 4
+  0 UInt8 bytes[4] = 130
+  0 UInt8 bytes[5] = 28
+  0 UInt8 bytes[6] = 81
+  0 UInt8 bytes[7] = 41
+  0 UInt8 bytes[8] = 166
+  0 UInt8 bytes[9] = 48
+  0 UInt8 bytes[10] = 104
+  0 UInt8 bytes[11] = 22
+  0 UInt8 bytes[12] = 205
+  0 UInt8 bytes[13] = 22
+  0 UInt8 bytes[14] = 120
+  0 UInt8 bytes[15] = 132
+ 1 string m_ClassName = "EULAController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

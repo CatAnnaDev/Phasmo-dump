@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InputDeviceDebuggerWindow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 40
+  0 UInt8 bytes[1] = 95
+  0 UInt8 bytes[2] = 93
+  0 UInt8 bytes[3] = 124
+  0 UInt8 bytes[4] = 54
+  0 UInt8 bytes[5] = 157
+  0 UInt8 bytes[6] = 135
+  0 UInt8 bytes[7] = 11
+  0 UInt8 bytes[8] = 147
+  0 UInt8 bytes[9] = 244
+  0 UInt8 bytes[10] = 162
+  0 UInt8 bytes[11] = 203
+  0 UInt8 bytes[12] = 206
+  0 UInt8 bytes[13] = 193
+  0 UInt8 bytes[14] = 24
+  0 UInt8 bytes[15] = 228
+ 1 string m_ClassName = "InputDeviceDebuggerWindow"
+ 1 string m_Namespace = "UnityEngine.InputSystem.Editor"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

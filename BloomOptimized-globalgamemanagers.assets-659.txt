@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BloomOptimized"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 18
+  0 UInt8 bytes[1] = 45
+  0 UInt8 bytes[2] = 127
+  0 UInt8 bytes[3] = 250
+  0 UInt8 bytes[4] = 182
+  0 UInt8 bytes[5] = 139
+  0 UInt8 bytes[6] = 78
+  0 UInt8 bytes[7] = 237
+  0 UInt8 bytes[8] = 199
+  0 UInt8 bytes[9] = 42
+  0 UInt8 bytes[10] = 31
+  0 UInt8 bytes[11] = 206
+  0 UInt8 bytes[12] = 3
+  0 UInt8 bytes[13] = 230
+  0 UInt8 bytes[14] = 60
+  0 UInt8 bytes[15] = 47
+ 1 string m_ClassName = "BloomOptimized"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

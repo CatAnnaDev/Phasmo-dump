@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_PointerDirectionIndicator"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 247
+  0 UInt8 bytes[1] = 63
+  0 UInt8 bytes[2] = 88
+  0 UInt8 bytes[3] = 8
+  0 UInt8 bytes[4] = 239
+  0 UInt8 bytes[5] = 23
+  0 UInt8 bytes[6] = 125
+  0 UInt8 bytes[7] = 63
+  0 UInt8 bytes[8] = 112
+  0 UInt8 bytes[9] = 183
+  0 UInt8 bytes[10] = 38
+  0 UInt8 bytes[11] = 72
+  0 UInt8 bytes[12] = 62
+  0 UInt8 bytes[13] = 85
+  0 UInt8 bytes[14] = 13
+  0 UInt8 bytes[15] = 198
+ 1 string m_ClassName = "VRTK_PointerDirectionIndicator"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

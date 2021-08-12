@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Vignette"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 232
+  0 UInt8 bytes[1] = 44
+  0 UInt8 bytes[2] = 5
+  0 UInt8 bytes[3] = 33
+  0 UInt8 bytes[4] = 205
+  0 UInt8 bytes[5] = 254
+  0 UInt8 bytes[6] = 140
+  0 UInt8 bytes[7] = 182
+  0 UInt8 bytes[8] = 161
+  0 UInt8 bytes[9] = 104
+  0 UInt8 bytes[10] = 239
+  0 UInt8 bytes[11] = 114
+  0 UInt8 bytes[12] = 8
+  0 UInt8 bytes[13] = 169
+  0 UInt8 bytes[14] = 141
+  0 UInt8 bytes[15] = 74
+ 1 string m_ClassName = "Vignette"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

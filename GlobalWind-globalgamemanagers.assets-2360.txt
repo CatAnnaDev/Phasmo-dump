@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GlobalWind"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 95
+  0 UInt8 bytes[1] = 149
+  0 UInt8 bytes[2] = 11
+  0 UInt8 bytes[3] = 0
+  0 UInt8 bytes[4] = 31
+  0 UInt8 bytes[5] = 92
+  0 UInt8 bytes[6] = 24
+  0 UInt8 bytes[7] = 184
+  0 UInt8 bytes[8] = 71
+  0 UInt8 bytes[9] = 58
+  0 UInt8 bytes[10] = 71
+  0 UInt8 bytes[11] = 246
+  0 UInt8 bytes[12] = 57
+  0 UInt8 bytes[13] = 236
+  0 UInt8 bytes[14] = 135
+  0 UInt8 bytes[15] = 238
+ 1 string m_ClassName = "GlobalWind"
+ 1 string m_Namespace = "VisualDesignCafe.Nature"
+ 1 string m_AssemblyName = "VisualDesignCafe.Nature.dll"

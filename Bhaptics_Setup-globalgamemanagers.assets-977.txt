@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Bhaptics_Setup"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 213
+  0 UInt8 bytes[1] = 120
+  0 UInt8 bytes[2] = 7
+  0 UInt8 bytes[3] = 42
+  0 UInt8 bytes[4] = 185
+  0 UInt8 bytes[5] = 103
+  0 UInt8 bytes[6] = 68
+  0 UInt8 bytes[7] = 147
+  0 UInt8 bytes[8] = 139
+  0 UInt8 bytes[9] = 177
+  0 UInt8 bytes[10] = 196
+  0 UInt8 bytes[11] = 222
+  0 UInt8 bytes[12] = 41
+  0 UInt8 bytes[13] = 61
+  0 UInt8 bytes[14] = 136
+  0 UInt8 bytes[15] = 95
+ 1 string m_ClassName = "Bhaptics_Setup"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

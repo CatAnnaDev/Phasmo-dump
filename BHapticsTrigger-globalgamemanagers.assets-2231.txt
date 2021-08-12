@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BHapticsTrigger"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 125
+  0 UInt8 bytes[1] = 113
+  0 UInt8 bytes[2] = 10
+  0 UInt8 bytes[3] = 181
+  0 UInt8 bytes[4] = 210
+  0 UInt8 bytes[5] = 174
+  0 UInt8 bytes[6] = 80
+  0 UInt8 bytes[7] = 62
+  0 UInt8 bytes[8] = 74
+  0 UInt8 bytes[9] = 174
+  0 UInt8 bytes[10] = 235
+  0 UInt8 bytes[11] = 37
+  0 UInt8 bytes[12] = 47
+  0 UInt8 bytes[13] = 18
+  0 UInt8 bytes[14] = 136
+  0 UInt8 bytes[15] = 241
+ 1 string m_ClassName = "BHapticsTrigger"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

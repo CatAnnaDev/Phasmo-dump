@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ScrollableArea"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 132
+  0 UInt8 bytes[1] = 163
+  0 UInt8 bytes[2] = 131
+  0 UInt8 bytes[3] = 254
+  0 UInt8 bytes[4] = 172
+  0 UInt8 bytes[5] = 239
+  0 UInt8 bytes[6] = 26
+  0 UInt8 bytes[7] = 103
+  0 UInt8 bytes[8] = 19
+  0 UInt8 bytes[9] = 7
+  0 UInt8 bytes[10] = 168
+  0 UInt8 bytes[11] = 213
+  0 UInt8 bytes[12] = 133
+  0 UInt8 bytes[13] = 164
+  0 UInt8 bytes[14] = 174
+  0 UInt8 bytes[15] = 154
+ 1 string m_ClassName = "ScrollableArea"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

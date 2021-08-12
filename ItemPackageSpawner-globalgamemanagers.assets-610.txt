@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ItemPackageSpawner"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 1
+  0 UInt8 bytes[1] = 141
+  0 UInt8 bytes[2] = 79
+  0 UInt8 bytes[3] = 37
+  0 UInt8 bytes[4] = 159
+  0 UInt8 bytes[5] = 4
+  0 UInt8 bytes[6] = 37
+  0 UInt8 bytes[7] = 120
+  0 UInt8 bytes[8] = 152
+  0 UInt8 bytes[9] = 166
+  0 UInt8 bytes[10] = 126
+  0 UInt8 bytes[11] = 78
+  0 UInt8 bytes[12] = 164
+  0 UInt8 bytes[13] = 131
+  0 UInt8 bytes[14] = 87
+  0 UInt8 bytes[15] = 198
+ 1 string m_ClassName = "ItemPackageSpawner"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

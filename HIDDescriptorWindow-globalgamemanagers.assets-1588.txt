@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HIDDescriptorWindow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 155
+  0 UInt8 bytes[1] = 6
+  0 UInt8 bytes[2] = 88
+  0 UInt8 bytes[3] = 57
+  0 UInt8 bytes[4] = 102
+  0 UInt8 bytes[5] = 181
+  0 UInt8 bytes[6] = 194
+  0 UInt8 bytes[7] = 83
+  0 UInt8 bytes[8] = 37
+  0 UInt8 bytes[9] = 35
+  0 UInt8 bytes[10] = 60
+  0 UInt8 bytes[11] = 78
+  0 UInt8 bytes[12] = 241
+  0 UInt8 bytes[13] = 171
+  0 UInt8 bytes[14] = 31
+  0 UInt8 bytes[15] = 212
+ 1 string m_ClassName = "HIDDescriptorWindow"
+ 1 string m_Namespace = "UnityEngine.InputSystem.HID.Editor"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

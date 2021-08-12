@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ClosetZone"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 183
+  0 UInt8 bytes[1] = 68
+  0 UInt8 bytes[2] = 153
+  0 UInt8 bytes[3] = 159
+  0 UInt8 bytes[4] = 103
+  0 UInt8 bytes[5] = 228
+  0 UInt8 bytes[6] = 214
+  0 UInt8 bytes[7] = 74
+  0 UInt8 bytes[8] = 188
+  0 UInt8 bytes[9] = 77
+  0 UInt8 bytes[10] = 60
+  0 UInt8 bytes[11] = 169
+  0 UInt8 bytes[12] = 72
+  0 UInt8 bytes[13] = 146
+  0 UInt8 bytes[14] = 183
+  0 UInt8 bytes[15] = 242
+ 1 string m_ClassName = "ClosetZone"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

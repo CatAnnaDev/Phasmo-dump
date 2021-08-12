@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InputActionAsset"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 41
+  0 UInt8 bytes[1] = 88
+  0 UInt8 bytes[2] = 82
+  0 UInt8 bytes[3] = 232
+  0 UInt8 bytes[4] = 48
+  0 UInt8 bytes[5] = 22
+  0 UInt8 bytes[6] = 33
+  0 UInt8 bytes[7] = 159
+  0 UInt8 bytes[8] = 224
+  0 UInt8 bytes[9] = 171
+  0 UInt8 bytes[10] = 154
+  0 UInt8 bytes[11] = 56
+  0 UInt8 bytes[12] = 252
+  0 UInt8 bytes[13] = 54
+  0 UInt8 bytes[14] = 247
+  0 UInt8 bytes[15] = 74
+ 1 string m_ClassName = "InputActionAsset"
+ 1 string m_Namespace = "UnityEngine.InputSystem"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

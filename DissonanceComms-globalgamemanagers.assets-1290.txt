@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DissonanceComms"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 91
+  0 UInt8 bytes[1] = 87
+  0 UInt8 bytes[2] = 70
+  0 UInt8 bytes[3] = 44
+  0 UInt8 bytes[4] = 17
+  0 UInt8 bytes[5] = 0
+  0 UInt8 bytes[6] = 67
+  0 UInt8 bytes[7] = 165
+  0 UInt8 bytes[8] = 64
+  0 UInt8 bytes[9] = 12
+  0 UInt8 bytes[10] = 246
+  0 UInt8 bytes[11] = 181
+  0 UInt8 bytes[12] = 211
+  0 UInt8 bytes[13] = 208
+  0 UInt8 bytes[14] = 188
+  0 UInt8 bytes[15] = 129
+ 1 string m_ClassName = "DissonanceComms"
+ 1 string m_Namespace = "Dissonance"
+ 1 string m_AssemblyName = "DissonanceVoip.dll"

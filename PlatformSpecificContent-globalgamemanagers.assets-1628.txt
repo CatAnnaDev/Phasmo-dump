@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlatformSpecificContent"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 79
+  0 UInt8 bytes[1] = 99
+  0 UInt8 bytes[2] = 31
+  0 UInt8 bytes[3] = 215
+  0 UInt8 bytes[4] = 24
+  0 UInt8 bytes[5] = 37
+  0 UInt8 bytes[6] = 106
+  0 UInt8 bytes[7] = 140
+  0 UInt8 bytes[8] = 105
+  0 UInt8 bytes[9] = 72
+  0 UInt8 bytes[10] = 60
+  0 UInt8 bytes[11] = 57
+  0 UInt8 bytes[12] = 102
+  0 UInt8 bytes[13] = 113
+  0 UInt8 bytes[14] = 162
+  0 UInt8 bytes[15] = 116
+ 1 string m_ClassName = "PlatformSpecificContent"
+ 1 string m_Namespace = "UnityStandardAssets.Utility"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

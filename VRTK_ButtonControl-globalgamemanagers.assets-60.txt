@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ButtonControl"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 247
+  0 UInt8 bytes[1] = 244
+  0 UInt8 bytes[2] = 91
+  0 UInt8 bytes[3] = 76
+  0 UInt8 bytes[4] = 63
+  0 UInt8 bytes[5] = 140
+  0 UInt8 bytes[6] = 188
+  0 UInt8 bytes[7] = 52
+  0 UInt8 bytes[8] = 75
+  0 UInt8 bytes[9] = 88
+  0 UInt8 bytes[10] = 153
+  0 UInt8 bytes[11] = 124
+  0 UInt8 bytes[12] = 65
+  0 UInt8 bytes[13] = 72
+  0 UInt8 bytes[14] = 105
+  0 UInt8 bytes[15] = 249
+ 1 string m_ClassName = "VRTK_ButtonControl"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ProtonPack"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 67
+  0 UInt8 bytes[1] = 47
+  0 UInt8 bytes[2] = 235
+  0 UInt8 bytes[3] = 80
+  0 UInt8 bytes[4] = 18
+  0 UInt8 bytes[5] = 31
+  0 UInt8 bytes[6] = 43
+  0 UInt8 bytes[7] = 167
+  0 UInt8 bytes[8] = 63
+  0 UInt8 bytes[9] = 186
+  0 UInt8 bytes[10] = 107
+  0 UInt8 bytes[11] = 161
+  0 UInt8 bytes[12] = 8
+  0 UInt8 bytes[13] = 22
+  0 UInt8 bytes[14] = 168
+  0 UInt8 bytes[15] = 157
+ 1 string m_ClassName = "ProtonPack"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

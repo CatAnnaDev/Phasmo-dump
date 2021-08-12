@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CharacterThirdPerson"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 148
+  0 UInt8 bytes[1] = 229
+  0 UInt8 bytes[2] = 1
+  0 UInt8 bytes[3] = 189
+  0 UInt8 bytes[4] = 42
+  0 UInt8 bytes[5] = 233
+  0 UInt8 bytes[6] = 81
+  0 UInt8 bytes[7] = 119
+  0 UInt8 bytes[8] = 179
+  0 UInt8 bytes[9] = 167
+  0 UInt8 bytes[10] = 84
+  0 UInt8 bytes[11] = 32
+  0 UInt8 bytes[12] = 151
+  0 UInt8 bytes[13] = 216
+  0 UInt8 bytes[14] = 168
+  0 UInt8 bytes[15] = 177
+ 1 string m_ClassName = "CharacterThirdPerson"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

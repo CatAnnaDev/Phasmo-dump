@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AutoRotation"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 134
+  0 UInt8 bytes[1] = 221
+  0 UInt8 bytes[2] = 26
+  0 UInt8 bytes[3] = 101
+  0 UInt8 bytes[4] = 220
+  0 UInt8 bytes[5] = 121
+  0 UInt8 bytes[6] = 201
+  0 UInt8 bytes[7] = 230
+  0 UInt8 bytes[8] = 127
+  0 UInt8 bytes[9] = 112
+  0 UInt8 bytes[10] = 75
+  0 UInt8 bytes[11] = 176
+  0 UInt8 bytes[12] = 131
+  0 UInt8 bytes[13] = 19
+  0 UInt8 bytes[14] = 114
+  0 UInt8 bytes[15] = 128
+ 1 string m_ClassName = "AutoRotation"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

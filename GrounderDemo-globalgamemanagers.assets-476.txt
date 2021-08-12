@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GrounderDemo"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 49
+  0 UInt8 bytes[1] = 73
+  0 UInt8 bytes[2] = 230
+  0 UInt8 bytes[3] = 139
+  0 UInt8 bytes[4] = 98
+  0 UInt8 bytes[5] = 184
+  0 UInt8 bytes[6] = 36
+  0 UInt8 bytes[7] = 147
+  0 UInt8 bytes[8] = 37
+  0 UInt8 bytes[9] = 78
+  0 UInt8 bytes[10] = 28
+  0 UInt8 bytes[11] = 153
+  0 UInt8 bytes[12] = 88
+  0 UInt8 bytes[13] = 73
+  0 UInt8 bytes[14] = 242
+  0 UInt8 bytes[15] = 39
+ 1 string m_ClassName = "GrounderDemo"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

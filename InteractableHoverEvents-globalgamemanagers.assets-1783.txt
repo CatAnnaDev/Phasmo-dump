@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InteractableHoverEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 153
+  0 UInt8 bytes[1] = 42
+  0 UInt8 bytes[2] = 110
+  0 UInt8 bytes[3] = 91
+  0 UInt8 bytes[4] = 67
+  0 UInt8 bytes[5] = 46
+  0 UInt8 bytes[6] = 89
+  0 UInt8 bytes[7] = 219
+  0 UInt8 bytes[8] = 58
+  0 UInt8 bytes[9] = 223
+  0 UInt8 bytes[10] = 222
+  0 UInt8 bytes[11] = 212
+  0 UInt8 bytes[12] = 101
+  0 UInt8 bytes[13] = 145
+  0 UInt8 bytes[14] = 228
+  0 UInt8 bytes[15] = 52
+ 1 string m_ClassName = "InteractableHoverEvents"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

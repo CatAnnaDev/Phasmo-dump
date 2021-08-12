@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InputActionEditorWindow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 41
+  0 UInt8 bytes[1] = 88
+  0 UInt8 bytes[2] = 49
+  0 UInt8 bytes[3] = 64
+  0 UInt8 bytes[4] = 109
+  0 UInt8 bytes[5] = 165
+  0 UInt8 bytes[6] = 144
+  0 UInt8 bytes[7] = 125
+  0 UInt8 bytes[8] = 65
+  0 UInt8 bytes[9] = 245
+  0 UInt8 bytes[10] = 141
+  0 UInt8 bytes[11] = 132
+  0 UInt8 bytes[12] = 172
+  0 UInt8 bytes[13] = 213
+  0 UInt8 bytes[14] = 93
+  0 UInt8 bytes[15] = 141
+ 1 string m_ClassName = "InputActionEditorWindow"
+ 1 string m_Namespace = "UnityEngine.InputSystem.Editor"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

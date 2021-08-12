@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_UIDraggableItem_UnityEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 122
+  0 UInt8 bytes[1] = 90
+  0 UInt8 bytes[2] = 244
+  0 UInt8 bytes[3] = 58
+  0 UInt8 bytes[4] = 48
+  0 UInt8 bytes[5] = 170
+  0 UInt8 bytes[6] = 228
+  0 UInt8 bytes[7] = 8
+  0 UInt8 bytes[8] = 175
+  0 UInt8 bytes[9] = 83
+  0 UInt8 bytes[10] = 100
+  0 UInt8 bytes[11] = 173
+  0 UInt8 bytes[12] = 54
+  0 UInt8 bytes[13] = 62
+  0 UInt8 bytes[14] = 111
+  0 UInt8 bytes[15] = 147
+ 1 string m_ClassName = "VRTK_UIDraggableItem_UnityEvents"
+ 1 string m_Namespace = "VRTK.UnityEventHelper"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

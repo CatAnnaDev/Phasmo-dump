@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlayerInputEditor"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 40
+  0 UInt8 bytes[1] = 122
+  0 UInt8 bytes[2] = 74
+  0 UInt8 bytes[3] = 167
+  0 UInt8 bytes[4] = 57
+  0 UInt8 bytes[5] = 43
+  0 UInt8 bytes[6] = 207
+  0 UInt8 bytes[7] = 179
+  0 UInt8 bytes[8] = 9
+  0 UInt8 bytes[9] = 180
+  0 UInt8 bytes[10] = 215
+  0 UInt8 bytes[11] = 180
+  0 UInt8 bytes[12] = 220
+  0 UInt8 bytes[13] = 137
+  0 UInt8 bytes[14] = 235
+  0 UInt8 bytes[15] = 60
+ 1 string m_ClassName = "PlayerInputEditor"
+ 1 string m_Namespace = "UnityEngine.InputSystem.Editor"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

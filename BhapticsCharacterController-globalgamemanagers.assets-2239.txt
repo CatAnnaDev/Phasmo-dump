@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsCharacterController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 1
+  0 UInt8 bytes[1] = 123
+  0 UInt8 bytes[2] = 144
+  0 UInt8 bytes[3] = 122
+  0 UInt8 bytes[4] = 148
+  0 UInt8 bytes[5] = 39
+  0 UInt8 bytes[6] = 39
+  0 UInt8 bytes[7] = 165
+  0 UInt8 bytes[8] = 132
+  0 UInt8 bytes[9] = 213
+  0 UInt8 bytes[10] = 82
+  0 UInt8 bytes[11] = 133
+  0 UInt8 bytes[12] = 226
+  0 UInt8 bytes[13] = 90
+  0 UInt8 bytes[14] = 29
+  0 UInt8 bytes[15] = 7
+ 1 string m_ClassName = "BhapticsCharacterController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

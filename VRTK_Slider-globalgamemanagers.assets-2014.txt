@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_Slider"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 107
+  0 UInt8 bytes[1] = 62
+  0 UInt8 bytes[2] = 208
+  0 UInt8 bytes[3] = 2
+  0 UInt8 bytes[4] = 183
+  0 UInt8 bytes[5] = 33
+  0 UInt8 bytes[6] = 95
+  0 UInt8 bytes[7] = 95
+  0 UInt8 bytes[8] = 178
+  0 UInt8 bytes[9] = 110
+  0 UInt8 bytes[10] = 108
+  0 UInt8 bytes[11] = 48
+  0 UInt8 bytes[12] = 63
+  0 UInt8 bytes[13] = 237
+  0 UInt8 bytes[14] = 130
+  0 UInt8 bytes[15] = 248
+ 1 string m_ClassName = "VRTK_Slider"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

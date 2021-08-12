@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlayerHeadCamera"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 246
+  0 UInt8 bytes[1] = 114
+  0 UInt8 bytes[2] = 224
+  0 UInt8 bytes[3] = 121
+  0 UInt8 bytes[4] = 72
+  0 UInt8 bytes[5] = 50
+  0 UInt8 bytes[6] = 233
+  0 UInt8 bytes[7] = 58
+  0 UInt8 bytes[8] = 209
+  0 UInt8 bytes[9] = 135
+  0 UInt8 bytes[10] = 233
+  0 UInt8 bytes[11] = 241
+  0 UInt8 bytes[12] = 35
+  0 UInt8 bytes[13] = 89
+  0 UInt8 bytes[14] = 174
+  0 UInt8 bytes[15] = 1
+ 1 string m_ClassName = "PlayerHeadCamera"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

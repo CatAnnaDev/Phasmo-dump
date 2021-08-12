@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ConnectAndJoinRandom"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 252
+  0 UInt8 bytes[1] = 123
+  0 UInt8 bytes[2] = 94
+  0 UInt8 bytes[3] = 125
+  0 UInt8 bytes[4] = 108
+  0 UInt8 bytes[5] = 6
+  0 UInt8 bytes[6] = 226
+  0 UInt8 bytes[7] = 237
+  0 UInt8 bytes[8] = 88
+  0 UInt8 bytes[9] = 76
+  0 UInt8 bytes[10] = 185
+  0 UInt8 bytes[11] = 164
+  0 UInt8 bytes[12] = 224
+  0 UInt8 bytes[13] = 84
+  0 UInt8 bytes[14] = 199
+  0 UInt8 bytes[15] = 156
+ 1 string m_ClassName = "ConnectAndJoinRandom"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

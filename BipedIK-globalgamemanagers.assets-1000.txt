@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BipedIK"
+ 0 int m_ExecutionOrder = 9998
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 248
+  0 UInt8 bytes[1] = 205
+  0 UInt8 bytes[2] = 141
+  0 UInt8 bytes[3] = 209
+  0 UInt8 bytes[4] = 213
+  0 UInt8 bytes[5] = 136
+  0 UInt8 bytes[6] = 216
+  0 UInt8 bytes[7] = 197
+  0 UInt8 bytes[8] = 22
+  0 UInt8 bytes[9] = 43
+  0 UInt8 bytes[10] = 248
+  0 UInt8 bytes[11] = 29
+  0 UInt8 bytes[12] = 205
+  0 UInt8 bytes[13] = 91
+  0 UInt8 bytes[14] = 92
+  0 UInt8 bytes[15] = 111
+ 1 string m_ClassName = "BipedIK"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PunTurnManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 225
+  0 UInt8 bytes[1] = 230
+  0 UInt8 bytes[2] = 21
+  0 UInt8 bytes[3] = 234
+  0 UInt8 bytes[4] = 247
+  0 UInt8 bytes[5] = 62
+  0 UInt8 bytes[6] = 86
+  0 UInt8 bytes[7] = 8
+  0 UInt8 bytes[8] = 40
+  0 UInt8 bytes[9] = 245
+  0 UInt8 bytes[10] = 62
+  0 UInt8 bytes[11] = 220
+  0 UInt8 bytes[12] = 137
+  0 UInt8 bytes[13] = 82
+  0 UInt8 bytes[14] = 230
+  0 UInt8 bytes[15] = 21
+ 1 string m_ClassName = "PunTurnManager"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

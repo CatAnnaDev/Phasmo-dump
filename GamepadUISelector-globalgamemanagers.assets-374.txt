@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GamepadUISelector"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 89
+  0 UInt8 bytes[1] = 132
+  0 UInt8 bytes[2] = 31
+  0 UInt8 bytes[3] = 166
+  0 UInt8 bytes[4] = 98
+  0 UInt8 bytes[5] = 88
+  0 UInt8 bytes[6] = 112
+  0 UInt8 bytes[7] = 207
+  0 UInt8 bytes[8] = 92
+  0 UInt8 bytes[9] = 70
+  0 UInt8 bytes[10] = 177
+  0 UInt8 bytes[11] = 101
+  0 UInt8 bytes[12] = 229
+  0 UInt8 bytes[13] = 174
+  0 UInt8 bytes[14] = 191
+  0 UInt8 bytes[15] = 132
+ 1 string m_ClassName = "GamepadUISelector"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

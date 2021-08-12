@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRIKCalibrationController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 54
+  0 UInt8 bytes[1] = 219
+  0 UInt8 bytes[2] = 24
+  0 UInt8 bytes[3] = 3
+  0 UInt8 bytes[4] = 31
+  0 UInt8 bytes[5] = 193
+  0 UInt8 bytes[6] = 107
+  0 UInt8 bytes[7] = 221
+  0 UInt8 bytes[8] = 71
+  0 UInt8 bytes[9] = 176
+  0 UInt8 bytes[10] = 26
+  0 UInt8 bytes[11] = 1
+  0 UInt8 bytes[12] = 57
+  0 UInt8 bytes[13] = 27
+  0 UInt8 bytes[14] = 66
+  0 UInt8 bytes[15] = 127
+ 1 string m_ClassName = "VRIKCalibrationController"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

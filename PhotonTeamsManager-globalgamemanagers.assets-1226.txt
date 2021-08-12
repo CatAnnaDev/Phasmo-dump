@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonTeamsManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 0
+  0 UInt8 bytes[1] = 201
+  0 UInt8 bytes[2] = 159
+  0 UInt8 bytes[3] = 243
+  0 UInt8 bytes[4] = 244
+  0 UInt8 bytes[5] = 11
+  0 UInt8 bytes[6] = 209
+  0 UInt8 bytes[7] = 21
+  0 UInt8 bytes[8] = 144
+  0 UInt8 bytes[9] = 198
+  0 UInt8 bytes[10] = 112
+  0 UInt8 bytes[11] = 88
+  0 UInt8 bytes[12] = 14
+  0 UInt8 bytes[13] = 81
+  0 UInt8 bytes[14] = 56
+  0 UInt8 bytes[15] = 37
+ 1 string m_ClassName = "PhotonTeamsManager"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MechSpiderController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 35
+  0 UInt8 bytes[1] = 184
+  0 UInt8 bytes[2] = 207
+  0 UInt8 bytes[3] = 175
+  0 UInt8 bytes[4] = 76
+  0 UInt8 bytes[5] = 102
+  0 UInt8 bytes[6] = 119
+  0 UInt8 bytes[7] = 183
+  0 UInt8 bytes[8] = 26
+  0 UInt8 bytes[9] = 162
+  0 UInt8 bytes[10] = 183
+  0 UInt8 bytes[11] = 240
+  0 UInt8 bytes[12] = 6
+  0 UInt8 bytes[13] = 195
+  0 UInt8 bytes[14] = 42
+  0 UInt8 bytes[15] = 104
+ 1 string m_ClassName = "MechSpiderController"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

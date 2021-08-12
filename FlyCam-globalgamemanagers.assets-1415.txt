@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FlyCam"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 32
+  0 UInt8 bytes[1] = 64
+  0 UInt8 bytes[2] = 108
+  0 UInt8 bytes[3] = 152
+  0 UInt8 bytes[4] = 207
+  0 UInt8 bytes[5] = 37
+  0 UInt8 bytes[6] = 186
+  0 UInt8 bytes[7] = 210
+  0 UInt8 bytes[8] = 221
+  0 UInt8 bytes[9] = 207
+  0 UInt8 bytes[10] = 101
+  0 UInt8 bytes[11] = 56
+  0 UInt8 bytes[12] = 54
+  0 UInt8 bytes[13] = 81
+  0 UInt8 bytes[14] = 168
+  0 UInt8 bytes[15] = 121
+ 1 string m_ClassName = "FlyCam"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CachedComponents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 95
+  0 UInt8 bytes[1] = 230
+  0 UInt8 bytes[2] = 148
+  0 UInt8 bytes[3] = 166
+  0 UInt8 bytes[4] = 170
+  0 UInt8 bytes[5] = 14
+  0 UInt8 bytes[6] = 109
+  0 UInt8 bytes[7] = 254
+  0 UInt8 bytes[8] = 120
+  0 UInt8 bytes[9] = 44
+  0 UInt8 bytes[10] = 134
+  0 UInt8 bytes[11] = 119
+  0 UInt8 bytes[12] = 212
+  0 UInt8 bytes[13] = 228
+  0 UInt8 bytes[14] = 183
+  0 UInt8 bytes[15] = 84
+ 1 string m_ClassName = "CachedComponents"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

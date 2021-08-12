@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GhostAI"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 251
+  0 UInt8 bytes[1] = 238
+  0 UInt8 bytes[2] = 46
+  0 UInt8 bytes[3] = 250
+  0 UInt8 bytes[4] = 1
+  0 UInt8 bytes[5] = 229
+  0 UInt8 bytes[6] = 34
+  0 UInt8 bytes[7] = 170
+  0 UInt8 bytes[8] = 84
+  0 UInt8 bytes[9] = 135
+  0 UInt8 bytes[10] = 255
+  0 UInt8 bytes[11] = 32
+  0 UInt8 bytes[12] = 46
+  0 UInt8 bytes[13] = 32
+  0 UInt8 bytes[14] = 166
+  0 UInt8 bytes[15] = 98
+ 1 string m_ClassName = "GhostAI"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

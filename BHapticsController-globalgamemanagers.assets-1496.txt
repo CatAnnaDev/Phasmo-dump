@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BHapticsController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 102
+  0 UInt8 bytes[1] = 193
+  0 UInt8 bytes[2] = 132
+  0 UInt8 bytes[3] = 49
+  0 UInt8 bytes[4] = 255
+  0 UInt8 bytes[5] = 251
+  0 UInt8 bytes[6] = 104
+  0 UInt8 bytes[7] = 172
+  0 UInt8 bytes[8] = 56
+  0 UInt8 bytes[9] = 115
+  0 UInt8 bytes[10] = 180
+  0 UInt8 bytes[11] = 155
+  0 UInt8 bytes[12] = 176
+  0 UInt8 bytes[13] = 126
+  0 UInt8 bytes[14] = 165
+  0 UInt8 bytes[15] = 211
+ 1 string m_ClassName = "BHapticsController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

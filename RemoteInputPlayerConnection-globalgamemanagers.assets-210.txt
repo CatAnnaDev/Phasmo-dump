@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "RemoteInputPlayerConnection"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 237
+  0 UInt8 bytes[1] = 227
+  0 UInt8 bytes[2] = 213
+  0 UInt8 bytes[3] = 34
+  0 UInt8 bytes[4] = 206
+  0 UInt8 bytes[5] = 41
+  0 UInt8 bytes[6] = 167
+  0 UInt8 bytes[7] = 45
+  0 UInt8 bytes[8] = 235
+  0 UInt8 bytes[9] = 38
+  0 UInt8 bytes[10] = 19
+  0 UInt8 bytes[11] = 171
+  0 UInt8 bytes[12] = 218
+  0 UInt8 bytes[13] = 87
+  0 UInt8 bytes[14] = 209
+  0 UInt8 bytes[15] = 30
+ 1 string m_ClassName = "RemoteInputPlayerConnection"
+ 1 string m_Namespace = "UnityEngine.InputSystem"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

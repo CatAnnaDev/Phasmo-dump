@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DemoAdvancedNightVision"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 59
+  0 UInt8 bytes[1] = 25
+  0 UInt8 bytes[2] = 12
+  0 UInt8 bytes[3] = 234
+  0 UInt8 bytes[4] = 168
+  0 UInt8 bytes[5] = 216
+  0 UInt8 bytes[6] = 9
+  0 UInt8 bytes[7] = 218
+  0 UInt8 bytes[8] = 253
+  0 UInt8 bytes[9] = 73
+  0 UInt8 bytes[10] = 176
+  0 UInt8 bytes[11] = 62
+  0 UInt8 bytes[12] = 29
+  0 UInt8 bytes[13] = 246
+  0 UInt8 bytes[14] = 241
+  0 UInt8 bytes[15] = 64
+ 1 string m_ClassName = "DemoAdvancedNightVision"
+ 1 string m_Namespace = "AdvancedNightVision"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

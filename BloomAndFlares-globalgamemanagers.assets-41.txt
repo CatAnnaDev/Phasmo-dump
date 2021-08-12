@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BloomAndFlares"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 182
+  0 UInt8 bytes[1] = 171
+  0 UInt8 bytes[2] = 221
+  0 UInt8 bytes[3] = 254
+  0 UInt8 bytes[4] = 129
+  0 UInt8 bytes[5] = 206
+  0 UInt8 bytes[6] = 119
+  0 UInt8 bytes[7] = 9
+  0 UInt8 bytes[8] = 253
+  0 UInt8 bytes[9] = 103
+  0 UInt8 bytes[10] = 159
+  0 UInt8 bytes[11] = 30
+  0 UInt8 bytes[12] = 160
+  0 UInt8 bytes[13] = 67
+  0 UInt8 bytes[14] = 60
+  0 UInt8 bytes[15] = 247
+ 1 string m_ClassName = "BloomAndFlares"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

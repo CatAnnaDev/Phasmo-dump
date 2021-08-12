@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GhostAudio"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 152
+  0 UInt8 bytes[1] = 179
+  0 UInt8 bytes[2] = 163
+  0 UInt8 bytes[3] = 48
+  0 UInt8 bytes[4] = 183
+  0 UInt8 bytes[5] = 251
+  0 UInt8 bytes[6] = 236
+  0 UInt8 bytes[7] = 3
+  0 UInt8 bytes[8] = 153
+  0 UInt8 bytes[9] = 102
+  0 UInt8 bytes[10] = 59
+  0 UInt8 bytes[11] = 194
+  0 UInt8 bytes[12] = 193
+  0 UInt8 bytes[13] = 176
+  0 UInt8 bytes[14] = 155
+  0 UInt8 bytes[15] = 151
+ 1 string m_ClassName = "GhostAudio"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ES3ReferenceMgr"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 143
+  0 UInt8 bytes[1] = 0
+  0 UInt8 bytes[2] = 177
+  0 UInt8 bytes[3] = 189
+  0 UInt8 bytes[4] = 74
+  0 UInt8 bytes[5] = 82
+  0 UInt8 bytes[6] = 93
+  0 UInt8 bytes[7] = 146
+  0 UInt8 bytes[8] = 36
+  0 UInt8 bytes[9] = 246
+  0 UInt8 bytes[10] = 54
+  0 UInt8 bytes[11] = 91
+  0 UInt8 bytes[12] = 243
+  0 UInt8 bytes[13] = 245
+  0 UInt8 bytes[14] = 152
+  0 UInt8 bytes[15] = 112
+ 1 string m_ClassName = "ES3ReferenceMgr"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

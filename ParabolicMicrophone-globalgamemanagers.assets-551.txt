@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ParabolicMicrophone"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 104
+  0 UInt8 bytes[1] = 35
+  0 UInt8 bytes[2] = 201
+  0 UInt8 bytes[3] = 5
+  0 UInt8 bytes[4] = 252
+  0 UInt8 bytes[5] = 139
+  0 UInt8 bytes[6] = 206
+  0 UInt8 bytes[7] = 146
+  0 UInt8 bytes[8] = 227
+  0 UInt8 bytes[9] = 240
+  0 UInt8 bytes[10] = 221
+  0 UInt8 bytes[11] = 84
+  0 UInt8 bytes[12] = 103
+  0 UInt8 bytes[13] = 40
+  0 UInt8 bytes[14] = 246
+  0 UInt8 bytes[15] = 247
+ 1 string m_ClassName = "ParabolicMicrophone"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

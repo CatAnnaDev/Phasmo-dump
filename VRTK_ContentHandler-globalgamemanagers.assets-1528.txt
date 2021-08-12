@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ContentHandler"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 224
+  0 UInt8 bytes[1] = 176
+  0 UInt8 bytes[2] = 227
+  0 UInt8 bytes[3] = 210
+  0 UInt8 bytes[4] = 210
+  0 UInt8 bytes[5] = 31
+  0 UInt8 bytes[6] = 140
+  0 UInt8 bytes[7] = 136
+  0 UInt8 bytes[8] = 23
+  0 UInt8 bytes[9] = 60
+  0 UInt8 bytes[10] = 126
+  0 UInt8 bytes[11] = 154
+  0 UInt8 bytes[12] = 184
+  0 UInt8 bytes[13] = 73
+  0 UInt8 bytes[14] = 104
+  0 UInt8 bytes[15] = 4
+ 1 string m_ClassName = "VRTK_ContentHandler"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

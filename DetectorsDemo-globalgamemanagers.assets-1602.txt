@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DetectorsDemo"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 17
+  0 UInt8 bytes[1] = 189
+  0 UInt8 bytes[2] = 214
+  0 UInt8 bytes[3] = 21
+  0 UInt8 bytes[4] = 135
+  0 UInt8 bytes[5] = 219
+  0 UInt8 bytes[6] = 116
+  0 UInt8 bytes[7] = 118
+  0 UInt8 bytes[8] = 114
+  0 UInt8 bytes[9] = 182
+  0 UInt8 bytes[10] = 108
+  0 UInt8 bytes[11] = 82
+  0 UInt8 bytes[12] = 68
+  0 UInt8 bytes[13] = 35
+  0 UInt8 bytes[14] = 149
+  0 UInt8 bytes[15] = 216
+ 1 string m_ClassName = "DetectorsDemo"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

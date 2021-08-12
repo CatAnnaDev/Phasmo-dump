@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HxVolumetricCamera"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 113
+  0 UInt8 bytes[1] = 27
+  0 UInt8 bytes[2] = 160
+  0 UInt8 bytes[3] = 174
+  0 UInt8 bytes[4] = 136
+  0 UInt8 bytes[5] = 181
+  0 UInt8 bytes[6] = 120
+  0 UInt8 bytes[7] = 184
+  0 UInt8 bytes[8] = 176
+  0 UInt8 bytes[9] = 102
+  0 UInt8 bytes[10] = 255
+  0 UInt8 bytes[11] = 141
+  0 UInt8 bytes[12] = 70
+  0 UInt8 bytes[13] = 36
+  0 UInt8 bytes[14] = 191
+  0 UInt8 bytes[15] = 178
+ 1 string m_ClassName = "HxVolumetricCamera"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SteamVR_TestController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 101
+  0 UInt8 bytes[1] = 211
+  0 UInt8 bytes[2] = 195
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 249
+  0 UInt8 bytes[5] = 164
+  0 UInt8 bytes[6] = 37
+  0 UInt8 bytes[7] = 183
+  0 UInt8 bytes[8] = 177
+  0 UInt8 bytes[9] = 192
+  0 UInt8 bytes[10] = 41
+  0 UInt8 bytes[11] = 25
+  0 UInt8 bytes[12] = 245
+  0 UInt8 bytes[13] = 65
+  0 UInt8 bytes[14] = 64
+  0 UInt8 bytes[15] = 157
+ 1 string m_ClassName = "SteamVR_TestController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

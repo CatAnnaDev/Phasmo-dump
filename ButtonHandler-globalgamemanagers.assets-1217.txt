@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ButtonHandler"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 200
+  0 UInt8 bytes[1] = 140
+  0 UInt8 bytes[2] = 65
+  0 UInt8 bytes[3] = 153
+  0 UInt8 bytes[4] = 178
+  0 UInt8 bytes[5] = 136
+  0 UInt8 bytes[6] = 53
+  0 UInt8 bytes[7] = 110
+  0 UInt8 bytes[8] = 195
+  0 UInt8 bytes[9] = 235
+  0 UInt8 bytes[10] = 47
+  0 UInt8 bytes[11] = 13
+  0 UInt8 bytes[12] = 133
+  0 UInt8 bytes[13] = 171
+  0 UInt8 bytes[14] = 198
+  0 UInt8 bytes[15] = 25
+ 1 string m_ClassName = "ButtonHandler"
+ 1 string m_Namespace = "UnityStandardAssets.CrossPlatformInput"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlaySound"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 202
+  0 UInt8 bytes[1] = 254
+  0 UInt8 bytes[2] = 143
+  0 UInt8 bytes[3] = 101
+  0 UInt8 bytes[4] = 158
+  0 UInt8 bytes[5] = 196
+  0 UInt8 bytes[6] = 129
+  0 UInt8 bytes[7] = 1
+  0 UInt8 bytes[8] = 103
+  0 UInt8 bytes[9] = 225
+  0 UInt8 bytes[10] = 137
+  0 UInt8 bytes[11] = 227
+  0 UInt8 bytes[12] = 224
+  0 UInt8 bytes[13] = 108
+  0 UInt8 bytes[14] = 111
+  0 UInt8 bytes[15] = 87
+ 1 string m_ClassName = "PlaySound"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

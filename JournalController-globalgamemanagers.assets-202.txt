@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "JournalController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 178
+  0 UInt8 bytes[1] = 217
+  0 UInt8 bytes[2] = 103
+  0 UInt8 bytes[3] = 245
+  0 UInt8 bytes[4] = 198
+  0 UInt8 bytes[5] = 12
+  0 UInt8 bytes[6] = 244
+  0 UInt8 bytes[7] = 112
+  0 UInt8 bytes[8] = 166
+  0 UInt8 bytes[9] = 98
+  0 UInt8 bytes[10] = 233
+  0 UInt8 bytes[11] = 72
+  0 UInt8 bytes[12] = 38
+  0 UInt8 bytes[13] = 177
+  0 UInt8 bytes[14] = 42
+  0 UInt8 bytes[15] = 5
+ 1 string m_ClassName = "JournalController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

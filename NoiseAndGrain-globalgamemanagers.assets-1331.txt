@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "NoiseAndGrain"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 150
+  0 UInt8 bytes[1] = 83
+  0 UInt8 bytes[2] = 159
+  0 UInt8 bytes[3] = 214
+  0 UInt8 bytes[4] = 254
+  0 UInt8 bytes[5] = 235
+  0 UInt8 bytes[6] = 203
+  0 UInt8 bytes[7] = 201
+  0 UInt8 bytes[8] = 218
+  0 UInt8 bytes[9] = 117
+  0 UInt8 bytes[10] = 206
+  0 UInt8 bytes[11] = 0
+  0 UInt8 bytes[12] = 95
+  0 UInt8 bytes[13] = 212
+  0 UInt8 bytes[14] = 70
+  0 UInt8 bytes[15] = 169
+ 1 string m_ClassName = "NoiseAndGrain"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

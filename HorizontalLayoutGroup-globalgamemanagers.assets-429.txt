@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HorizontalLayoutGroup"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 90
+  0 UInt8 bytes[1] = 212
+  0 UInt8 bytes[2] = 170
+  0 UInt8 bytes[3] = 35
+  0 UInt8 bytes[4] = 125
+  0 UInt8 bytes[5] = 71
+  0 UInt8 bytes[6] = 172
+  0 UInt8 bytes[7] = 43
+  0 UInt8 bytes[8] = 171
+  0 UInt8 bytes[9] = 23
+  0 UInt8 bytes[10] = 186
+  0 UInt8 bytes[11] = 203
+  0 UInt8 bytes[12] = 103
+  0 UInt8 bytes[13] = 46
+  0 UInt8 bytes[14] = 223
+  0 UInt8 bytes[15] = 122
+ 1 string m_ClassName = "HorizontalLayoutGroup"
+ 1 string m_Namespace = "UnityEngine.UI"
+ 1 string m_AssemblyName = "UnityEngine.UI.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ShadowDistance"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 11
+  0 UInt8 bytes[1] = 146
+  0 UInt8 bytes[2] = 214
+  0 UInt8 bytes[3] = 15
+  0 UInt8 bytes[4] = 166
+  0 UInt8 bytes[5] = 135
+  0 UInt8 bytes[6] = 106
+  0 UInt8 bytes[7] = 248
+  0 UInt8 bytes[8] = 158
+  0 UInt8 bytes[9] = 102
+  0 UInt8 bytes[10] = 212
+  0 UInt8 bytes[11] = 221
+  0 UInt8 bytes[12] = 245
+  0 UInt8 bytes[13] = 144
+  0 UInt8 bytes[14] = 103
+  0 UInt8 bytes[15] = 149
+ 1 string m_ClassName = "ShadowDistance"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

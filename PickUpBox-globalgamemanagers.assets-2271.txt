@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PickUpBox"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 41
+  0 UInt8 bytes[1] = 166
+  0 UInt8 bytes[2] = 10
+  0 UInt8 bytes[3] = 135
+  0 UInt8 bytes[4] = 241
+  0 UInt8 bytes[5] = 215
+  0 UInt8 bytes[6] = 239
+  0 UInt8 bytes[7] = 70
+  0 UInt8 bytes[8] = 115
+  0 UInt8 bytes[9] = 44
+  0 UInt8 bytes[10] = 10
+  0 UInt8 bytes[11] = 90
+  0 UInt8 bytes[12] = 158
+  0 UInt8 bytes[13] = 237
+  0 UInt8 bytes[14] = 94
+  0 UInt8 bytes[15] = 85
+ 1 string m_ClassName = "PickUpBox"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

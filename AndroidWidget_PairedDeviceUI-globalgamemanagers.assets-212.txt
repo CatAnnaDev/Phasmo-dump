@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AndroidWidget_PairedDeviceUI"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 221
+  0 UInt8 bytes[1] = 85
+  0 UInt8 bytes[2] = 243
+  0 UInt8 bytes[3] = 242
+  0 UInt8 bytes[4] = 18
+  0 UInt8 bytes[5] = 218
+  0 UInt8 bytes[6] = 94
+  0 UInt8 bytes[7] = 73
+  0 UInt8 bytes[8] = 118
+  0 UInt8 bytes[9] = 132
+  0 UInt8 bytes[10] = 44
+  0 UInt8 bytes[11] = 234
+  0 UInt8 bytes[12] = 19
+  0 UInt8 bytes[13] = 112
+  0 UInt8 bytes[14] = 246
+  0 UInt8 bytes[15] = 35
+ 1 string m_ClassName = "AndroidWidget_PairedDeviceUI"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

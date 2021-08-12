@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_HeadsetControllerAware_UnityEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 244
+  0 UInt8 bytes[1] = 170
+  0 UInt8 bytes[2] = 113
+  0 UInt8 bytes[3] = 135
+  0 UInt8 bytes[4] = 79
+  0 UInt8 bytes[5] = 166
+  0 UInt8 bytes[6] = 132
+  0 UInt8 bytes[7] = 33
+  0 UInt8 bytes[8] = 101
+  0 UInt8 bytes[9] = 236
+  0 UInt8 bytes[10] = 254
+  0 UInt8 bytes[11] = 80
+  0 UInt8 bytes[12] = 227
+  0 UInt8 bytes[13] = 64
+  0 UInt8 bytes[14] = 175
+  0 UInt8 bytes[15] = 239
+ 1 string m_ClassName = "VRTK_HeadsetControllerAware_UnityEvents"
+ 1 string m_Namespace = "VRTK.UnityEventHelper"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

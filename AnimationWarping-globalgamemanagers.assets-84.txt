@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AnimationWarping"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 183
+  0 UInt8 bytes[1] = 206
+  0 UInt8 bytes[2] = 191
+  0 UInt8 bytes[3] = 121
+  0 UInt8 bytes[4] = 254
+  0 UInt8 bytes[5] = 0
+  0 UInt8 bytes[6] = 251
+  0 UInt8 bytes[7] = 53
+  0 UInt8 bytes[8] = 245
+  0 UInt8 bytes[9] = 130
+  0 UInt8 bytes[10] = 92
+  0 UInt8 bytes[11] = 140
+  0 UInt8 bytes[12] = 11
+  0 UInt8 bytes[13] = 96
+  0 UInt8 bytes[14] = 10
+  0 UInt8 bytes[15] = 94
+ 1 string m_ClassName = "AnimationWarping"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

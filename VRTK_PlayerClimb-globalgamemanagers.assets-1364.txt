@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_PlayerClimb"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 120
+  0 UInt8 bytes[1] = 234
+  0 UInt8 bytes[2] = 111
+  0 UInt8 bytes[3] = 71
+  0 UInt8 bytes[4] = 96
+  0 UInt8 bytes[5] = 106
+  0 UInt8 bytes[6] = 80
+  0 UInt8 bytes[7] = 220
+  0 UInt8 bytes[8] = 179
+  0 UInt8 bytes[9] = 62
+  0 UInt8 bytes[10] = 78
+  0 UInt8 bytes[11] = 149
+  0 UInt8 bytes[12] = 10
+  0 UInt8 bytes[13] = 50
+  0 UInt8 bytes[14] = 109
+  0 UInt8 bytes[15] = 96
+ 1 string m_ClassName = "VRTK_PlayerClimb"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

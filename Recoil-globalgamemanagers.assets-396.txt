@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Recoil"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 107
+  0 UInt8 bytes[1] = 70
+  0 UInt8 bytes[2] = 108
+  0 UInt8 bytes[3] = 120
+  0 UInt8 bytes[4] = 3
+  0 UInt8 bytes[5] = 18
+  0 UInt8 bytes[6] = 56
+  0 UInt8 bytes[7] = 21
+  0 UInt8 bytes[8] = 237
+  0 UInt8 bytes[9] = 116
+  0 UInt8 bytes[10] = 255
+  0 UInt8 bytes[11] = 61
+  0 UInt8 bytes[12] = 69
+  0 UInt8 bytes[13] = 166
+  0 UInt8 bytes[14] = 220
+  0 UInt8 bytes[15] = 94
+ 1 string m_ClassName = "Recoil"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

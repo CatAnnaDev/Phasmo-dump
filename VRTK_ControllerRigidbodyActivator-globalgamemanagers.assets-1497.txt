@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ControllerRigidbodyActivator"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 33
+  0 UInt8 bytes[1] = 214
+  0 UInt8 bytes[2] = 225
+  0 UInt8 bytes[3] = 133
+  0 UInt8 bytes[4] = 206
+  0 UInt8 bytes[5] = 16
+  0 UInt8 bytes[6] = 30
+  0 UInt8 bytes[7] = 27
+  0 UInt8 bytes[8] = 101
+  0 UInt8 bytes[9] = 220
+  0 UInt8 bytes[10] = 184
+  0 UInt8 bytes[11] = 103
+  0 UInt8 bytes[12] = 187
+  0 UInt8 bytes[13] = 237
+  0 UInt8 bytes[14] = 67
+  0 UInt8 bytes[15] = 89
+ 1 string m_ClassName = "VRTK_ControllerRigidbodyActivator"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

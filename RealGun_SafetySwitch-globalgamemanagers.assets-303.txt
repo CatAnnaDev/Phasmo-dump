@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "RealGun_SafetySwitch"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 120
+  0 UInt8 bytes[1] = 233
+  0 UInt8 bytes[2] = 112
+  0 UInt8 bytes[3] = 252
+  0 UInt8 bytes[4] = 249
+  0 UInt8 bytes[5] = 20
+  0 UInt8 bytes[6] = 246
+  0 UInt8 bytes[7] = 238
+  0 UInt8 bytes[8] = 128
+  0 UInt8 bytes[9] = 100
+  0 UInt8 bytes[10] = 122
+  0 UInt8 bytes[11] = 33
+  0 UInt8 bytes[12] = 89
+  0 UInt8 bytes[13] = 15
+  0 UInt8 bytes[14] = 161
+  0 UInt8 bytes[15] = 66
+ 1 string m_ClassName = "RealGun_SafetySwitch"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

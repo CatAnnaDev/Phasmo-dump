@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LensDistortion"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 177
+  0 UInt8 bytes[1] = 61
+  0 UInt8 bytes[2] = 231
+  0 UInt8 bytes[3] = 160
+  0 UInt8 bytes[4] = 164
+  0 UInt8 bytes[5] = 87
+  0 UInt8 bytes[6] = 203
+  0 UInt8 bytes[7] = 142
+  0 UInt8 bytes[8] = 2
+  0 UInt8 bytes[9] = 109
+  0 UInt8 bytes[10] = 66
+  0 UInt8 bytes[11] = 55
+  0 UInt8 bytes[12] = 220
+  0 UInt8 bytes[13] = 27
+  0 UInt8 bytes[14] = 87
+  0 UInt8 bytes[15] = 151
+ 1 string m_ClassName = "LensDistortion"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

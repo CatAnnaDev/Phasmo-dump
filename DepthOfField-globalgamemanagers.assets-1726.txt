@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DepthOfField"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 156
+  0 UInt8 bytes[1] = 195
+  0 UInt8 bytes[2] = 144
+  0 UInt8 bytes[3] = 74
+  0 UInt8 bytes[4] = 134
+  0 UInt8 bytes[5] = 245
+  0 UInt8 bytes[6] = 161
+  0 UInt8 bytes[7] = 25
+  0 UInt8 bytes[8] = 24
+  0 UInt8 bytes[9] = 77
+  0 UInt8 bytes[10] = 167
+  0 UInt8 bytes[11] = 53
+  0 UInt8 bytes[12] = 28
+  0 UInt8 bytes[13] = 219
+  0 UInt8 bytes[14] = 78
+  0 UInt8 bytes[15] = 101
+ 1 string m_ClassName = "DepthOfField"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

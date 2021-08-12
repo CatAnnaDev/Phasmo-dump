@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TruckRadioController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 238
+  0 UInt8 bytes[1] = 33
+  0 UInt8 bytes[2] = 156
+  0 UInt8 bytes[3] = 104
+  0 UInt8 bytes[4] = 158
+  0 UInt8 bytes[5] = 172
+  0 UInt8 bytes[6] = 211
+  0 UInt8 bytes[7] = 206
+  0 UInt8 bytes[8] = 235
+  0 UInt8 bytes[9] = 116
+  0 UInt8 bytes[10] = 62
+  0 UInt8 bytes[11] = 147
+  0 UInt8 bytes[12] = 0
+  0 UInt8 bytes[13] = 25
+  0 UInt8 bytes[14] = 254
+  0 UInt8 bytes[15] = 185
+ 1 string m_ClassName = "TruckRadioController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

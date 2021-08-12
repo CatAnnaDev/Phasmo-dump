@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "OnJoinedInstantiate"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 120
+  0 UInt8 bytes[1] = 41
+  0 UInt8 bytes[2] = 233
+  0 UInt8 bytes[3] = 50
+  0 UInt8 bytes[4] = 174
+  0 UInt8 bytes[5] = 201
+  0 UInt8 bytes[6] = 98
+  0 UInt8 bytes[7] = 175
+  0 UInt8 bytes[8] = 217
+  0 UInt8 bytes[9] = 188
+  0 UInt8 bytes[10] = 250
+  0 UInt8 bytes[11] = 210
+  0 UInt8 bytes[12] = 143
+  0 UInt8 bytes[13] = 255
+  0 UInt8 bytes[14] = 242
+  0 UInt8 bytes[15] = 125
+ 1 string m_ClassName = "OnJoinedInstantiate"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

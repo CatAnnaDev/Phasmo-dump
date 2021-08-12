@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlatformRotator"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 156
+  0 UInt8 bytes[1] = 27
+  0 UInt8 bytes[2] = 147
+  0 UInt8 bytes[3] = 190
+  0 UInt8 bytes[4] = 234
+  0 UInt8 bytes[5] = 206
+  0 UInt8 bytes[6] = 158
+  0 UInt8 bytes[7] = 1
+  0 UInt8 bytes[8] = 67
+  0 UInt8 bytes[9] = 199
+  0 UInt8 bytes[10] = 73
+  0 UInt8 bytes[11] = 92
+  0 UInt8 bytes[12] = 6
+  0 UInt8 bytes[13] = 179
+  0 UInt8 bytes[14] = 24
+  0 UInt8 bytes[15] = 194
+ 1 string m_ClassName = "PlatformRotator"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SaltSpot"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 16
+  0 UInt8 bytes[1] = 12
+  0 UInt8 bytes[2] = 123
+  0 UInt8 bytes[3] = 255
+  0 UInt8 bytes[4] = 151
+  0 UInt8 bytes[5] = 250
+  0 UInt8 bytes[6] = 110
+  0 UInt8 bytes[7] = 110
+  0 UInt8 bytes[8] = 27
+  0 UInt8 bytes[9] = 48
+  0 UInt8 bytes[10] = 192
+  0 UInt8 bytes[11] = 253
+  0 UInt8 bytes[12] = 23
+  0 UInt8 bytes[13] = 247
+  0 UInt8 bytes[14] = 85
+  0 UInt8 bytes[15] = 30
+ 1 string m_ClassName = "SaltSpot"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

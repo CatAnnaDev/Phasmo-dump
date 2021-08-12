@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ColorGrading"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 114
+  0 UInt8 bytes[1] = 111
+  0 UInt8 bytes[2] = 207
+  0 UInt8 bytes[3] = 121
+  0 UInt8 bytes[4] = 97
+  0 UInt8 bytes[5] = 203
+  0 UInt8 bytes[6] = 180
+  0 UInt8 bytes[7] = 16
+  0 UInt8 bytes[8] = 138
+  0 UInt8 bytes[9] = 165
+  0 UInt8 bytes[10] = 190
+  0 UInt8 bytes[11] = 94
+  0 UInt8 bytes[12] = 85
+  0 UInt8 bytes[13] = 184
+  0 UInt8 bytes[14] = 200
+  0 UInt8 bytes[15] = 191
+ 1 string m_ClassName = "ColorGrading"
+ 1 string m_Namespace = "UnityEngine.Rendering.PostProcessing"
+ 1 string m_AssemblyName = "Unity.Postprocessing.Runtime.dll"

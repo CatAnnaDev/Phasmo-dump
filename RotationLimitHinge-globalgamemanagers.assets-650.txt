@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "RotationLimitHinge"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 28
+  0 UInt8 bytes[1] = 36
+  0 UInt8 bytes[2] = 121
+  0 UInt8 bytes[3] = 167
+  0 UInt8 bytes[4] = 212
+  0 UInt8 bytes[5] = 102
+  0 UInt8 bytes[6] = 110
+  0 UInt8 bytes[7] = 195
+  0 UInt8 bytes[8] = 163
+  0 UInt8 bytes[9] = 218
+  0 UInt8 bytes[10] = 12
+  0 UInt8 bytes[11] = 63
+  0 UInt8 bytes[12] = 154
+  0 UInt8 bytes[13] = 183
+  0 UInt8 bytes[14] = 247
+  0 UInt8 bytes[15] = 242
+ 1 string m_ClassName = "RotationLimitHinge"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

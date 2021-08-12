@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TextButtonTransition"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 79
+  0 UInt8 bytes[1] = 232
+  0 UInt8 bytes[2] = 149
+  0 UInt8 bytes[3] = 94
+  0 UInt8 bytes[4] = 28
+  0 UInt8 bytes[5] = 102
+  0 UInt8 bytes[6] = 41
+  0 UInt8 bytes[7] = 53
+  0 UInt8 bytes[8] = 55
+  0 UInt8 bytes[9] = 27
+  0 UInt8 bytes[10] = 9
+  0 UInt8 bytes[11] = 54
+  0 UInt8 bytes[12] = 202
+  0 UInt8 bytes[13] = 251
+  0 UInt8 bytes[14] = 184
+  0 UInt8 bytes[15] = 155
+ 1 string m_ClassName = "TextButtonTransition"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

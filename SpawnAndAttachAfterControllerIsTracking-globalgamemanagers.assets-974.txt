@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SpawnAndAttachAfterControllerIsTracking"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 186
+  0 UInt8 bytes[1] = 220
+  0 UInt8 bytes[2] = 141
+  0 UInt8 bytes[3] = 53
+  0 UInt8 bytes[4] = 90
+  0 UInt8 bytes[5] = 99
+  0 UInt8 bytes[6] = 167
+  0 UInt8 bytes[7] = 176
+  0 UInt8 bytes[8] = 41
+  0 UInt8 bytes[9] = 21
+  0 UInt8 bytes[10] = 71
+  0 UInt8 bytes[11] = 177
+  0 UInt8 bytes[12] = 46
+  0 UInt8 bytes[13] = 34
+  0 UInt8 bytes[14] = 119
+  0 UInt8 bytes[15] = 252
+ 1 string m_ClassName = "SpawnAndAttachAfterControllerIsTracking"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

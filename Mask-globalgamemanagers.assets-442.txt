@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Mask"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 171
+  0 UInt8 bytes[1] = 167
+  0 UInt8 bytes[2] = 178
+  0 UInt8 bytes[3] = 133
+  0 UInt8 bytes[4] = 46
+  0 UInt8 bytes[5] = 246
+  0 UInt8 bytes[6] = 29
+  0 UInt8 bytes[7] = 23
+  0 UInt8 bytes[8] = 93
+  0 UInt8 bytes[9] = 217
+  0 UInt8 bytes[10] = 96
+  0 UInt8 bytes[11] = 46
+  0 UInt8 bytes[12] = 119
+  0 UInt8 bytes[13] = 35
+  0 UInt8 bytes[14] = 213
+  0 UInt8 bytes[15] = 229
+ 1 string m_ClassName = "Mask"
+ 1 string m_Namespace = "UnityEngine.UI"
+ 1 string m_AssemblyName = "UnityEngine.UI.dll"

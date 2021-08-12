@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HitReaction"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 96
+  0 UInt8 bytes[1] = 91
+  0 UInt8 bytes[2] = 209
+  0 UInt8 bytes[3] = 123
+  0 UInt8 bytes[4] = 168
+  0 UInt8 bytes[5] = 74
+  0 UInt8 bytes[6] = 10
+  0 UInt8 bytes[7] = 77
+  0 UInt8 bytes[8] = 78
+  0 UInt8 bytes[9] = 34
+  0 UInt8 bytes[10] = 18
+  0 UInt8 bytes[11] = 34
+  0 UInt8 bytes[12] = 139
+  0 UInt8 bytes[13] = 34
+  0 UInt8 bytes[14] = 159
+  0 UInt8 bytes[15] = 93
+ 1 string m_ClassName = "HitReaction"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

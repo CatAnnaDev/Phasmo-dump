@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MotionBlur"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 175
+  0 UInt8 bytes[1] = 120
+  0 UInt8 bytes[2] = 242
+  0 UInt8 bytes[3] = 33
+  0 UInt8 bytes[4] = 167
+  0 UInt8 bytes[5] = 107
+  0 UInt8 bytes[6] = 49
+  0 UInt8 bytes[7] = 23
+  0 UInt8 bytes[8] = 146
+  0 UInt8 bytes[9] = 65
+  0 UInt8 bytes[10] = 199
+  0 UInt8 bytes[11] = 95
+  0 UInt8 bytes[12] = 120
+  0 UInt8 bytes[13] = 93
+  0 UInt8 bytes[14] = 56
+  0 UInt8 bytes[15] = 148
+ 1 string m_ClassName = "MotionBlur"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CsvTest"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 28
+  0 UInt8 bytes[1] = 63
+  0 UInt8 bytes[2] = 212
+  0 UInt8 bytes[3] = 15
+  0 UInt8 bytes[4] = 111
+  0 UInt8 bytes[5] = 62
+  0 UInt8 bytes[6] = 181
+  0 UInt8 bytes[7] = 136
+  0 UInt8 bytes[8] = 82
+  0 UInt8 bytes[9] = 250
+  0 UInt8 bytes[10] = 30
+  0 UInt8 bytes[11] = 152
+  0 UInt8 bytes[12] = 180
+  0 UInt8 bytes[13] = 161
+  0 UInt8 bytes[14] = 11
+  0 UInt8 bytes[15] = 136
+ 1 string m_ClassName = "CsvTest"
+ 1 string m_Namespace = "RedScarf.EasyCSV.Demo"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

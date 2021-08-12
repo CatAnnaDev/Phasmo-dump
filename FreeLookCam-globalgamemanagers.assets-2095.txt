@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FreeLookCam"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 130
+  0 UInt8 bytes[1] = 22
+  0 UInt8 bytes[2] = 202
+  0 UInt8 bytes[3] = 0
+  0 UInt8 bytes[4] = 9
+  0 UInt8 bytes[5] = 73
+  0 UInt8 bytes[6] = 135
+  0 UInt8 bytes[7] = 149
+  0 UInt8 bytes[8] = 75
+  0 UInt8 bytes[9] = 207
+  0 UInt8 bytes[10] = 34
+  0 UInt8 bytes[11] = 253
+  0 UInt8 bytes[12] = 92
+  0 UInt8 bytes[13] = 207
+  0 UInt8 bytes[14] = 155
+  0 UInt8 bytes[15] = 253
+ 1 string m_ClassName = "FreeLookCam"
+ 1 string m_Namespace = "UnityStandardAssets.Cameras"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

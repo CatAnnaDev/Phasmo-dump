@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ContrastEnhance"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 40
+  0 UInt8 bytes[1] = 215
+  0 UInt8 bytes[2] = 144
+  0 UInt8 bytes[3] = 210
+  0 UInt8 bytes[4] = 2
+  0 UInt8 bytes[5] = 190
+  0 UInt8 bytes[6] = 179
+  0 UInt8 bytes[7] = 0
+  0 UInt8 bytes[8] = 236
+  0 UInt8 bytes[9] = 47
+  0 UInt8 bytes[10] = 252
+  0 UInt8 bytes[11] = 98
+  0 UInt8 bytes[12] = 101
+  0 UInt8 bytes[13] = 22
+  0 UInt8 bytes[14] = 12
+  0 UInt8 bytes[15] = 38
+ 1 string m_ClassName = "ContrastEnhance"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

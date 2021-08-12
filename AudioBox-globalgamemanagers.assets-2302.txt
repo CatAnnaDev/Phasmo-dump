@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AudioBox"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 205
+  0 UInt8 bytes[1] = 137
+  0 UInt8 bytes[2] = 248
+  0 UInt8 bytes[3] = 149
+  0 UInt8 bytes[4] = 36
+  0 UInt8 bytes[5] = 143
+  0 UInt8 bytes[6] = 42
+  0 UInt8 bytes[7] = 81
+  0 UInt8 bytes[8] = 96
+  0 UInt8 bytes[9] = 143
+  0 UInt8 bytes[10] = 226
+  0 UInt8 bytes[11] = 222
+  0 UInt8 bytes[12] = 104
+  0 UInt8 bytes[13] = 123
+  0 UInt8 bytes[14] = 48
+  0 UInt8 bytes[15] = 48
+ 1 string m_ClassName = "AudioBox"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

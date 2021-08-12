@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InputStateWindow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 173
+  0 UInt8 bytes[1] = 74
+  0 UInt8 bytes[2] = 240
+  0 UInt8 bytes[3] = 30
+  0 UInt8 bytes[4] = 235
+  0 UInt8 bytes[5] = 127
+  0 UInt8 bytes[6] = 10
+  0 UInt8 bytes[7] = 154
+  0 UInt8 bytes[8] = 224
+  0 UInt8 bytes[9] = 190
+  0 UInt8 bytes[10] = 45
+  0 UInt8 bytes[11] = 243
+  0 UInt8 bytes[12] = 224
+  0 UInt8 bytes[13] = 241
+  0 UInt8 bytes[14] = 149
+  0 UInt8 bytes[15] = 58
+ 1 string m_ClassName = "InputStateWindow"
+ 1 string m_Namespace = "UnityEngine.InputSystem.Editor"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

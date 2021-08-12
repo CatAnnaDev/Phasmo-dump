@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Fisheye"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 200
+  0 UInt8 bytes[1] = 83
+  0 UInt8 bytes[2] = 60
+  0 UInt8 bytes[3] = 152
+  0 UInt8 bytes[4] = 4
+  0 UInt8 bytes[5] = 73
+  0 UInt8 bytes[6] = 155
+  0 UInt8 bytes[7] = 39
+  0 UInt8 bytes[8] = 247
+  0 UInt8 bytes[9] = 195
+  0 UInt8 bytes[10] = 27
+  0 UInt8 bytes[11] = 39
+  0 UInt8 bytes[12] = 125
+  0 UInt8 bytes[13] = 39
+  0 UInt8 bytes[14] = 95
+  0 UInt8 bytes[15] = 145
+ 1 string m_ClassName = "Fisheye"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

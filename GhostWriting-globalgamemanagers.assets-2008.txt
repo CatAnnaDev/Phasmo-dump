@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GhostWriting"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 217
+  0 UInt8 bytes[1] = 148
+  0 UInt8 bytes[2] = 240
+  0 UInt8 bytes[3] = 0
+  0 UInt8 bytes[4] = 63
+  0 UInt8 bytes[5] = 166
+  0 UInt8 bytes[6] = 79
+  0 UInt8 bytes[7] = 238
+  0 UInt8 bytes[8] = 5
+  0 UInt8 bytes[9] = 177
+  0 UInt8 bytes[10] = 75
+  0 UInt8 bytes[11] = 246
+  0 UInt8 bytes[12] = 227
+  0 UInt8 bytes[13] = 77
+  0 UInt8 bytes[14] = 44
+  0 UInt8 bytes[15] = 36
+ 1 string m_ClassName = "GhostWriting"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

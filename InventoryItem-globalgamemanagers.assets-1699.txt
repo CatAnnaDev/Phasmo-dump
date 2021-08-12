@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "InventoryItem"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 80
+  0 UInt8 bytes[1] = 187
+  0 UInt8 bytes[2] = 29
+  0 UInt8 bytes[3] = 92
+  0 UInt8 bytes[4] = 251
+  0 UInt8 bytes[5] = 61
+  0 UInt8 bytes[6] = 25
+  0 UInt8 bytes[7] = 229
+  0 UInt8 bytes[8] = 71
+  0 UInt8 bytes[9] = 70
+  0 UInt8 bytes[10] = 49
+  0 UInt8 bytes[11] = 157
+  0 UInt8 bytes[12] = 61
+  0 UInt8 bytes[13] = 145
+  0 UInt8 bytes[14] = 180
+  0 UInt8 bytes[15] = 230
+ 1 string m_ClassName = "InventoryItem"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

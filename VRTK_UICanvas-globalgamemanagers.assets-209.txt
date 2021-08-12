@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_UICanvas"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 12
+  0 UInt8 bytes[1] = 81
+  0 UInt8 bytes[2] = 33
+  0 UInt8 bytes[3] = 106
+  0 UInt8 bytes[4] = 152
+  0 UInt8 bytes[5] = 148
+  0 UInt8 bytes[6] = 244
+  0 UInt8 bytes[7] = 180
+  0 UInt8 bytes[8] = 124
+  0 UInt8 bytes[9] = 168
+  0 UInt8 bytes[10] = 39
+  0 UInt8 bytes[11] = 138
+  0 UInt8 bytes[12] = 250
+  0 UInt8 bytes[13] = 77
+  0 UInt8 bytes[14] = 216
+  0 UInt8 bytes[15] = 224
+ 1 string m_ClassName = "VRTK_UICanvas"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

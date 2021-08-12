@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsIsConnectIsPlayingExample"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 84
+  0 UInt8 bytes[1] = 43
+  0 UInt8 bytes[2] = 216
+  0 UInt8 bytes[3] = 125
+  0 UInt8 bytes[4] = 191
+  0 UInt8 bytes[5] = 174
+  0 UInt8 bytes[6] = 223
+  0 UInt8 bytes[7] = 181
+  0 UInt8 bytes[8] = 61
+  0 UInt8 bytes[9] = 0
+  0 UInt8 bytes[10] = 122
+  0 UInt8 bytes[11] = 50
+  0 UInt8 bytes[12] = 74
+  0 UInt8 bytes[13] = 70
+  0 UInt8 bytes[14] = 4
+  0 UInt8 bytes[15] = 140
+ 1 string m_ClassName = "BhapticsIsConnectIsPlayingExample"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

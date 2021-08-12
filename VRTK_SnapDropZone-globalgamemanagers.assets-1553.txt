@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_SnapDropZone"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 45
+  0 UInt8 bytes[1] = 195
+  0 UInt8 bytes[2] = 169
+  0 UInt8 bytes[3] = 128
+  0 UInt8 bytes[4] = 212
+  0 UInt8 bytes[5] = 179
+  0 UInt8 bytes[6] = 64
+  0 UInt8 bytes[7] = 28
+  0 UInt8 bytes[8] = 160
+  0 UInt8 bytes[9] = 180
+  0 UInt8 bytes[10] = 125
+  0 UInt8 bytes[11] = 80
+  0 UInt8 bytes[12] = 210
+  0 UInt8 bytes[13] = 143
+  0 UInt8 bytes[14] = 186
+  0 UInt8 bytes[15] = 128
+ 1 string m_ClassName = "VRTK_SnapDropZone"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

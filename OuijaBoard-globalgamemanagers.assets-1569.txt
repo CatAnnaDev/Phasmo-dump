@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "OuijaBoard"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 153
+  0 UInt8 bytes[1] = 121
+  0 UInt8 bytes[2] = 7
+  0 UInt8 bytes[3] = 94
+  0 UInt8 bytes[4] = 152
+  0 UInt8 bytes[5] = 93
+  0 UInt8 bytes[6] = 117
+  0 UInt8 bytes[7] = 165
+  0 UInt8 bytes[8] = 231
+  0 UInt8 bytes[9] = 23
+  0 UInt8 bytes[10] = 62
+  0 UInt8 bytes[11] = 106
+  0 UInt8 bytes[12] = 7
+  0 UInt8 bytes[13] = 103
+  0 UInt8 bytes[14] = 123
+  0 UInt8 bytes[15] = 15
+ 1 string m_ClassName = "OuijaBoard"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

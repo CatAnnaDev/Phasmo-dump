@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsVisualFeedbackOnMotors"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 240
+  0 UInt8 bytes[1] = 169
+  0 UInt8 bytes[2] = 198
+  0 UInt8 bytes[3] = 147
+  0 UInt8 bytes[4] = 97
+  0 UInt8 bytes[5] = 253
+  0 UInt8 bytes[6] = 184
+  0 UInt8 bytes[7] = 15
+  0 UInt8 bytes[8] = 66
+  0 UInt8 bytes[9] = 66
+  0 UInt8 bytes[10] = 155
+  0 UInt8 bytes[11] = 183
+  0 UInt8 bytes[12] = 83
+  0 UInt8 bytes[13] = 233
+  0 UInt8 bytes[14] = 182
+  0 UInt8 bytes[15] = 251
+ 1 string m_ClassName = "BhapticsVisualFeedbackOnMotors"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

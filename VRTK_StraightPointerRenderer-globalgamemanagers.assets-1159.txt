@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_StraightPointerRenderer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 220
+  0 UInt8 bytes[1] = 93
+  0 UInt8 bytes[2] = 157
+  0 UInt8 bytes[3] = 226
+  0 UInt8 bytes[4] = 86
+  0 UInt8 bytes[5] = 24
+  0 UInt8 bytes[6] = 62
+  0 UInt8 bytes[7] = 240
+  0 UInt8 bytes[8] = 142
+  0 UInt8 bytes[9] = 170
+  0 UInt8 bytes[10] = 66
+  0 UInt8 bytes[11] = 36
+  0 UInt8 bytes[12] = 195
+  0 UInt8 bytes[13] = 246
+  0 UInt8 bytes[14] = 158
+  0 UInt8 bytes[15] = 234
+ 1 string m_ClassName = "VRTK_StraightPointerRenderer"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

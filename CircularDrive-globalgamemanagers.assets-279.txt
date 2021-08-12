@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CircularDrive"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 101
+  0 UInt8 bytes[1] = 170
+  0 UInt8 bytes[2] = 30
+  0 UInt8 bytes[3] = 237
+  0 UInt8 bytes[4] = 0
+  0 UInt8 bytes[5] = 10
+  0 UInt8 bytes[6] = 104
+  0 UInt8 bytes[7] = 34
+  0 UInt8 bytes[8] = 165
+  0 UInt8 bytes[9] = 171
+  0 UInt8 bytes[10] = 166
+  0 UInt8 bytes[11] = 21
+  0 UInt8 bytes[12] = 92
+  0 UInt8 bytes[13] = 22
+  0 UInt8 bytes[14] = 232
+  0 UInt8 bytes[15] = 10
+ 1 string m_ClassName = "CircularDrive"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

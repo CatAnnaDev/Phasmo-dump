@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRVoice"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 26
+  0 UInt8 bytes[1] = 66
+  0 UInt8 bytes[2] = 160
+  0 UInt8 bytes[3] = 129
+  0 UInt8 bytes[4] = 65
+  0 UInt8 bytes[5] = 50
+  0 UInt8 bytes[6] = 218
+  0 UInt8 bytes[7] = 174
+  0 UInt8 bytes[8] = 204
+  0 UInt8 bytes[9] = 57
+  0 UInt8 bytes[10] = 84
+  0 UInt8 bytes[11] = 24
+  0 UInt8 bytes[12] = 137
+  0 UInt8 bytes[13] = 214
+  0 UInt8 bytes[14] = 138
+  0 UInt8 bytes[15] = 28
+ 1 string m_ClassName = "VRVoice"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

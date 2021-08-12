@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Hand"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 204
+  0 UInt8 bytes[1] = 54
+  0 UInt8 bytes[2] = 218
+  0 UInt8 bytes[3] = 87
+  0 UInt8 bytes[4] = 129
+  0 UInt8 bytes[5] = 55
+  0 UInt8 bytes[6] = 16
+  0 UInt8 bytes[7] = 146
+  0 UInt8 bytes[8] = 16
+  0 UInt8 bytes[9] = 99
+  0 UInt8 bytes[10] = 209
+  0 UInt8 bytes[11] = 158
+  0 UInt8 bytes[12] = 222
+  0 UInt8 bytes[13] = 189
+  0 UInt8 bytes[14] = 129
+  0 UInt8 bytes[15] = 124
+ 1 string m_ClassName = "Hand"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

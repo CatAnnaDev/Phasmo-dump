@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "WallDripper"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 88
+  0 UInt8 bytes[1] = 90
+  0 UInt8 bytes[2] = 185
+  0 UInt8 bytes[3] = 145
+  0 UInt8 bytes[4] = 89
+  0 UInt8 bytes[5] = 159
+  0 UInt8 bytes[6] = 205
+  0 UInt8 bytes[7] = 63
+  0 UInt8 bytes[8] = 99
+  0 UInt8 bytes[9] = 39
+  0 UInt8 bytes[10] = 246
+  0 UInt8 bytes[11] = 215
+  0 UInt8 bytes[12] = 187
+  0 UInt8 bytes[13] = 197
+  0 UInt8 bytes[14] = 35
+  0 UInt8 bytes[15] = 7
+ 1 string m_ClassName = "WallDripper"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

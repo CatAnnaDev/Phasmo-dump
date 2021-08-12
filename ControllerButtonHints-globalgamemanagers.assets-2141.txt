@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ControllerButtonHints"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 218
+  0 UInt8 bytes[1] = 203
+  0 UInt8 bytes[2] = 20
+  0 UInt8 bytes[3] = 248
+  0 UInt8 bytes[4] = 57
+  0 UInt8 bytes[5] = 212
+  0 UInt8 bytes[6] = 201
+  0 UInt8 bytes[7] = 247
+  0 UInt8 bytes[8] = 204
+  0 UInt8 bytes[9] = 134
+  0 UInt8 bytes[10] = 86
+  0 UInt8 bytes[11] = 38
+  0 UInt8 bytes[12] = 220
+  0 UInt8 bytes[13] = 77
+  0 UInt8 bytes[14] = 34
+  0 UInt8 bytes[15] = 123
+ 1 string m_ClassName = "ControllerButtonHints"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

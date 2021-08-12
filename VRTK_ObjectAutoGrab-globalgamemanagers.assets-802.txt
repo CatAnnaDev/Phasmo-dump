@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ObjectAutoGrab"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 121
+  0 UInt8 bytes[1] = 204
+  0 UInt8 bytes[2] = 37
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 37
+  0 UInt8 bytes[5] = 237
+  0 UInt8 bytes[6] = 179
+  0 UInt8 bytes[7] = 95
+  0 UInt8 bytes[8] = 147
+  0 UInt8 bytes[9] = 64
+  0 UInt8 bytes[10] = 214
+  0 UInt8 bytes[11] = 13
+  0 UInt8 bytes[12] = 193
+  0 UInt8 bytes[13] = 219
+  0 UInt8 bytes[14] = 58
+  0 UInt8 bytes[15] = 190
+ 1 string m_ClassName = "VRTK_ObjectAutoGrab"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

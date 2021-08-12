@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlayerGraphics"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 112
+  0 UInt8 bytes[1] = 47
+  0 UInt8 bytes[2] = 91
+  0 UInt8 bytes[3] = 198
+  0 UInt8 bytes[4] = 8
+  0 UInt8 bytes[5] = 244
+  0 UInt8 bytes[6] = 211
+  0 UInt8 bytes[7] = 83
+  0 UInt8 bytes[8] = 145
+  0 UInt8 bytes[9] = 49
+  0 UInt8 bytes[10] = 38
+  0 UInt8 bytes[11] = 233
+  0 UInt8 bytes[12] = 55
+  0 UInt8 bytes[13] = 213
+  0 UInt8 bytes[14] = 126
+  0 UInt8 bytes[15] = 201
+ 1 string m_ClassName = "PlayerGraphics"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

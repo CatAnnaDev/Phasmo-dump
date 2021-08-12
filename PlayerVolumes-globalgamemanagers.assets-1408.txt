@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PlayerVolumes"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 85
+  0 UInt8 bytes[1] = 207
+  0 UInt8 bytes[2] = 101
+  0 UInt8 bytes[3] = 138
+  0 UInt8 bytes[4] = 179
+  0 UInt8 bytes[5] = 53
+  0 UInt8 bytes[6] = 7
+  0 UInt8 bytes[7] = 135
+  0 UInt8 bytes[8] = 66
+  0 UInt8 bytes[9] = 49
+  0 UInt8 bytes[10] = 101
+  0 UInt8 bytes[11] = 25
+  0 UInt8 bytes[12] = 15
+  0 UInt8 bytes[13] = 237
+  0 UInt8 bytes[14] = 49
+  0 UInt8 bytes[15] = 180
+ 1 string m_ClassName = "PlayerVolumes"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

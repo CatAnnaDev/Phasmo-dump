@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HandAnimatorManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 113
+  0 UInt8 bytes[1] = 195
+  0 UInt8 bytes[2] = 77
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 71
+  0 UInt8 bytes[5] = 25
+  0 UInt8 bytes[6] = 1
+  0 UInt8 bytes[7] = 141
+  0 UInt8 bytes[8] = 245
+  0 UInt8 bytes[9] = 48
+  0 UInt8 bytes[10] = 194
+  0 UInt8 bytes[11] = 82
+  0 UInt8 bytes[12] = 239
+  0 UInt8 bytes[13] = 232
+  0 UInt8 bytes[14] = 199
+  0 UInt8 bytes[15] = 55
+ 1 string m_ClassName = "HandAnimatorManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

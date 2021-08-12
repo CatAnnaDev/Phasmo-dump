@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HandPoser"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 198
+  0 UInt8 bytes[1] = 148
+  0 UInt8 bytes[2] = 95
+  0 UInt8 bytes[3] = 253
+  0 UInt8 bytes[4] = 199
+  0 UInt8 bytes[5] = 140
+  0 UInt8 bytes[6] = 227
+  0 UInt8 bytes[7] = 249
+  0 UInt8 bytes[8] = 82
+  0 UInt8 bytes[9] = 215
+  0 UInt8 bytes[10] = 157
+  0 UInt8 bytes[11] = 197
+  0 UInt8 bytes[12] = 30
+  0 UInt8 bytes[13] = 230
+  0 UInt8 bytes[14] = 210
+  0 UInt8 bytes[15] = 125
+ 1 string m_ClassName = "HandPoser"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

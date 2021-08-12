@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PCManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 159
+  0 UInt8 bytes[1] = 105
+  0 UInt8 bytes[2] = 189
+  0 UInt8 bytes[3] = 122
+  0 UInt8 bytes[4] = 2
+  0 UInt8 bytes[5] = 210
+  0 UInt8 bytes[6] = 191
+  0 UInt8 bytes[7] = 102
+  0 UInt8 bytes[8] = 33
+  0 UInt8 bytes[9] = 33
+  0 UInt8 bytes[10] = 88
+  0 UInt8 bytes[11] = 167
+  0 UInt8 bytes[12] = 79
+  0 UInt8 bytes[13] = 155
+  0 UInt8 bytes[14] = 44
+  0 UInt8 bytes[15] = 159
+ 1 string m_ClassName = "PCManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

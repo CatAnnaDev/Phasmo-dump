@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonPlayer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 103
+  0 UInt8 bytes[1] = 213
+  0 UInt8 bytes[2] = 0
+  0 UInt8 bytes[3] = 36
+  0 UInt8 bytes[4] = 95
+  0 UInt8 bytes[5] = 220
+  0 UInt8 bytes[6] = 134
+  0 UInt8 bytes[7] = 177
+  0 UInt8 bytes[8] = 3
+  0 UInt8 bytes[9] = 76
+  0 UInt8 bytes[10] = 71
+  0 UInt8 bytes[11] = 15
+  0 UInt8 bytes[12] = 7
+  0 UInt8 bytes[13] = 85
+  0 UInt8 bytes[14] = 198
+  0 UInt8 bytes[15] = 137
+ 1 string m_ClassName = "PhotonPlayer"
+ 1 string m_Namespace = "Dissonance.Integrations.PhotonUnityNetworking2"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

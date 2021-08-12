@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SupportLogger"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 197
+  0 UInt8 bytes[1] = 253
+  0 UInt8 bytes[2] = 151
+  0 UInt8 bytes[3] = 204
+  0 UInt8 bytes[4] = 16
+  0 UInt8 bytes[5] = 184
+  0 UInt8 bytes[6] = 157
+  0 UInt8 bytes[7] = 234
+  0 UInt8 bytes[8] = 247
+  0 UInt8 bytes[9] = 198
+  0 UInt8 bytes[10] = 10
+  0 UInt8 bytes[11] = 246
+  0 UInt8 bytes[12] = 106
+  0 UInt8 bytes[13] = 107
+  0 UInt8 bytes[14] = 13
+  0 UInt8 bytes[15] = 90
+ 1 string m_ClassName = "SupportLogger"
+ 1 string m_Namespace = "Photon.Realtime"
+ 1 string m_AssemblyName = "PhotonRealtime.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "RawImage"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 248
+  0 UInt8 bytes[1] = 77
+  0 UInt8 bytes[2] = 148
+  0 UInt8 bytes[3] = 94
+  0 UInt8 bytes[4] = 94
+  0 UInt8 bytes[5] = 28
+  0 UInt8 bytes[6] = 169
+  0 UInt8 bytes[7] = 133
+  0 UInt8 bytes[8] = 105
+  0 UInt8 bytes[9] = 134
+  0 UInt8 bytes[10] = 96
+  0 UInt8 bytes[11] = 252
+  0 UInt8 bytes[12] = 38
+  0 UInt8 bytes[13] = 233
+  0 UInt8 bytes[14] = 101
+  0 UInt8 bytes[15] = 127
+ 1 string m_ClassName = "RawImage"
+ 1 string m_Namespace = "UnityEngine.UI"
+ 1 string m_AssemblyName = "UnityEngine.UI.dll"

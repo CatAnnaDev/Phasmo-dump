@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_MaterialColorSwapHighlighter"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 143
+  0 UInt8 bytes[1] = 106
+  0 UInt8 bytes[2] = 236
+  0 UInt8 bytes[3] = 177
+  0 UInt8 bytes[4] = 18
+  0 UInt8 bytes[5] = 6
+  0 UInt8 bytes[6] = 118
+  0 UInt8 bytes[7] = 238
+  0 UInt8 bytes[8] = 35
+  0 UInt8 bytes[9] = 168
+  0 UInt8 bytes[10] = 152
+  0 UInt8 bytes[11] = 236
+  0 UInt8 bytes[12] = 9
+  0 UInt8 bytes[13] = 191
+  0 UInt8 bytes[14] = 78
+  0 UInt8 bytes[15] = 128
+ 1 string m_ClassName = "VRTK_MaterialColorSwapHighlighter"
+ 1 string m_Namespace = "VRTK.Highlighters"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BhapticsRotateExample"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 67
+  0 UInt8 bytes[1] = 237
+  0 UInt8 bytes[2] = 131
+  0 UInt8 bytes[3] = 96
+  0 UInt8 bytes[4] = 48
+  0 UInt8 bytes[5] = 0
+  0 UInt8 bytes[6] = 223
+  0 UInt8 bytes[7] = 133
+  0 UInt8 bytes[8] = 28
+  0 UInt8 bytes[9] = 78
+  0 UInt8 bytes[10] = 232
+  0 UInt8 bytes[11] = 50
+  0 UInt8 bytes[12] = 154
+  0 UInt8 bytes[13] = 8
+  0 UInt8 bytes[14] = 38
+  0 UInt8 bytes[15] = 218
+ 1 string m_ClassName = "BhapticsRotateExample"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

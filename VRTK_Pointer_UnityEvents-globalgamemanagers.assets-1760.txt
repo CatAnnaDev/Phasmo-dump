@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_Pointer_UnityEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 76
+  0 UInt8 bytes[1] = 152
+  0 UInt8 bytes[2] = 57
+  0 UInt8 bytes[3] = 168
+  0 UInt8 bytes[4] = 250
+  0 UInt8 bytes[5] = 164
+  0 UInt8 bytes[6] = 124
+  0 UInt8 bytes[7] = 5
+  0 UInt8 bytes[8] = 182
+  0 UInt8 bytes[9] = 80
+  0 UInt8 bytes[10] = 62
+  0 UInt8 bytes[11] = 92
+  0 UInt8 bytes[12] = 134
+  0 UInt8 bytes[13] = 203
+  0 UInt8 bytes[14] = 150
+  0 UInt8 bytes[15] = 150
+ 1 string m_ClassName = "VRTK_Pointer_UnityEvents"
+ 1 string m_Namespace = "VRTK.UnityEventHelper"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhysicsRaycaster"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 24
+  0 UInt8 bytes[1] = 194
+  0 UInt8 bytes[2] = 34
+  0 UInt8 bytes[3] = 190
+  0 UInt8 bytes[4] = 249
+  0 UInt8 bytes[5] = 174
+  0 UInt8 bytes[6] = 116
+  0 UInt8 bytes[7] = 92
+  0 UInt8 bytes[8] = 230
+  0 UInt8 bytes[9] = 157
+  0 UInt8 bytes[10] = 221
+  0 UInt8 bytes[11] = 233
+  0 UInt8 bytes[12] = 183
+  0 UInt8 bytes[13] = 67
+  0 UInt8 bytes[14] = 55
+  0 UInt8 bytes[15] = 202
+ 1 string m_ClassName = "PhysicsRaycaster"
+ 1 string m_Namespace = "UnityEngine.EventSystems"
+ 1 string m_AssemblyName = "UnityEngine.UI.dll"

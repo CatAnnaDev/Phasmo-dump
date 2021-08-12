@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HandsHapticClip"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 172
+  0 UInt8 bytes[1] = 11
+  0 UInt8 bytes[2] = 244
+  0 UInt8 bytes[3] = 32
+  0 UInt8 bytes[4] = 172
+  0 UInt8 bytes[5] = 48
+  0 UInt8 bytes[6] = 119
+  0 UInt8 bytes[7] = 186
+  0 UInt8 bytes[8] = 145
+  0 UInt8 bytes[9] = 205
+  0 UInt8 bytes[10] = 153
+  0 UInt8 bytes[11] = 56
+  0 UInt8 bytes[12] = 235
+  0 UInt8 bytes[13] = 221
+  0 UInt8 bytes[14] = 155
+  0 UInt8 bytes[15] = 53
+ 1 string m_ClassName = "HandsHapticClip"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

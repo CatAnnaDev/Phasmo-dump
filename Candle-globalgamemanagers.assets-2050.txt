@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Candle"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 221
+  0 UInt8 bytes[1] = 129
+  0 UInt8 bytes[2] = 219
+  0 UInt8 bytes[3] = 125
+  0 UInt8 bytes[4] = 177
+  0 UInt8 bytes[5] = 77
+  0 UInt8 bytes[6] = 191
+  0 UInt8 bytes[7] = 253
+  0 UInt8 bytes[8] = 215
+  0 UInt8 bytes[9] = 35
+  0 UInt8 bytes[10] = 84
+  0 UInt8 bytes[11] = 5
+  0 UInt8 bytes[12] = 160
+  0 UInt8 bytes[13] = 55
+  0 UInt8 bytes[14] = 126
+  0 UInt8 bytes[15] = 114
+ 1 string m_ClassName = "Candle"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

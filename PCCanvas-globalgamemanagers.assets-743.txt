@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PCCanvas"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 235
+  0 UInt8 bytes[2] = 246
+  0 UInt8 bytes[3] = 131
+  0 UInt8 bytes[4] = 116
+  0 UInt8 bytes[5] = 157
+  0 UInt8 bytes[6] = 173
+  0 UInt8 bytes[7] = 75
+  0 UInt8 bytes[8] = 200
+  0 UInt8 bytes[9] = 96
+  0 UInt8 bytes[10] = 84
+  0 UInt8 bytes[11] = 54
+  0 UInt8 bytes[12] = 144
+  0 UInt8 bytes[13] = 39
+  0 UInt8 bytes[14] = 176
+  0 UInt8 bytes[15] = 177
+ 1 string m_ClassName = "PCCanvas"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

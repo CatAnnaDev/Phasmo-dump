@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MCS_CameraController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 27
+  0 UInt8 bytes[1] = 55
+  0 UInt8 bytes[2] = 45
+  0 UInt8 bytes[3] = 34
+  0 UInt8 bytes[4] = 143
+  0 UInt8 bytes[5] = 65
+  0 UInt8 bytes[6] = 194
+  0 UInt8 bytes[7] = 165
+  0 UInt8 bytes[8] = 3
+  0 UInt8 bytes[9] = 93
+  0 UInt8 bytes[10] = 137
+  0 UInt8 bytes[11] = 207
+  0 UInt8 bytes[12] = 55
+  0 UInt8 bytes[13] = 216
+  0 UInt8 bytes[14] = 56
+  0 UInt8 bytes[15] = 146
+ 1 string m_ClassName = "MCS_CameraController"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

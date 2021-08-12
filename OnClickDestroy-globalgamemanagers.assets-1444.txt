@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "OnClickDestroy"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 79
+  0 UInt8 bytes[1] = 223
+  0 UInt8 bytes[2] = 229
+  0 UInt8 bytes[3] = 48
+  0 UInt8 bytes[4] = 255
+  0 UInt8 bytes[5] = 213
+  0 UInt8 bytes[6] = 245
+  0 UInt8 bytes[7] = 2
+  0 UInt8 bytes[8] = 206
+  0 UInt8 bytes[9] = 114
+  0 UInt8 bytes[10] = 173
+  0 UInt8 bytes[11] = 177
+  0 UInt8 bytes[12] = 4
+  0 UInt8 bytes[13] = 252
+  0 UInt8 bytes[14] = 100
+  0 UInt8 bytes[15] = 226
+ 1 string m_ClassName = "OnClickDestroy"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SimpleMove"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 34
+  0 UInt8 bytes[1] = 5
+  0 UInt8 bytes[2] = 216
+  0 UInt8 bytes[3] = 77
+  0 UInt8 bytes[4] = 227
+  0 UInt8 bytes[5] = 130
+  0 UInt8 bytes[6] = 137
+  0 UInt8 bytes[7] = 121
+  0 UInt8 bytes[8] = 247
+  0 UInt8 bytes[9] = 206
+  0 UInt8 bytes[10] = 15
+  0 UInt8 bytes[11] = 33
+  0 UInt8 bytes[12] = 206
+  0 UInt8 bytes[13] = 137
+  0 UInt8 bytes[14] = 112
+  0 UInt8 bytes[15] = 223
+ 1 string m_ClassName = "SimpleMove"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

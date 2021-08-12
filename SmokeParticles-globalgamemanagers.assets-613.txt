@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SmokeParticles"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 50
+  0 UInt8 bytes[1] = 62
+  0 UInt8 bytes[2] = 249
+  0 UInt8 bytes[3] = 144
+  0 UInt8 bytes[4] = 78
+  0 UInt8 bytes[5] = 198
+  0 UInt8 bytes[6] = 20
+  0 UInt8 bytes[7] = 147
+  0 UInt8 bytes[8] = 72
+  0 UInt8 bytes[9] = 205
+  0 UInt8 bytes[10] = 204
+  0 UInt8 bytes[11] = 69
+  0 UInt8 bytes[12] = 151
+  0 UInt8 bytes[13] = 92
+  0 UInt8 bytes[14] = 13
+  0 UInt8 bytes[15] = 190
+ 1 string m_ClassName = "SmokeParticles"
+ 1 string m_Namespace = "UnityStandardAssets.Effects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

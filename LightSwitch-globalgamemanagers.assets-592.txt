@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LightSwitch"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 192
+  0 UInt8 bytes[1] = 85
+  0 UInt8 bytes[2] = 44
+  0 UInt8 bytes[3] = 17
+  0 UInt8 bytes[4] = 120
+  0 UInt8 bytes[5] = 78
+  0 UInt8 bytes[6] = 47
+  0 UInt8 bytes[7] = 249
+  0 UInt8 bytes[8] = 14
+  0 UInt8 bytes[9] = 237
+  0 UInt8 bytes[10] = 34
+  0 UInt8 bytes[11] = 165
+  0 UInt8 bytes[12] = 70
+  0 UInt8 bytes[13] = 127
+  0 UInt8 bytes[14] = 225
+  0 UInt8 bytes[15] = 218
+ 1 string m_ClassName = "LightSwitch"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

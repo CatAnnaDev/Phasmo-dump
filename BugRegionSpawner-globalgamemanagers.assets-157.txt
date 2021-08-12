@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BugRegionSpawner"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 91
+  0 UInt8 bytes[1] = 241
+  0 UInt8 bytes[2] = 18
+  0 UInt8 bytes[3] = 53
+  0 UInt8 bytes[4] = 183
+  0 UInt8 bytes[5] = 254
+  0 UInt8 bytes[6] = 6
+  0 UInt8 bytes[7] = 65
+  0 UInt8 bytes[8] = 67
+  0 UInt8 bytes[9] = 132
+  0 UInt8 bytes[10] = 185
+  0 UInt8 bytes[11] = 189
+  0 UInt8 bytes[12] = 56
+  0 UInt8 bytes[13] = 245
+  0 UInt8 bytes[14] = 112
+  0 UInt8 bytes[15] = 84
+ 1 string m_ClassName = "BugRegionSpawner"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

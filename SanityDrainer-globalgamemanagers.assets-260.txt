@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SanityDrainer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 155
+  0 UInt8 bytes[1] = 204
+  0 UInt8 bytes[2] = 104
+  0 UInt8 bytes[3] = 92
+  0 UInt8 bytes[4] = 65
+  0 UInt8 bytes[5] = 24
+  0 UInt8 bytes[6] = 48
+  0 UInt8 bytes[7] = 202
+  0 UInt8 bytes[8] = 137
+  0 UInt8 bytes[9] = 185
+  0 UInt8 bytes[10] = 242
+  0 UInt8 bytes[11] = 207
+  0 UInt8 bytes[12] = 174
+  0 UInt8 bytes[13] = 224
+  0 UInt8 bytes[14] = 246
+  0 UInt8 bytes[15] = 59
+ 1 string m_ClassName = "SanityDrainer"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

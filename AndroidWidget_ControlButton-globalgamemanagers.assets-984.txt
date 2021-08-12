@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AndroidWidget_ControlButton"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 169
+  0 UInt8 bytes[2] = 24
+  0 UInt8 bytes[3] = 177
+  0 UInt8 bytes[4] = 245
+  0 UInt8 bytes[5] = 164
+  0 UInt8 bytes[6] = 250
+  0 UInt8 bytes[7] = 189
+  0 UInt8 bytes[8] = 200
+  0 UInt8 bytes[9] = 78
+  0 UInt8 bytes[10] = 70
+  0 UInt8 bytes[11] = 32
+  0 UInt8 bytes[12] = 25
+  0 UInt8 bytes[13] = 235
+  0 UInt8 bytes[14] = 135
+  0 UInt8 bytes[15] = 25
+ 1 string m_ClassName = "AndroidWidget_ControlButton"
+ 1 string m_Namespace = "Bhaptics.Tact.Unity"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "CombineRuntime"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 24
+  0 UInt8 bytes[1] = 6
+  0 UInt8 bytes[2] = 68
+  0 UInt8 bytes[3] = 79
+  0 UInt8 bytes[4] = 197
+  0 UInt8 bytes[5] = 247
+  0 UInt8 bytes[6] = 92
+  0 UInt8 bytes[7] = 202
+  0 UInt8 bytes[8] = 182
+  0 UInt8 bytes[9] = 254
+  0 UInt8 bytes[10] = 68
+  0 UInt8 bytes[11] = 148
+  0 UInt8 bytes[12] = 129
+  0 UInt8 bytes[13] = 207
+  0 UInt8 bytes[14] = 86
+  0 UInt8 bytes[15] = 95
+ 1 string m_ClassName = "CombineRuntime"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

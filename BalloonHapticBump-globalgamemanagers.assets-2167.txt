@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BalloonHapticBump"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 184
+  0 UInt8 bytes[1] = 199
+  0 UInt8 bytes[2] = 41
+  0 UInt8 bytes[3] = 122
+  0 UInt8 bytes[4] = 147
+  0 UInt8 bytes[5] = 39
+  0 UInt8 bytes[6] = 43
+  0 UInt8 bytes[7] = 176
+  0 UInt8 bytes[8] = 112
+  0 UInt8 bytes[9] = 32
+  0 UInt8 bytes[10] = 39
+  0 UInt8 bytes[11] = 77
+  0 UInt8 bytes[12] = 99
+  0 UInt8 bytes[13] = 235
+  0 UInt8 bytes[14] = 57
+  0 UInt8 bytes[15] = 52
+ 1 string m_ClassName = "BalloonHapticBump"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

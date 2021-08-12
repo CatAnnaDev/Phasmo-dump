@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DisabledMeshRenderer"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 65
+  0 UInt8 bytes[1] = 251
+  0 UInt8 bytes[2] = 184
+  0 UInt8 bytes[3] = 233
+  0 UInt8 bytes[4] = 231
+  0 UInt8 bytes[5] = 243
+  0 UInt8 bytes[6] = 213
+  0 UInt8 bytes[7] = 25
+  0 UInt8 bytes[8] = 173
+  0 UInt8 bytes[9] = 134
+  0 UInt8 bytes[10] = 161
+  0 UInt8 bytes[11] = 245
+  0 UInt8 bytes[12] = 219
+  0 UInt8 bytes[13] = 185
+  0 UInt8 bytes[14] = 20
+  0 UInt8 bytes[15] = 228
+ 1 string m_ClassName = "DisabledMeshRenderer"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

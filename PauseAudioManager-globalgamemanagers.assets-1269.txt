@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PauseAudioManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 191
+  0 UInt8 bytes[1] = 30
+  0 UInt8 bytes[2] = 145
+  0 UInt8 bytes[3] = 218
+  0 UInt8 bytes[4] = 223
+  0 UInt8 bytes[5] = 154
+  0 UInt8 bytes[6] = 146
+  0 UInt8 bytes[7] = 251
+  0 UInt8 bytes[8] = 119
+  0 UInt8 bytes[9] = 77
+  0 UInt8 bytes[10] = 142
+  0 UInt8 bytes[11] = 179
+  0 UInt8 bytes[12] = 16
+  0 UInt8 bytes[13] = 69
+  0 UInt8 bytes[14] = 48
+  0 UInt8 bytes[15] = 51
+ 1 string m_ClassName = "PauseAudioManager"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HandCamera"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 170
+  0 UInt8 bytes[1] = 218
+  0 UInt8 bytes[2] = 187
+  0 UInt8 bytes[3] = 243
+  0 UInt8 bytes[4] = 96
+  0 UInt8 bytes[5] = 93
+  0 UInt8 bytes[6] = 158
+  0 UInt8 bytes[7] = 65
+  0 UInt8 bytes[8] = 122
+  0 UInt8 bytes[9] = 185
+  0 UInt8 bytes[10] = 135
+  0 UInt8 bytes[11] = 25
+  0 UInt8 bytes[12] = 32
+  0 UInt8 bytes[13] = 236
+  0 UInt8 bytes[14] = 59
+  0 UInt8 bytes[15] = 196
+ 1 string m_ClassName = "HandCamera"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

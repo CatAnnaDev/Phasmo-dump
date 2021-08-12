@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Voxelize"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 48
+  0 UInt8 bytes[1] = 173
+  0 UInt8 bytes[2] = 227
+  0 UInt8 bytes[3] = 223
+  0 UInt8 bytes[4] = 250
+  0 UInt8 bytes[5] = 146
+  0 UInt8 bytes[6] = 204
+  0 UInt8 bytes[7] = 8
+  0 UInt8 bytes[8] = 187
+  0 UInt8 bytes[9] = 133
+  0 UInt8 bytes[10] = 18
+  0 UInt8 bytes[11] = 143
+  0 UInt8 bytes[12] = 149
+  0 UInt8 bytes[13] = 161
+  0 UInt8 bytes[14] = 216
+  0 UInt8 bytes[15] = 108
+ 1 string m_ClassName = "Voxelize"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

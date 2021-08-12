@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Follow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 154
+  0 UInt8 bytes[1] = 207
+  0 UInt8 bytes[2] = 190
+  0 UInt8 bytes[3] = 99
+  0 UInt8 bytes[4] = 141
+  0 UInt8 bytes[5] = 4
+  0 UInt8 bytes[6] = 48
+  0 UInt8 bytes[7] = 45
+  0 UInt8 bytes[8] = 248
+  0 UInt8 bytes[9] = 3
+  0 UInt8 bytes[10] = 92
+  0 UInt8 bytes[11] = 170
+  0 UInt8 bytes[12] = 38
+  0 UInt8 bytes[13] = 248
+  0 UInt8 bytes[14] = 30
+  0 UInt8 bytes[15] = 174
+ 1 string m_ClassName = "Follow"
+ 1 string m_Namespace = "VRTK.Examples.Archery"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

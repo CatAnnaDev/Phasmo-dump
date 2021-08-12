@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "StoreItem"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 206
+  0 UInt8 bytes[1] = 204
+  0 UInt8 bytes[2] = 163
+  0 UInt8 bytes[3] = 139
+  0 UInt8 bytes[4] = 21
+  0 UInt8 bytes[5] = 39
+  0 UInt8 bytes[6] = 81
+  0 UInt8 bytes[7] = 170
+  0 UInt8 bytes[8] = 24
+  0 UInt8 bytes[9] = 31
+  0 UInt8 bytes[10] = 201
+  0 UInt8 bytes[11] = 106
+  0 UInt8 bytes[12] = 50
+  0 UInt8 bytes[13] = 138
+  0 UInt8 bytes[14] = 242
+  0 UInt8 bytes[15] = 111
+ 1 string m_ClassName = "StoreItem"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

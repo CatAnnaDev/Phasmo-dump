@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LightningController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 8
+  0 UInt8 bytes[1] = 128
+  0 UInt8 bytes[2] = 179
+  0 UInt8 bytes[3] = 11
+  0 UInt8 bytes[4] = 151
+  0 UInt8 bytes[5] = 38
+  0 UInt8 bytes[6] = 98
+  0 UInt8 bytes[7] = 104
+  0 UInt8 bytes[8] = 221
+  0 UInt8 bytes[9] = 108
+  0 UInt8 bytes[10] = 94
+  0 UInt8 bytes[11] = 218
+  0 UInt8 bytes[12] = 175
+  0 UInt8 bytes[13] = 140
+  0 UInt8 bytes[14] = 79
+  0 UInt8 bytes[15] = 97
+ 1 string m_ClassName = "LightningController"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

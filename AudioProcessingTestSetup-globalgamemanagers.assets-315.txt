@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AudioProcessingTestSetup"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 16
+  0 UInt8 bytes[1] = 35
+  0 UInt8 bytes[2] = 78
+  0 UInt8 bytes[3] = 56
+  0 UInt8 bytes[4] = 148
+  0 UInt8 bytes[5] = 9
+  0 UInt8 bytes[6] = 134
+  0 UInt8 bytes[7] = 108
+  0 UInt8 bytes[8] = 163
+  0 UInt8 bytes[9] = 193
+  0 UInt8 bytes[10] = 48
+  0 UInt8 bytes[11] = 151
+  0 UInt8 bytes[12] = 41
+  0 UInt8 bytes[13] = 129
+  0 UInt8 bytes[14] = 109
+  0 UInt8 bytes[15] = 191
+ 1 string m_ClassName = "AudioProcessingTestSetup"
+ 1 string m_Namespace = "Dissonance.Demo"
+ 1 string m_AssemblyName = "DissonanceVoip.dll"

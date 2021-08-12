@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "WebViewWindow"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 205
+  0 UInt8 bytes[1] = 14
+  0 UInt8 bytes[2] = 205
+  0 UInt8 bytes[3] = 202
+  0 UInt8 bytes[4] = 1
+  0 UInt8 bytes[5] = 102
+  0 UInt8 bytes[6] = 35
+  0 UInt8 bytes[7] = 41
+  0 UInt8 bytes[8] = 6
+  0 UInt8 bytes[9] = 198
+  0 UInt8 bytes[10] = 242
+  0 UInt8 bytes[11] = 223
+  0 UInt8 bytes[12] = 157
+  0 UInt8 bytes[13] = 221
+  0 UInt8 bytes[14] = 195
+  0 UInt8 bytes[15] = 211
+ 1 string m_ClassName = "WebViewWindow"
+ 1 string m_Namespace = "VisualDesignCafe.Editor.Web"
+ 1 string m_AssemblyName = "VisualDesignCafe.Editor.Web.dll"

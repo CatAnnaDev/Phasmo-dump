@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "MeshCombineJobManager"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 92
+  0 UInt8 bytes[1] = 204
+  0 UInt8 bytes[2] = 255
+  0 UInt8 bytes[3] = 67
+  0 UInt8 bytes[4] = 148
+  0 UInt8 bytes[5] = 136
+  0 UInt8 bytes[6] = 149
+  0 UInt8 bytes[7] = 155
+  0 UInt8 bytes[8] = 198
+  0 UInt8 bytes[9] = 195
+  0 UInt8 bytes[10] = 94
+  0 UInt8 bytes[11] = 231
+  0 UInt8 bytes[12] = 83
+  0 UInt8 bytes[13] = 3
+  0 UInt8 bytes[14] = 30
+  0 UInt8 bytes[15] = 164
+ 1 string m_ClassName = "MeshCombineJobManager"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

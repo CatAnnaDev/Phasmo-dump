@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_ControllerTooltips"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 101
+  0 UInt8 bytes[1] = 228
+  0 UInt8 bytes[2] = 227
+  0 UInt8 bytes[3] = 202
+  0 UInt8 bytes[4] = 33
+  0 UInt8 bytes[5] = 202
+  0 UInt8 bytes[6] = 174
+  0 UInt8 bytes[7] = 136
+  0 UInt8 bytes[8] = 72
+  0 UInt8 bytes[9] = 111
+  0 UInt8 bytes[10] = 128
+  0 UInt8 bytes[11] = 103
+  0 UInt8 bytes[12] = 6
+  0 UInt8 bytes[13] = 249
+  0 UInt8 bytes[14] = 31
+  0 UInt8 bytes[15] = 121
+ 1 string m_ClassName = "VRTK_ControllerTooltips"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

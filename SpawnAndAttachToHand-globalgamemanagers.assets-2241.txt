@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SpawnAndAttachToHand"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 138
+  0 UInt8 bytes[1] = 203
+  0 UInt8 bytes[2] = 147
+  0 UInt8 bytes[3] = 170
+  0 UInt8 bytes[4] = 162
+  0 UInt8 bytes[5] = 7
+  0 UInt8 bytes[6] = 36
+  0 UInt8 bytes[7] = 216
+  0 UInt8 bytes[8] = 66
+  0 UInt8 bytes[9] = 95
+  0 UInt8 bytes[10] = 198
+  0 UInt8 bytes[11] = 233
+  0 UInt8 bytes[12] = 49
+  0 UInt8 bytes[13] = 91
+  0 UInt8 bytes[14] = 102
+  0 UInt8 bytes[15] = 174
+ 1 string m_ClassName = "SpawnAndAttachToHand"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

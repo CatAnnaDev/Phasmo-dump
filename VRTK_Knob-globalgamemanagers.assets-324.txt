@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_Knob"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 129
+  0 UInt8 bytes[1] = 61
+  0 UInt8 bytes[2] = 143
+  0 UInt8 bytes[3] = 164
+  0 UInt8 bytes[4] = 125
+  0 UInt8 bytes[5] = 136
+  0 UInt8 bytes[6] = 244
+  0 UInt8 bytes[7] = 104
+  0 UInt8 bytes[8] = 57
+  0 UInt8 bytes[9] = 44
+  0 UInt8 bytes[10] = 95
+  0 UInt8 bytes[11] = 26
+  0 UInt8 bytes[12] = 45
+  0 UInt8 bytes[13] = 128
+  0 UInt8 bytes[14] = 83
+  0 UInt8 bytes[15] = 14
+ 1 string m_ClassName = "VRTK_Knob"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

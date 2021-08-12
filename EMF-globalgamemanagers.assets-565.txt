@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "EMF"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 207
+  0 UInt8 bytes[1] = 10
+  0 UInt8 bytes[2] = 254
+  0 UInt8 bytes[3] = 243
+  0 UInt8 bytes[4] = 65
+  0 UInt8 bytes[5] = 74
+  0 UInt8 bytes[6] = 251
+  0 UInt8 bytes[7] = 6
+  0 UInt8 bytes[8] = 208
+  0 UInt8 bytes[9] = 111
+  0 UInt8 bytes[10] = 28
+  0 UInt8 bytes[11] = 44
+  0 UInt8 bytes[12] = 15
+  0 UInt8 bytes[13] = 125
+  0 UInt8 bytes[14] = 104
+  0 UInt8 bytes[15] = 100
+ 1 string m_ClassName = "EMF"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

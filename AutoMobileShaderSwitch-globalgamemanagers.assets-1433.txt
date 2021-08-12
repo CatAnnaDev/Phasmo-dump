@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AutoMobileShaderSwitch"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 71
+  0 UInt8 bytes[1] = 205
+  0 UInt8 bytes[2] = 5
+  0 UInt8 bytes[3] = 207
+  0 UInt8 bytes[4] = 17
+  0 UInt8 bytes[5] = 206
+  0 UInt8 bytes[6] = 139
+  0 UInt8 bytes[7] = 235
+  0 UInt8 bytes[8] = 47
+  0 UInt8 bytes[9] = 217
+  0 UInt8 bytes[10] = 161
+  0 UInt8 bytes[11] = 82
+  0 UInt8 bytes[12] = 47
+  0 UInt8 bytes[13] = 88
+  0 UInt8 bytes[14] = 245
+  0 UInt8 bytes[15] = 236
+ 1 string m_ClassName = "AutoMobileShaderSwitch"
+ 1 string m_Namespace = "UnityStandardAssets.Utility"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

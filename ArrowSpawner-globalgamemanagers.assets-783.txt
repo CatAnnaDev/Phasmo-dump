@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ArrowSpawner"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 227
+  0 UInt8 bytes[1] = 120
+  0 UInt8 bytes[2] = 201
+  0 UInt8 bytes[3] = 17
+  0 UInt8 bytes[4] = 229
+  0 UInt8 bytes[5] = 148
+  0 UInt8 bytes[6] = 195
+  0 UInt8 bytes[7] = 78
+  0 UInt8 bytes[8] = 105
+  0 UInt8 bytes[9] = 205
+  0 UInt8 bytes[10] = 184
+  0 UInt8 bytes[11] = 173
+  0 UInt8 bytes[12] = 82
+  0 UInt8 bytes[13] = 215
+  0 UInt8 bytes[14] = 57
+  0 UInt8 bytes[15] = 245
+ 1 string m_ClassName = "ArrowSpawner"
+ 1 string m_Namespace = "VRTK.Examples.Archery"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

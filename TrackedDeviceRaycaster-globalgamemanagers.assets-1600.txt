@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TrackedDeviceRaycaster"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 80
+  0 UInt8 bytes[1] = 216
+  0 UInt8 bytes[2] = 147
+  0 UInt8 bytes[3] = 196
+  0 UInt8 bytes[4] = 139
+  0 UInt8 bytes[5] = 28
+  0 UInt8 bytes[6] = 2
+  0 UInt8 bytes[7] = 164
+  0 UInt8 bytes[8] = 184
+  0 UInt8 bytes[9] = 237
+  0 UInt8 bytes[10] = 229
+  0 UInt8 bytes[11] = 254
+  0 UInt8 bytes[12] = 40
+  0 UInt8 bytes[13] = 255
+  0 UInt8 bytes[14] = 158
+  0 UInt8 bytes[15] = 133
+ 1 string m_ClassName = "TrackedDeviceRaycaster"
+ 1 string m_Namespace = "UnityEngine.InputSystem.UI"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"

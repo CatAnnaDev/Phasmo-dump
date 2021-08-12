@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Crucifix"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 26
+  0 UInt8 bytes[1] = 64
+  0 UInt8 bytes[2] = 62
+  0 UInt8 bytes[3] = 173
+  0 UInt8 bytes[4] = 249
+  0 UInt8 bytes[5] = 144
+  0 UInt8 bytes[6] = 255
+  0 UInt8 bytes[7] = 231
+  0 UInt8 bytes[8] = 67
+  0 UInt8 bytes[9] = 80
+  0 UInt8 bytes[10] = 198
+  0 UInt8 bytes[11] = 205
+  0 UInt8 bytes[12] = 72
+  0 UInt8 bytes[13] = 68
+  0 UInt8 bytes[14] = 204
+  0 UInt8 bytes[15] = 173
+ 1 string m_ClassName = "Crucifix"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

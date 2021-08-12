@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "LobbyRoomList"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 85
+  0 UInt8 bytes[1] = 85
+  0 UInt8 bytes[2] = 76
+  0 UInt8 bytes[3] = 22
+  0 UInt8 bytes[4] = 109
+  0 UInt8 bytes[5] = 153
+  0 UInt8 bytes[6] = 210
+  0 UInt8 bytes[7] = 71
+  0 UInt8 bytes[8] = 91
+  0 UInt8 bytes[9] = 174
+  0 UInt8 bytes[10] = 38
+  0 UInt8 bytes[11] = 108
+  0 UInt8 bytes[12] = 11
+  0 UInt8 bytes[13] = 80
+  0 UInt8 bytes[14] = 223
+  0 UInt8 bytes[15] = 214
+ 1 string m_ClassName = "LobbyRoomList"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

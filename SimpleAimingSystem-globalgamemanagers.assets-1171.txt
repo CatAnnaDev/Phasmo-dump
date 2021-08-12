@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SimpleAimingSystem"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 144
+  0 UInt8 bytes[1] = 59
+  0 UInt8 bytes[2] = 127
+  0 UInt8 bytes[3] = 53
+  0 UInt8 bytes[4] = 159
+  0 UInt8 bytes[5] = 160
+  0 UInt8 bytes[6] = 151
+  0 UInt8 bytes[7] = 28
+  0 UInt8 bytes[8] = 216
+  0 UInt8 bytes[9] = 216
+  0 UInt8 bytes[10] = 148
+  0 UInt8 bytes[11] = 21
+  0 UInt8 bytes[12] = 9
+  0 UInt8 bytes[13] = 43
+  0 UInt8 bytes[14] = 134
+  0 UInt8 bytes[15] = 11
+ 1 string m_ClassName = "SimpleAimingSystem"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "WaterHoseParticles"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 185
+  0 UInt8 bytes[1] = 4
+  0 UInt8 bytes[2] = 141
+  0 UInt8 bytes[3] = 55
+  0 UInt8 bytes[4] = 96
+  0 UInt8 bytes[5] = 39
+  0 UInt8 bytes[6] = 75
+  0 UInt8 bytes[7] = 159
+  0 UInt8 bytes[8] = 211
+  0 UInt8 bytes[9] = 220
+  0 UInt8 bytes[10] = 148
+  0 UInt8 bytes[11] = 183
+  0 UInt8 bytes[12] = 91
+  0 UInt8 bytes[13] = 61
+  0 UInt8 bytes[14] = 15
+  0 UInt8 bytes[15] = 150
+ 1 string m_ClassName = "WaterHoseParticles"
+ 1 string m_Namespace = "UnityStandardAssets.Effects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "BugsAI"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 68
+  0 UInt8 bytes[1] = 252
+  0 UInt8 bytes[2] = 63
+  0 UInt8 bytes[3] = 98
+  0 UInt8 bytes[4] = 97
+  0 UInt8 bytes[5] = 147
+  0 UInt8 bytes[6] = 61
+  0 UInt8 bytes[7] = 18
+  0 UInt8 bytes[8] = 94
+  0 UInt8 bytes[9] = 61
+  0 UInt8 bytes[10] = 79
+  0 UInt8 bytes[11] = 48
+  0 UInt8 bytes[12] = 19
+  0 UInt8 bytes[13] = 96
+  0 UInt8 bytes[14] = 82
+  0 UInt8 bytes[15] = 120
+ 1 string m_ClassName = "BugsAI"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

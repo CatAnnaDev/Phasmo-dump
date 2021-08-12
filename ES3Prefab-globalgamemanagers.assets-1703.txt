@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ES3Prefab"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 212
+  0 UInt8 bytes[2] = 139
+  0 UInt8 bytes[3] = 149
+  0 UInt8 bytes[4] = 239
+  0 UInt8 bytes[5] = 214
+  0 UInt8 bytes[6] = 102
+  0 UInt8 bytes[7] = 173
+  0 UInt8 bytes[8] = 63
+  0 UInt8 bytes[9] = 224
+  0 UInt8 bytes[10] = 217
+  0 UInt8 bytes[11] = 131
+  0 UInt8 bytes[12] = 111
+  0 UInt8 bytes[13] = 96
+  0 UInt8 bytes[14] = 207
+  0 UInt8 bytes[15] = 217
+ 1 string m_ClassName = "ES3Prefab"
+ 1 string m_Namespace = "ES3Internal"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

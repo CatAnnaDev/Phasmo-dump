@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "PhotonInstantiate"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 73
+  0 UInt8 bytes[1] = 127
+  0 UInt8 bytes[2] = 178
+  0 UInt8 bytes[3] = 209
+  0 UInt8 bytes[4] = 59
+  0 UInt8 bytes[5] = 221
+  0 UInt8 bytes[6] = 110
+  0 UInt8 bytes[7] = 120
+  0 UInt8 bytes[8] = 8
+  0 UInt8 bytes[9] = 55
+  0 UInt8 bytes[10] = 87
+  0 UInt8 bytes[11] = 34
+  0 UInt8 bytes[12] = 110
+  0 UInt8 bytes[13] = 192
+  0 UInt8 bytes[14] = 143
+  0 UInt8 bytes[15] = 82
+ 1 string m_ClassName = "PhotonInstantiate"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

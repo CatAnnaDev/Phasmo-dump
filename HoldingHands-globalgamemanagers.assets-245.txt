@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HoldingHands"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 118
+  0 UInt8 bytes[1] = 9
+  0 UInt8 bytes[2] = 43
+  0 UInt8 bytes[3] = 239
+  0 UInt8 bytes[4] = 249
+  0 UInt8 bytes[5] = 191
+  0 UInt8 bytes[6] = 11
+  0 UInt8 bytes[7] = 233
+  0 UInt8 bytes[8] = 75
+  0 UInt8 bytes[9] = 2
+  0 UInt8 bytes[10] = 93
+  0 UInt8 bytes[11] = 184
+  0 UInt8 bytes[12] = 201
+  0 UInt8 bytes[13] = 196
+  0 UInt8 bytes[14] = 172
+  0 UInt8 bytes[15] = 142
+ 1 string m_ClassName = "HoldingHands"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

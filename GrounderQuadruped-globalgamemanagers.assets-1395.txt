@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GrounderQuadruped"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 254
+  0 UInt8 bytes[1] = 4
+  0 UInt8 bytes[2] = 106
+  0 UInt8 bytes[3] = 75
+  0 UInt8 bytes[4] = 33
+  0 UInt8 bytes[5] = 33
+  0 UInt8 bytes[6] = 159
+  0 UInt8 bytes[7] = 89
+  0 UInt8 bytes[8] = 173
+  0 UInt8 bytes[9] = 148
+  0 UInt8 bytes[10] = 35
+  0 UInt8 bytes[11] = 15
+  0 UInt8 bytes[12] = 166
+  0 UInt8 bytes[13] = 145
+  0 UInt8 bytes[14] = 66
+  0 UInt8 bytes[15] = 135
+ 1 string m_ClassName = "GrounderQuadruped"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

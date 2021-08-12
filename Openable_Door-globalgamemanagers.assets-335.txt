@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Openable_Door"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 70
+  0 UInt8 bytes[1] = 199
+  0 UInt8 bytes[2] = 61
+  0 UInt8 bytes[3] = 24
+  0 UInt8 bytes[4] = 232
+  0 UInt8 bytes[5] = 221
+  0 UInt8 bytes[6] = 125
+  0 UInt8 bytes[7] = 158
+  0 UInt8 bytes[8] = 55
+  0 UInt8 bytes[9] = 241
+  0 UInt8 bytes[10] = 27
+  0 UInt8 bytes[11] = 234
+  0 UInt8 bytes[12] = 237
+  0 UInt8 bytes[13] = 153
+  0 UInt8 bytes[14] = 76
+  0 UInt8 bytes[15] = 248
+ 1 string m_ClassName = "Openable_Door"
+ 1 string m_Namespace = "VRTK.Examples"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

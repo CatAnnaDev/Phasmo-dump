@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_MoveInPlace"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 107
+  0 UInt8 bytes[1] = 50
+  0 UInt8 bytes[2] = 146
+  0 UInt8 bytes[3] = 56
+  0 UInt8 bytes[4] = 155
+  0 UInt8 bytes[5] = 30
+  0 UInt8 bytes[6] = 181
+  0 UInt8 bytes[7] = 21
+  0 UInt8 bytes[8] = 140
+  0 UInt8 bytes[9] = 222
+  0 UInt8 bytes[10] = 152
+  0 UInt8 bytes[11] = 236
+  0 UInt8 bytes[12] = 182
+  0 UInt8 bytes[13] = 192
+  0 UInt8 bytes[14] = 210
+  0 UInt8 bytes[15] = 42
+ 1 string m_ClassName = "VRTK_MoveInPlace"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

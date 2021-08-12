@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "GhostInteraction"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 9
+  0 UInt8 bytes[1] = 143
+  0 UInt8 bytes[2] = 82
+  0 UInt8 bytes[3] = 177
+  0 UInt8 bytes[4] = 180
+  0 UInt8 bytes[5] = 148
+  0 UInt8 bytes[6] = 163
+  0 UInt8 bytes[7] = 180
+  0 UInt8 bytes[8] = 170
+  0 UInt8 bytes[9] = 223
+  0 UInt8 bytes[10] = 24
+  0 UInt8 bytes[11] = 13
+  0 UInt8 bytes[12] = 89
+  0 UInt8 bytes[13] = 68
+  0 UInt8 bytes[14] = 71
+  0 UInt8 bytes[15] = 139
+ 1 string m_ClassName = "GhostInteraction"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

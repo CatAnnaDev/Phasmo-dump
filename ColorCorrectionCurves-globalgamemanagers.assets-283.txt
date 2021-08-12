@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ColorCorrectionCurves"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 240
+  0 UInt8 bytes[1] = 173
+  0 UInt8 bytes[2] = 204
+  0 UInt8 bytes[3] = 255
+  0 UInt8 bytes[4] = 170
+  0 UInt8 bytes[5] = 70
+  0 UInt8 bytes[6] = 12
+  0 UInt8 bytes[7] = 181
+  0 UInt8 bytes[8] = 200
+  0 UInt8 bytes[9] = 145
+  0 UInt8 bytes[10] = 66
+  0 UInt8 bytes[11] = 41
+  0 UInt8 bytes[12] = 39
+  0 UInt8 bytes[13] = 107
+  0 UInt8 bytes[14] = 250
+  0 UInt8 bytes[15] = 13
+ 1 string m_ClassName = "ColorCorrectionCurves"
+ 1 string m_Namespace = "UnityStandardAssets.ImageEffects"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

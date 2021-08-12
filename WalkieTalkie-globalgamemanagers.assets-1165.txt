@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "WalkieTalkie"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 39
+  0 UInt8 bytes[1] = 78
+  0 UInt8 bytes[2] = 51
+  0 UInt8 bytes[3] = 40
+  0 UInt8 bytes[4] = 41
+  0 UInt8 bytes[5] = 198
+  0 UInt8 bytes[6] = 149
+  0 UInt8 bytes[7] = 168
+  0 UInt8 bytes[8] = 224
+  0 UInt8 bytes[9] = 208
+  0 UInt8 bytes[10] = 238
+  0 UInt8 bytes[11] = 37
+  0 UInt8 bytes[12] = 13
+  0 UInt8 bytes[13] = 243
+  0 UInt8 bytes[14] = 185
+  0 UInt8 bytes[15] = 29
+ 1 string m_ClassName = "WalkieTalkie"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

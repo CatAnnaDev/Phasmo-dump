@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "NatureOverlay"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 107
+  0 UInt8 bytes[1] = 227
+  0 UInt8 bytes[2] = 186
+  0 UInt8 bytes[3] = 237
+  0 UInt8 bytes[4] = 106
+  0 UInt8 bytes[5] = 237
+  0 UInt8 bytes[6] = 165
+  0 UInt8 bytes[7] = 253
+  0 UInt8 bytes[8] = 185
+  0 UInt8 bytes[9] = 175
+  0 UInt8 bytes[10] = 18
+  0 UInt8 bytes[11] = 149
+  0 UInt8 bytes[12] = 4
+  0 UInt8 bytes[13] = 41
+  0 UInt8 bytes[14] = 126
+  0 UInt8 bytes[15] = 34
+ 1 string m_ClassName = "NatureOverlay"
+ 1 string m_Namespace = "VisualDesignCafe.Nature.Overlay"
+ 1 string m_AssemblyName = "VisualDesignCafe.Nature.dll"

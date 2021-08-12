@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_CustomRaycast"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 197
+  0 UInt8 bytes[1] = 73
+  0 UInt8 bytes[2] = 246
+  0 UInt8 bytes[3] = 208
+  0 UInt8 bytes[4] = 43
+  0 UInt8 bytes[5] = 47
+  0 UInt8 bytes[6] = 81
+  0 UInt8 bytes[7] = 118
+  0 UInt8 bytes[8] = 246
+  0 UInt8 bytes[9] = 130
+  0 UInt8 bytes[10] = 67
+  0 UInt8 bytes[11] = 254
+  0 UInt8 bytes[12] = 241
+  0 UInt8 bytes[13] = 25
+  0 UInt8 bytes[14] = 119
+  0 UInt8 bytes[15] = 207
+ 1 string m_ClassName = "VRTK_CustomRaycast"
+ 1 string m_Namespace = "VRTK"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

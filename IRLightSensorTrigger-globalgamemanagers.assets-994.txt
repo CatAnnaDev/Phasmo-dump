@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "IRLightSensorTrigger"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 209
+  0 UInt8 bytes[1] = 118
+  0 UInt8 bytes[2] = 163
+  0 UInt8 bytes[3] = 190
+  0 UInt8 bytes[4] = 220
+  0 UInt8 bytes[5] = 215
+  0 UInt8 bytes[6] = 71
+  0 UInt8 bytes[7] = 20
+  0 UInt8 bytes[8] = 127
+  0 UInt8 bytes[9] = 124
+  0 UInt8 bytes[10] = 110
+  0 UInt8 bytes[11] = 121
+  0 UInt8 bytes[12] = 30
+  0 UInt8 bytes[13] = 106
+  0 UInt8 bytes[14] = 53
+  0 UInt8 bytes[15] = 130
+ 1 string m_ClassName = "IRLightSensorTrigger"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

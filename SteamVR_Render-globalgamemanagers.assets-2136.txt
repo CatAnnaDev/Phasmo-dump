@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SteamVR_Render"
+ 0 int m_ExecutionOrder = -32000
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 51
+  0 UInt8 bytes[1] = 196
+  0 UInt8 bytes[2] = 250
+  0 UInt8 bytes[3] = 117
+  0 UInt8 bytes[4] = 165
+  0 UInt8 bytes[5] = 110
+  0 UInt8 bytes[6] = 202
+  0 UInt8 bytes[7] = 41
+  0 UInt8 bytes[8] = 213
+  0 UInt8 bytes[9] = 221
+  0 UInt8 bytes[10] = 189
+  0 UInt8 bytes[11] = 226
+  0 UInt8 bytes[12] = 8
+  0 UInt8 bytes[13] = 103
+  0 UInt8 bytes[14] = 225
+  0 UInt8 bytes[15] = 32
+ 1 string m_ClassName = "SteamVR_Render"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

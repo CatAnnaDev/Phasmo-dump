@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "SmoothSyncMovement"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 171
+  0 UInt8 bytes[1] = 3
+  0 UInt8 bytes[2] = 154
+  0 UInt8 bytes[3] = 56
+  0 UInt8 bytes[4] = 94
+  0 UInt8 bytes[5] = 244
+  0 UInt8 bytes[6] = 69
+  0 UInt8 bytes[7] = 151
+  0 UInt8 bytes[8] = 86
+  0 UInt8 bytes[9] = 81
+  0 UInt8 bytes[10] = 154
+  0 UInt8 bytes[11] = 63
+  0 UInt8 bytes[12] = 233
+  0 UInt8 bytes[13] = 29
+  0 UInt8 bytes[14] = 204
+  0 UInt8 bytes[15] = 198
+ 1 string m_ClassName = "SmoothSyncMovement"
+ 1 string m_Namespace = "Photon.Pun.UtilityScripts"
+ 1 string m_AssemblyName = "PhotonUnityNetworking.Utilities.dll"

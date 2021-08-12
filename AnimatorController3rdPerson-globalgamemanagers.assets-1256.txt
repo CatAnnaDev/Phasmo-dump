@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "AnimatorController3rdPerson"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 142
+  0 UInt8 bytes[1] = 119
+  0 UInt8 bytes[2] = 6
+  0 UInt8 bytes[3] = 12
+  0 UInt8 bytes[4] = 54
+  0 UInt8 bytes[5] = 166
+  0 UInt8 bytes[6] = 218
+  0 UInt8 bytes[7] = 198
+  0 UInt8 bytes[8] = 183
+  0 UInt8 bytes[9] = 10
+  0 UInt8 bytes[10] = 112
+  0 UInt8 bytes[11] = 182
+  0 UInt8 bytes[12] = 153
+  0 UInt8 bytes[13] = 214
+  0 UInt8 bytes[14] = 149
+  0 UInt8 bytes[15] = 116
+ 1 string m_ClassName = "AnimatorController3rdPerson"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

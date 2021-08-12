@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Window"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 225
+  0 UInt8 bytes[1] = 226
+  0 UInt8 bytes[2] = 92
+  0 UInt8 bytes[3] = 150
+  0 UInt8 bytes[4] = 49
+  0 UInt8 bytes[5] = 163
+  0 UInt8 bytes[6] = 25
+  0 UInt8 bytes[7] = 18
+  0 UInt8 bytes[8] = 191
+  0 UInt8 bytes[9] = 21
+  0 UInt8 bytes[10] = 186
+  0 UInt8 bytes[11] = 25
+  0 UInt8 bytes[12] = 118
+  0 UInt8 bytes[13] = 160
+  0 UInt8 bytes[14] = 43
+  0 UInt8 bytes[15] = 174
+ 1 string m_ClassName = "Window"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

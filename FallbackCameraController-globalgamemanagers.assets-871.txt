@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FallbackCameraController"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 115
+  0 UInt8 bytes[1] = 61
+  0 UInt8 bytes[2] = 99
+  0 UInt8 bytes[3] = 226
+  0 UInt8 bytes[4] = 48
+  0 UInt8 bytes[5] = 232
+  0 UInt8 bytes[6] = 183
+  0 UInt8 bytes[7] = 166
+  0 UInt8 bytes[8] = 116
+  0 UInt8 bytes[9] = 184
+  0 UInt8 bytes[10] = 191
+  0 UInt8 bytes[11] = 208
+  0 UInt8 bytes[12] = 37
+  0 UInt8 bytes[13] = 37
+  0 UInt8 bytes[14] = 196
+  0 UInt8 bytes[15] = 128
+ 1 string m_ClassName = "FallbackCameraController"
+ 1 string m_Namespace = "Valve.VR.InteractionSystem"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

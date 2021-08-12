@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "ChangeParent"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 253
+  0 UInt8 bytes[1] = 233
+  0 UInt8 bytes[2] = 86
+  0 UInt8 bytes[3] = 239
+  0 UInt8 bytes[4] = 208
+  0 UInt8 bytes[5] = 59
+  0 UInt8 bytes[6] = 29
+  0 UInt8 bytes[7] = 246
+  0 UInt8 bytes[8] = 230
+  0 UInt8 bytes[9] = 210
+  0 UInt8 bytes[10] = 51
+  0 UInt8 bytes[11] = 219
+  0 UInt8 bytes[12] = 144
+  0 UInt8 bytes[13] = 194
+  0 UInt8 bytes[14] = 110
+  0 UInt8 bytes[15] = 1
+ 1 string m_ClassName = "ChangeParent"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

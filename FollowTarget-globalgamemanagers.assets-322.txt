@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FollowTarget"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 73
+  0 UInt8 bytes[1] = 220
+  0 UInt8 bytes[2] = 179
+  0 UInt8 bytes[3] = 147
+  0 UInt8 bytes[4] = 159
+  0 UInt8 bytes[5] = 135
+  0 UInt8 bytes[6] = 135
+  0 UInt8 bytes[7] = 10
+  0 UInt8 bytes[8] = 193
+  0 UInt8 bytes[9] = 12
+  0 UInt8 bytes[10] = 241
+  0 UInt8 bytes[11] = 248
+  0 UInt8 bytes[12] = 252
+  0 UInt8 bytes[13] = 223
+  0 UInt8 bytes[14] = 179
+  0 UInt8 bytes[15] = 94
+ 1 string m_ClassName = "FollowTarget"
+ 1 string m_Namespace = "UnityStandardAssets.Utility"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

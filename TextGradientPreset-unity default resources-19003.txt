@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TextGradientPreset"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 49
+  0 UInt8 bytes[1] = 101
+  0 UInt8 bytes[2] = 150
+  0 UInt8 bytes[3] = 139
+  0 UInt8 bytes[4] = 164
+  0 UInt8 bytes[5] = 92
+  0 UInt8 bytes[6] = 116
+  0 UInt8 bytes[7] = 71
+  0 UInt8 bytes[8] = 45
+  0 UInt8 bytes[9] = 39
+  0 UInt8 bytes[10] = 155
+  0 UInt8 bytes[11] = 160
+  0 UInt8 bytes[12] = 68
+  0 UInt8 bytes[13] = 85
+  0 UInt8 bytes[14] = 252
+  0 UInt8 bytes[15] = 203
+ 1 string m_ClassName = "TextGradientPreset"
+ 1 string m_Namespace = "UnityEngine.TextCore"
+ 1 string m_AssemblyName = "UnityEngine.TextCoreModule.dll"

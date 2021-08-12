@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "IKExecutionOrder"
+ 0 int m_ExecutionOrder = 9996
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 38
+  0 UInt8 bytes[1] = 157
+  0 UInt8 bytes[2] = 191
+  0 UInt8 bytes[3] = 112
+  0 UInt8 bytes[4] = 208
+  0 UInt8 bytes[5] = 84
+  0 UInt8 bytes[6] = 153
+  0 UInt8 bytes[7] = 133
+  0 UInt8 bytes[8] = 241
+  0 UInt8 bytes[9] = 242
+  0 UInt8 bytes[10] = 102
+  0 UInt8 bytes[11] = 161
+  0 UInt8 bytes[12] = 242
+  0 UInt8 bytes[13] = 104
+  0 UInt8 bytes[14] = 136
+  0 UInt8 bytes[15] = 14
+ 1 string m_ClassName = "IKExecutionOrder"
+ 1 string m_Namespace = "RootMotion.FinalIK"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

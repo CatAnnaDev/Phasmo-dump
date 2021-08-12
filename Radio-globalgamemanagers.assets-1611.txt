@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "Radio"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 164
+  0 UInt8 bytes[1] = 143
+  0 UInt8 bytes[2] = 80
+  0 UInt8 bytes[3] = 50
+  0 UInt8 bytes[4] = 179
+  0 UInt8 bytes[5] = 44
+  0 UInt8 bytes[6] = 241
+  0 UInt8 bytes[7] = 28
+  0 UInt8 bytes[8] = 134
+  0 UInt8 bytes[9] = 231
+  0 UInt8 bytes[10] = 57
+  0 UInt8 bytes[11] = 211
+  0 UInt8 bytes[12] = 37
+  0 UInt8 bytes[13] = 226
+  0 UInt8 bytes[14] = 189
+  0 UInt8 bytes[15] = 94
+ 1 string m_ClassName = "Radio"
+ 1 string m_Namespace = ""
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "VRTK_HeadsetFade_UnityEvents"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 155
+  0 UInt8 bytes[1] = 97
+  0 UInt8 bytes[2] = 240
+  0 UInt8 bytes[3] = 99
+  0 UInt8 bytes[4] = 139
+  0 UInt8 bytes[5] = 95
+  0 UInt8 bytes[6] = 200
+  0 UInt8 bytes[7] = 231
+  0 UInt8 bytes[8] = 177
+  0 UInt8 bytes[9] = 195
+  0 UInt8 bytes[10] = 62
+  0 UInt8 bytes[11] = 22
+  0 UInt8 bytes[12] = 146
+  0 UInt8 bytes[13] = 91
+  0 UInt8 bytes[14] = 95
+  0 UInt8 bytes[15] = 2
+ 1 string m_ClassName = "VRTK_HeadsetFade_UnityEvents"
+ 1 string m_Namespace = "VRTK.UnityEventHelper"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

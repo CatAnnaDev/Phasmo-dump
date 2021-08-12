@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "DisabledLODGroup"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 173
+  0 UInt8 bytes[1] = 1
+  0 UInt8 bytes[2] = 45
+  0 UInt8 bytes[3] = 185
+  0 UInt8 bytes[4] = 0
+  0 UInt8 bytes[5] = 254
+  0 UInt8 bytes[6] = 119
+  0 UInt8 bytes[7] = 154
+  0 UInt8 bytes[8] = 49
+  0 UInt8 bytes[9] = 240
+  0 UInt8 bytes[10] = 171
+  0 UInt8 bytes[11] = 179
+  0 UInt8 bytes[12] = 121
+  0 UInt8 bytes[13] = 43
+  0 UInt8 bytes[14] = 84
+  0 UInt8 bytes[15] = 111
+ 1 string m_ClassName = "DisabledLODGroup"
+ 1 string m_Namespace = "MeshCombineStudio"
+ 1 string m_AssemblyName = "Assembly-CSharp.dll"

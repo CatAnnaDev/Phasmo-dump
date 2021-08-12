@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "HitReactionTrigger"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 122
+  0 UInt8 bytes[1] = 46
+  0 UInt8 bytes[2] = 120
+  0 UInt8 bytes[3] = 91
+  0 UInt8 bytes[4] = 161
+  0 UInt8 bytes[5] = 89
+  0 UInt8 bytes[6] = 154
+  0 UInt8 bytes[7] = 64
+  0 UInt8 bytes[8] = 127
+  0 UInt8 bytes[9] = 29
+  0 UInt8 bytes[10] = 157
+  0 UInt8 bytes[11] = 196
+  0 UInt8 bytes[12] = 231
+  0 UInt8 bytes[13] = 17
+  0 UInt8 bytes[14] = 47
+  0 UInt8 bytes[15] = 29
+ 1 string m_ClassName = "HitReactionTrigger"
+ 1 string m_Namespace = "RootMotion.Demos"
+ 1 string m_AssemblyName = "Assembly-CSharp-firstpass.dll"

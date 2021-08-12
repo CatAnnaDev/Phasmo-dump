@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "FontAsset"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 126
+  0 UInt8 bytes[1] = 59
+  0 UInt8 bytes[2] = 192
+  0 UInt8 bytes[3] = 73
+  0 UInt8 bytes[4] = 203
+  0 UInt8 bytes[5] = 113
+  0 UInt8 bytes[6] = 135
+  0 UInt8 bytes[7] = 41
+  0 UInt8 bytes[8] = 182
+  0 UInt8 bytes[9] = 47
+  0 UInt8 bytes[10] = 40
+  0 UInt8 bytes[11] = 160
+  0 UInt8 bytes[12] = 252
+  0 UInt8 bytes[13] = 106
+  0 UInt8 bytes[14] = 121
+  0 UInt8 bytes[15] = 149
+ 1 string m_ClassName = "FontAsset"
+ 1 string m_Namespace = "UnityEngine.TextCore"
+ 1 string m_AssemblyName = "UnityEngine.TextCoreModule.dll"

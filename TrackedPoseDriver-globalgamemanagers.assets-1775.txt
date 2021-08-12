@@ -1,0 +1,23 @@
+0 MonoScript Base
+ 1 string m_Name = "TrackedPoseDriver"
+ 0 int m_ExecutionOrder = 0
+ 0 Hash128 m_PropertiesHash
+  0 UInt8 bytes[0] = 168
+  0 UInt8 bytes[1] = 175
+  0 UInt8 bytes[2] = 203
+  0 UInt8 bytes[3] = 208
+  0 UInt8 bytes[4] = 164
+  0 UInt8 bytes[5] = 103
+  0 UInt8 bytes[6] = 221
+  0 UInt8 bytes[7] = 149
+  0 UInt8 bytes[8] = 120
+  0 UInt8 bytes[9] = 121
+  0 UInt8 bytes[10] = 149
+  0 UInt8 bytes[11] = 149
+  0 UInt8 bytes[12] = 145
+  0 UInt8 bytes[13] = 222
+  0 UInt8 bytes[14] = 194
+  0 UInt8 bytes[15] = 136
+ 1 string m_ClassName = "TrackedPoseDriver"
+ 1 string m_Namespace = "UnityEngine.InputSystem.XR"
+ 1 string m_AssemblyName = "Unity.InputSystem.dll"
